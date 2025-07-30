@@ -585,7 +585,7 @@
           "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "SW",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",

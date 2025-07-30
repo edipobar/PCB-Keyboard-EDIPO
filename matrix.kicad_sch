@@ -4233,7 +4233,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "PAGEDN"
 			(at 341.63 67.31 0)
 			(effects
 				(font
@@ -4475,7 +4475,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "E"
 			(at 118.11 67.31 0)
 			(effects
 				(font
@@ -4630,7 +4630,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "Z"
 			(at 77.47 118.11 0)
 			(effects
 				(font
@@ -4698,7 +4698,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "=+"
 			(at 300.99 41.91 0)
 			(effects
 				(font
@@ -4853,7 +4853,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "RIGHT"
 			(at 341.63 143.51 0)
 			(effects
 				(font
@@ -5008,7 +5008,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "I"
 			(at 219.71 67.31 0)
 			(effects
 				(font
@@ -5076,7 +5076,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "INSERT"
 			(at 341.63 92.71 0)
 			(effects
 				(font
@@ -5231,7 +5231,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SHIFT"
 			(at 341.63 118.11 0)
 			(effects
 				(font
@@ -5715,7 +5715,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "V"
 			(at 138.43 118.11 0)
 			(effects
 				(font
@@ -6044,7 +6044,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "\\|"
 			(at 321.31 67.31 0)
 			(effects
 				(font
@@ -6199,7 +6199,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "}]"
 			(at 300.99 67.31 0)
 			(effects
 				(font
@@ -6354,7 +6354,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SHIFT"
 			(at 57.15 118.11 0)
 			(effects
 				(font
@@ -6422,7 +6422,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "A"
 			(at 77.47 92.71 0)
 			(effects
 				(font
@@ -6577,7 +6577,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" ",<"
 			(at 219.71 118.11 0)
 			(effects
 				(font
@@ -6732,7 +6732,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "J"
 			(at 199.39 92.71 0)
 			(effects
 				(font
@@ -6800,7 +6800,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "CAPSLOCK"
 			(at 57.15 92.71 0)
 			(effects
 				(font
@@ -6955,7 +6955,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "COMMAND"
 			(at 97.79 143.51 0)
 			(effects
 				(font
@@ -7110,7 +7110,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "ALT"
 			(at 260.35 143.51 0)
 			(effects
 				(font
@@ -7420,7 +7420,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "U"
 			(at 199.39 67.31 0)
 			(effects
 				(font
@@ -7662,7 +7662,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" ".>"
 			(at 240.03 118.11 0)
 			(effects
 				(font
@@ -7904,7 +7904,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "L"
 			(at 240.03 92.71 0)
 			(effects
 				(font
@@ -8059,7 +8059,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "ENTER"
 			(at 321.31 92.71 0)
 			(effects
 				(font
@@ -8301,7 +8301,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "TAB"
 			(at 57.15 67.31 0)
 			(effects
 				(font
@@ -8369,7 +8369,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "W"
 			(at 97.79 67.31 0)
 			(effects
 				(font
@@ -8679,7 +8679,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "S"
 			(at 97.79 92.71 0)
 			(effects
 				(font
@@ -8834,7 +8834,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "[{"
 			(at 280.67 67.31 0)
 			(effects
 				(font
@@ -8902,7 +8902,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "Q"
 			(at 77.47 67.31 0)
 			(effects
 				(font
@@ -9231,7 +9231,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "UP"
 			(at 321.31 118.11 0)
 			(effects
 				(font
@@ -9560,7 +9560,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "'\""
 			(at 280.67 92.71 0)
 			(effects
 				(font
@@ -9628,7 +9628,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "F"
 			(at 138.43 92.71 0)
 			(effects
 				(font
@@ -9938,7 +9938,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "T"
 			(at 158.75 67.31 0)
 			(effects
 				(font
@@ -10596,7 +10596,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" ";:"
 			(at 260.35 92.71 0)
 			(effects
 				(font
@@ -10664,7 +10664,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "DOWN"
 			(at 321.31 143.51 0)
 			(effects
 				(font
@@ -10732,7 +10732,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "LEFT"
 			(at 300.99 143.51 0)
 			(effects
 				(font
@@ -10887,7 +10887,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "-_"
 			(at 280.67 41.91 0)
 			(effects
 				(font
@@ -11042,7 +11042,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "M"
 			(at 199.39 118.11 0)
 			(effects
 				(font
@@ -11178,7 +11178,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "CAPSLOCK"
 			(at 300.99 118.11 0)
 			(effects
 				(font
@@ -11594,7 +11594,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "B"
 			(at 158.75 118.11 0)
 			(effects
 				(font
@@ -11749,7 +11749,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "BACKSPACE"
 			(at 321.31 41.91 0)
 			(effects
 				(font
@@ -11904,7 +11904,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "K"
 			(at 219.71 92.71 0)
 			(effects
 				(font
@@ -11972,7 +11972,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "CTRL"
 			(at 57.15 143.51 0)
 			(effects
 				(font
@@ -12040,7 +12040,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "C"
 			(at 118.11 118.11 0)
 			(effects
 				(font
@@ -12108,7 +12108,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "G"
 			(at 158.75 92.71 0)
 			(effects
 				(font
@@ -12176,7 +12176,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "H"
 			(at 179.07 92.71 0)
 			(effects
 				(font
@@ -12679,7 +12679,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "O"
 			(at 240.03 67.31 0)
 			(effects
 				(font
@@ -13318,7 +13318,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "R"
 			(at 138.43 67.31 0)
 			(effects
 				(font
@@ -13386,7 +13386,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "X"
 			(at 97.79 118.11 0)
 			(effects
 				(font
@@ -13454,7 +13454,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "/?"
 			(at 260.35 118.11 0)
 			(effects
 				(font
@@ -13522,7 +13522,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "D"
 			(at 118.11 92.71 0)
 			(effects
 				(font
@@ -13590,7 +13590,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "DELETE"
 			(at 341.63 41.91 0)
 			(effects
 				(font
@@ -13658,7 +13658,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "`~"
 			(at 280.67 143.51 0)
 			(effects
 				(font
@@ -13794,7 +13794,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SPACE"
 			(at 179.07 143.51 0)
 			(effects
 				(font
@@ -13862,7 +13862,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "Y"
 			(at 179.07 67.31 0)
 			(effects
 				(font
@@ -14191,7 +14191,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "N"
 			(at 179.07 118.11 0)
 			(effects
 				(font
@@ -14259,7 +14259,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "P"
 			(at 260.35 67.31 0)
 			(effects
 				(font
@@ -14463,7 +14463,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "ALT"
 			(at 77.47 143.51 0)
 			(effects
 				(font
