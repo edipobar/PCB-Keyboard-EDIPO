@@ -6841,7 +6841,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da9458cc-795b-4874-b0a4-ae1a3dbafd86")
-		(property "Reference" "SW1"
+		(property "Reference" "SW"
 			(at 146.05 31.75 0)
 			(effects
 				(font
@@ -6899,7 +6899,7 @@
 		(instances
 			(project ""
 				(path "/8d1b740c-cc3b-4519-96ee-3a49fcc08051"
-					(reference "SW1")
+					(reference "SW")
 					(unit 1)
 				)
 			)
