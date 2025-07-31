@@ -191,7 +191,7 @@
 	(footprint "Alps_Only:ALPS-2.25U"
 		(layer "F.Cu")
 		(uuid "0671404d-eb05-4361-9a05-4dce9fa6be02")
-		(at 57.26875 -123.79375)
+		(at 85.725 -182.5625)
 		(property "Reference" "SW45"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -368,7 +368,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 53 "Net-(D45-A)")
+			(net 91 "col0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "77cbf984-2a3f-45b6-983f-7cc2b6fa109e")
@@ -379,7 +379,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 91 "col0")
+			(net 53 "Net-(D45-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "525b2512-58ed-413d-8fc8-3f90cd77613a")
@@ -389,7 +389,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "0ce80cbe-813a-4e00-b222-a9ed00151d52")
-		(at 331.1125 -123.79375)
+		(at 359.56875 -182.5625)
 		(property "Reference" "SW58"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -566,7 +566,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 67 "Net-(D58-A)")
+			(net 105 "col14")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "c5461612-c14f-4186-95d4-57e758f33724")
@@ -577,7 +577,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 105 "col14")
+			(net 67 "Net-(D58-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "83b63da1-2d6e-4685-9d8f-69e709d96b4d")
@@ -587,7 +587,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "13d30530-1f4b-40dc-8186-ff65c1447e00")
-		(at 145.375 -123.79375)
+		(at 173.83125 -182.5625)
 		(property "Reference" "SW49"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -764,7 +764,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 58 "Net-(D49-A)")
+			(net 95 "col4")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "0620fa6e-452d-4cf1-988a-78e738ac1ff5")
@@ -775,7 +775,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 95 "col4")
+			(net 58 "Net-(D49-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "6db184cd-be14-48a3-9d1b-64ad90634cfd")
@@ -785,7 +785,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "1b2d67c6-6906-4228-956d-268a8c064672")
-		(at 73.9375 -161.89375)
+		(at 102.39375 -220.6625)
 		(property "Reference" "SW17"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -962,7 +962,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 24 "Net-(D17-A)")
+			(net 92 "col1")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "d48e667d-d9b1-4769-a418-33fb07bbfb87")
@@ -973,7 +973,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 92 "col1")
+			(net 24 "Net-(D17-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "45308267-3317-4030-9b16-effc5f3b6b78")
@@ -983,7 +983,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "22f6a2c0-ef05-472f-b78f-ca969b4f292a")
-		(at 135.85 -142.84375)
+		(at 164.30625 -201.6125)
 		(property "Reference" "SW35"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -1160,7 +1160,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 43 "Net-(D35-A)")
+			(net 95 "col4")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "f87c1287-8ba8-4fdd-be2e-0f13953e3e04")
@@ -1171,7 +1171,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 95 "col4")
+			(net 43 "Net-(D35-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "bfc14c2d-7f2a-4454-bf66-146424f1b9e7")
@@ -1181,7 +1181,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "344ccffa-328b-4be8-bc1f-c60c5868fa26")
-		(at 107.275 -123.79375)
+		(at 135.73125 -182.5625)
 		(property "Reference" "SW47"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -1358,7 +1358,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 56 "Net-(D47-A)")
+			(net 93 "col2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "9429743a-fdd2-44da-a9ee-4b26f2685beb")
@@ -1369,7 +1369,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 93 "col2")
+			(net 56 "Net-(D47-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "1591430b-eaee-49bb-adec-a8b157c7cb30")
@@ -1379,7 +1379,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "35c0e82f-4287-4714-94e1-21d5f0d99f31")
-		(at 221.575 -123.79375)
+		(at 250.03125 -182.5625)
 		(property "Reference" "SW53"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -1556,7 +1556,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 62 "Net-(D53-A)")
+			(net 99 "col8")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "99435854-cd41-443d-b765-b355df660f0b")
@@ -1567,7 +1567,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 99 "col8")
+			(net 62 "Net-(D53-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "e2121609-224c-45f6-93c4-23e2b947d7ab")
@@ -1577,7 +1577,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "39d4d4b4-fab8-4706-9989-1fddeb75b68e")
-		(at 126.325 -123.79375)
+		(at 154.78125 -182.5625)
 		(property "Reference" "SW48"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -1754,7 +1754,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 57 "Net-(D48-A)")
+			(net 94 "col3")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "a78d9bc7-92bf-49b4-b89e-7d80599b28b8")
@@ -1765,7 +1765,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 94 "col3")
+			(net 57 "Net-(D48-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "1d9d7aaf-9ecb-4814-a01a-98ca49d1717e")
@@ -1775,7 +1775,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "39e2dd07-a1d8-409b-8fff-759df44e8c9f")
-		(at 312.0625 -123.79375)
+		(at 340.51875 -182.5625)
 		(property "Reference" "SW57"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -1952,7 +1952,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 66 "Net-(D57-A)")
+			(net 104 "col13")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "e312a74b-74a4-4bf9-9d47-b2cb4714ecd8")
@@ -1963,7 +1963,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 104 "col13")
+			(net 66 "Net-(D57-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "a780f9d9-fd49-4074-b69d-dd5a418b10cc")
@@ -1973,7 +1973,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "3cd830ff-5e4d-4cae-88f1-097ed57ec823")
-		(at 293.0125 -104.74375)
+		(at 321.46875 -163.5125)
 		(property "Reference" "SW65"
 			(at 0.11875 5.81875 0)
 			(layer "Dwgs.User")
@@ -2150,7 +2150,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 75 "Net-(D65-A)")
+			(net 103 "col12")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "28453a7a-72b1-479c-8f9b-0c4a309f457e")
@@ -2161,7 +2161,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 103 "col12")
+			(net 75 "Net-(D65-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "bca5f2ae-317a-48d8-8d0c-332ab7228baa")
@@ -2171,7 +2171,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "4642f7ec-48eb-421b-a863-6209463f2e6b")
-		(at 207.2875 -161.89375)
+		(at 235.74375 -220.6625)
 		(property "Reference" "SW24"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -2348,7 +2348,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 31 "Net-(D24-A)")
+			(net 99 "col8")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "3a22b702-d792-409d-96b5-958855eb91a5")
@@ -2359,7 +2359,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 99 "col8")
+			(net 31 "Net-(D24-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "c45b07bd-e931-4afd-acdd-657744fdf640")
@@ -2369,7 +2369,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "46abcb48-0c3a-4d7a-b35e-20689e84211c")
-		(at 197.7625 -180.94375)
+		(at 226.21875 -239.7125)
 		(property "Reference" "SW9"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -2546,7 +2546,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 15 "Net-(D9-A)")
+			(net 99 "col8")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "40321f4b-4314-47cc-97c1-a2a5184d4967")
@@ -2557,7 +2557,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 99 "col8")
+			(net 15 "Net-(D9-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "06347342-4957-4626-82d1-cf3cb3a41e15")
@@ -2567,7 +2567,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "4923d7b4-eda4-4389-a8c2-dc6f42792815")
-		(at 283.4875 -161.89375)
+		(at 311.94375 -220.6625)
 		(property "Reference" "SW28"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -2744,7 +2744,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 35 "Net-(D28-A)")
+			(net 103 "col12")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "1d59f3b4-58ec-44b3-9a13-d5d468e8914a")
@@ -2755,7 +2755,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 103 "col12")
+			(net 35 "Net-(D28-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "d2728977-846a-45c7-9dc8-fd5b861affe8")
@@ -2765,7 +2765,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "4adcad00-b3a5-4bb1-81ac-950e943f6b91")
-		(at 254.9125 -180.94375)
+		(at 283.36875 -239.7125)
 		(property "Reference" "SW12"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -2942,7 +2942,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 18 "Net-(D12-A)")
+			(net 102 "col11")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "1b2ad021-814c-4feb-ab85-9b6a018abc49")
@@ -2953,7 +2953,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 102 "col11")
+			(net 18 "Net-(D12-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "65398684-bf97-4335-b42e-c935530b6101")
@@ -2963,7 +2963,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "4b5eb89e-5555-4996-9da1-59c2459067a2")
-		(at 140.6125 -180.94375)
+		(at 169.06875 -239.7125)
 		(property "Reference" "SW6"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -3140,7 +3140,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 12 "Net-(D6-A)")
+			(net 96 "col5")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "7412f93e-fee8-4e51-800c-f8ddea031a71")
@@ -3151,7 +3151,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 96 "col5")
+			(net 12 "Net-(D6-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "59865b99-7419-45a3-a1c1-98656be64028")
@@ -3161,7 +3161,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "4bd73afe-c1dd-46d8-9af9-4d0350430761")
-		(at 312.0625 -104.74375)
+		(at 340.51875 -163.5125)
 		(property "Reference" "SW66"
 			(at 0.11875 5.81875 0)
 			(layer "Dwgs.User")
@@ -3338,7 +3338,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 76 "Net-(D66-A)")
+			(net 104 "col13")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "0106d67a-c9f4-4089-96e2-bd04b1a67f57")
@@ -3349,7 +3349,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 104 "col13")
+			(net 76 "Net-(D66-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "6f5d1e92-a9c8-4f5a-baed-0a0e922d5b08")
@@ -3359,7 +3359,7 @@
 	(footprint "Alps_Only:ALPS-1.25U"
 		(layer "F.Cu")
 		(uuid "670b1974-d5cb-4a15-9527-aaaa824420c5")
-		(at 76.31875 -104.74375)
+		(at 104.775 -163.5125)
 		(property "Reference" "SW60"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -3536,7 +3536,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 70 "Net-(D60-A)")
+			(net 92 "col1")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "97fb5491-7f0e-4876-9d95-99044de255d4")
@@ -3547,7 +3547,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 92 "col1")
+			(net 70 "Net-(D60-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "0b773570-2340-45a0-b3a1-6ef357088218")
@@ -3557,7 +3557,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "6b4c96bc-d97c-45fe-911d-3d45db3224fb")
-		(at 331.1125 -161.89375)
+		(at 359.56875 -220.6625)
 		(property "Reference" "SW30"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -3734,7 +3734,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 37 "Net-(D30-A)")
+			(net 105 "col14")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "62ab27ac-e3f1-4226-9db9-d621cac2b239")
@@ -3745,7 +3745,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 105 "col14")
+			(net 37 "Net-(D30-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "86db297d-1a05-4d30-95d0-5f6161b5103b")
@@ -3755,7 +3755,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "6c9a782b-906d-489f-b277-e9f33dcecc30")
-		(at 216.8125 -180.94375)
+		(at 245.26875 -239.7125)
 		(property "Reference" "SW10"
 			(at -0.11875 3.14375 -0)
 			(layer "Dwgs.User")
@@ -3932,7 +3932,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 16 "Net-(D10-A)")
+			(net 100 "col9")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "8b78cfda-8f19-4a9c-b007-04498b13532b")
@@ -3943,7 +3943,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 100 "col9")
+			(net 16 "Net-(D10-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "9ef58a37-22b0-4be8-bfbc-c702e080d6e8")
@@ -3953,7 +3953,7 @@
 	(footprint "Alps_Only:ALPS-1.75U"
 		(layer "F.Cu")
 		(uuid "72131d8f-741e-419f-a9af-51698f130359")
-		(at 52.50625 -142.84375)
+		(at 80.9625 -201.6125)
 		(property "Reference" "SW31"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -4130,7 +4130,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 38 "Net-(D31-A)")
+			(net 91 "col0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "e1d828b5-ad90-4b03-a136-7de083551a9a")
@@ -4141,7 +4141,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 91 "col0")
+			(net 38 "Net-(D31-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "cc9142bb-c0d5-4fc3-89a9-026a13f04f9b")
@@ -4151,7 +4151,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "72be641a-80ef-4238-8a95-034c72fa7f7b")
-		(at 193 -142.84375)
+		(at 221.45625 -201.6125)
 		(property "Reference" "SW38"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -4328,7 +4328,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 46 "Net-(D38-A)")
+			(net 98 "col7")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "c5affeb6-242b-49b3-aa81-adc703f7c620")
@@ -4339,7 +4339,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 98 "col7")
+			(net 46 "Net-(D38-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "fc42bc83-fd6a-4731-9368-aea06324f561")
@@ -4349,7 +4349,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "7427dba6-8cbc-473c-9b4c-6a22093021bf")
-		(at 331.1125 -104.74375)
+		(at 359.56875 -163.5125)
 		(property "Reference" "SW67"
 			(at 0.11875 5.81875 0)
 			(layer "Dwgs.User")
@@ -4526,7 +4526,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 77 "Net-(D67-A)")
+			(net 105 "col14")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "a9c1fe92-2784-4829-bf04-ce2b0d7f8e07")
@@ -4537,7 +4537,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 105 "col14")
+			(net 77 "Net-(D67-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "63e4e7ca-5df9-4fee-a8fd-b06eb2ef25dc")
@@ -4547,7 +4547,7 @@
 	(footprint "Alps_Only:ALPS-1.5U"
 		(layer "F.Cu")
 		(uuid "770c8365-60d6-4b3e-9d9c-ba584794878a")
-		(at 50.125 -104.74375)
+		(at 78.58125 -163.5125)
 		(property "Reference" "SW59"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -4724,7 +4724,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 68 "Net-(D59-A)")
+			(net 91 "col0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "e9b19f38-8961-4f93-931d-b62113f04136")
@@ -4735,7 +4735,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 91 "col0")
+			(net 68 "Net-(D59-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "44048dd2-83a9-44b8-844f-0a969c1ea25f")
@@ -4745,7 +4745,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "7725f470-dff7-458c-921f-cffeef705c44")
-		(at 178.7125 -180.94375)
+		(at 207.16875 -239.7125)
 		(property "Reference" "SW8"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -4922,7 +4922,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 14 "Net-(D8-A)")
+			(net 98 "col7")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "f3a7cfa1-57b3-4f45-9a9c-986e871039eb")
@@ -4933,7 +4933,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 98 "col7")
+			(net 14 "Net-(D8-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "dd99411d-6882-41ff-a450-61f473d6a15a")
@@ -4943,7 +4943,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "78bf9a1c-2d07-45e9-99a1-0f533dd3e6fc")
-		(at 235.8625 -180.94375)
+		(at 264.31875 -239.7125)
 		(property "Reference" "SW11"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -5120,7 +5120,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 17 "Net-(D11-A)")
+			(net 101 "col10")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "60b888d6-4612-4fd1-b26d-3a9f797ec3a3")
@@ -5131,7 +5131,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 101 "col10")
+			(net 17 "Net-(D11-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "ac11c101-3b85-41a0-a3fa-6ed726894ff1")
@@ -5141,7 +5141,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "79f3eb6a-7f17-4091-ba23-833ed6fbd870")
-		(at 331.1125 -180.94375)
+		(at 359.56875 -239.7125)
 		(property "Reference" "SW15"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -5318,7 +5318,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 21 "Net-(D15-A)")
+			(net 105 "col14")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "c5e3194d-9dd8-4fed-af15-9c84d0a61d28")
@@ -5329,7 +5329,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 105 "col14")
+			(net 21 "Net-(D15-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "1477fdf4-604e-4782-be4f-16ab30b12e49")
@@ -5339,7 +5339,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "895f03df-a8fa-4bcf-a500-a0e25bde4954")
-		(at 102.5125 -180.94375)
+		(at 130.96875 -239.7125)
 		(property "Reference" "SW4"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -5516,7 +5516,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 10 "Net-(D4-A)")
+			(net 94 "col3")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "c9598d2e-a049-4a0e-95f0-dcf9edb58a1b")
@@ -5527,7 +5527,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 94 "col3")
+			(net 10 "Net-(D4-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "b6b0ada4-cf34-4ad9-864c-9c9bc73f9490")
@@ -5537,7 +5537,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "8a6cb2e1-581e-4ca0-9ee7-9fb9661e5db1")
-		(at 202.525 -123.79375)
+		(at 230.98125 -182.5625)
 		(property "Reference" "SW52"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -5714,7 +5714,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 61 "Net-(D52-A)")
+			(net 98 "col7")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "9cb521e1-11af-4a22-8394-030938b2d349")
@@ -5725,7 +5725,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 98 "col7")
+			(net 61 "Net-(D52-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "786841b4-c9da-4d1f-99ed-fe4a573c7090")
@@ -5735,7 +5735,7 @@
 	(footprint "Alps_Only:ALPS-2.25U"
 		(layer "F.Cu")
 		(uuid "8bddb9e2-ef83-4855-8955-b1a201739de0")
-		(at 300.15625 -142.84375)
+		(at 328.6125 -201.6125)
 		(property "Reference" "SW43"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -5912,7 +5912,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 51 "Net-(D43-A)")
+			(net 104 "col13")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "2100d605-25e2-4fb8-83bf-43ef724d3be9")
@@ -5923,7 +5923,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 104 "col13")
+			(net 51 "Net-(D43-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "2ac30911-11d4-451a-b659-90c19072cbec")
@@ -5933,7 +5933,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "8e40d25c-7bf4-4734-8f46-384571c034a7")
-		(at 250.15 -142.84375)
+		(at 278.60625 -201.6125)
 		(property "Reference" "SW41"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -6110,7 +6110,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 49 "Net-(D41-A)")
+			(net 101 "col10")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "c56d1e5e-4969-4602-a222-f9bac47d322b")
@@ -6121,7 +6121,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 101 "col10")
+			(net 49 "Net-(D41-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "1e9bef0f-7f65-4949-b6b9-cf6d0654d2ee")
@@ -6131,7 +6131,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "93686d40-b0ec-4e16-bdca-d14f46eeac71")
-		(at 264.4375 -161.89375)
+		(at 292.89375 -220.6625)
 		(property "Reference" "SW27"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -6308,7 +6308,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 34 "Net-(D27-A)")
+			(net 102 "col11")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "2e687566-abfd-497b-b5d9-03d059540d41")
@@ -6319,7 +6319,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 102 "col11")
+			(net 34 "Net-(D27-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "f53d85aa-4d5e-4fac-864a-aa5cfa410b7b")
@@ -6329,7 +6329,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "94e7e08b-f1b1-4118-8516-592f84d466b5")
-		(at 273.9625 -104.74375)
+		(at 302.41875 -163.5125)
 		(property "Reference" "SW64"
 			(at 0.11875 5.81875 0)
 			(layer "Dwgs.User")
@@ -6506,7 +6506,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 74 "Net-(D64-A)")
+			(net 102 "col11")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "1f9a93d9-33a6-4e6e-96fe-63645ad6e4a1")
@@ -6517,7 +6517,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 102 "col11")
+			(net 74 "Net-(D64-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "bddca8e1-46ac-4020-8155-8d1969f51cc3")
@@ -6527,7 +6527,7 @@
 	(footprint "Alps_Only:ALPS-1.5U"
 		(layer "F.Cu")
 		(uuid "990f2d2e-4ef6-4183-98b9-c7dd95808a9f")
-		(at 307.3 -161.89375)
+		(at 335.75625 -220.6625)
 		(property "Reference" "SW29"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -6704,7 +6704,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 36 "Net-(D29-A)")
+			(net 104 "col13")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "d437ab3a-e504-4ded-9e37-af40800640b5")
@@ -6715,7 +6715,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 104 "col13")
+			(net 36 "Net-(D29-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "11d40cf6-7e56-4ab7-8162-9504953db812")
@@ -6725,7 +6725,7 @@
 	(footprint "Alps_Only:ALPS-1.5U"
 		(layer "F.Cu")
 		(uuid "a1523a09-89ca-4d60-bf59-1b0119c5a749")
-		(at 102.5125 -104.74375)
+		(at 130.96875 -163.5125)
 		(property "Reference" "SW61"
 			(at 0.11875 5.81875 0)
 			(layer "Dwgs.User")
@@ -6902,7 +6902,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 71 "Net-(D61-A)")
+			(net 93 "col2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "209edf94-50d8-41e0-92d6-454d97dcaa7f")
@@ -6913,7 +6913,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 93 "col2")
+			(net 71 "Net-(D61-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "e00a6554-c7ff-44bf-924e-b8d488926050")
@@ -6923,7 +6923,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "a15dd0dd-3892-44eb-95d3-93b892ba31e2")
-		(at 131.0875 -161.89375)
+		(at 159.54375 -220.6625)
 		(property "Reference" "SW20"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -7100,7 +7100,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 27 "Net-(D20-A)")
+			(net 95 "col4")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "4b2f2a4a-de6d-4114-b6aa-eef26cdeff50")
@@ -7111,7 +7111,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 95 "col4")
+			(net 27 "Net-(D20-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "b9301dd1-af2e-4622-bebd-2533fef2c489")
@@ -7121,7 +7121,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "a4f9339e-88c0-428a-a2cc-732c8537f0ae")
-		(at 169.1875 -161.89375)
+		(at 197.64375 -220.6625)
 		(property "Reference" "SW22"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -7298,7 +7298,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 29 "Net-(D22-A)")
+			(net 97 "col6")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "938fd50a-8b1d-41d8-85fb-5bbca8fd282b")
@@ -7309,7 +7309,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 97 "col6")
+			(net 29 "Net-(D22-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "3af739db-0e70-47b5-9523-649f03567877")
@@ -7319,7 +7319,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "a69de865-1c1b-48a2-92f2-fb0e49b327cf")
-		(at 78.7 -142.84375)
+		(at 107.15625 -201.6125)
 		(property "Reference" "SW32"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -7496,7 +7496,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 40 "Net-(D32-A)")
+			(net 92 "col1")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "6689b7d0-69eb-4d3d-8743-37cc34a84417")
@@ -7507,7 +7507,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 92 "col1")
+			(net 40 "Net-(D32-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "473ec52c-6d6f-48e6-9c76-046dc6fd15f4")
@@ -7517,7 +7517,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "a6a7ec24-bf3d-441e-baf7-5d7880425a7a")
-		(at 245.3875 -161.89375)
+		(at 273.84375 -220.6625)
 		(property "Reference" "SW26"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -7694,7 +7694,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 33 "Net-(D26-A)")
+			(net 101 "col10")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "3e35d54f-87fc-4406-ba02-1987c98dfb89")
@@ -7705,7 +7705,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 101 "col10")
+			(net 33 "Net-(D26-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "954751b3-727a-49f5-89f0-8b7040a4046f")
@@ -7715,7 +7715,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "aa98514f-4e76-4a0e-b2e4-9dfaf5c8af55")
-		(at 112.0375 -161.89375)
+		(at 140.49375 -220.6625)
 		(property "Reference" "SW19"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -7892,7 +7892,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 26 "Net-(D19-A)")
+			(net 94 "col3")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "edcf235d-f0cd-4338-9de6-c5fc11d1746d")
@@ -7903,7 +7903,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 94 "col3")
+			(net 26 "Net-(D19-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "134cf5f5-44e8-4849-b5b9-1c42e3b82b1d")
@@ -7913,7 +7913,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "abe5ad22-fc94-4d1a-88f8-bf87e9052f6c")
-		(at 121.5625 -180.94375)
+		(at 150.01875 -239.7125)
 		(property "Reference" "SW5"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -8090,7 +8090,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 11 "Net-(D5-A)")
+			(net 95 "col4")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "9f485311-78f2-4788-abd0-f0a6a98194ba")
@@ -8101,7 +8101,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 95 "col4")
+			(net 11 "Net-(D5-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "0e3f3fea-abc9-4dd2-b43f-2fb31202515e")
@@ -8111,7 +8111,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "af4f2086-2502-4482-839d-e6bf8654bd8e")
-		(at 188.2375 -161.89375)
+		(at 216.69375 -220.6625)
 		(property "Reference" "SW23"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -8288,7 +8288,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 30 "Net-(D23-A)")
+			(net 98 "col7")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "921085cf-9de9-4e2b-911d-888123abd006")
@@ -8299,7 +8299,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 98 "col7")
+			(net 30 "Net-(D23-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "3a5c43a6-3718-45e2-9848-225030dab119")
@@ -8309,7 +8309,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "b1c7597d-2ee5-4233-956b-ed40f73c75f5")
-		(at 164.425 -123.79375)
+		(at 192.88125 -182.5625)
 		(property "Reference" "SW50"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -8486,7 +8486,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 59 "Net-(D50-A)")
+			(net 96 "col5")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "f16bfb42-157d-4349-8531-773c3e39e792")
@@ -8497,7 +8497,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 96 "col5")
+			(net 59 "Net-(D50-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "302ad206-cbc6-4061-ae2e-0195d3da5701")
@@ -8507,7 +8507,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "b27dddf2-4a25-4805-937c-14abdefc865b")
-		(at 273.9625 -180.94375)
+		(at 302.41875 -239.7125)
 		(property "Reference" "SW13"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -8684,7 +8684,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 19 "Net-(D13-A)")
+			(net 103 "col12")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "3a6dc404-aa3e-4555-83a3-1ee6863a5c3b")
@@ -8695,7 +8695,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 103 "col12")
+			(net 19 "Net-(D13-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "4cba9b84-f454-4ea7-8765-c29d144974b7")
@@ -8705,7 +8705,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "b2d754b2-76df-40d2-8c4e-432b0bf73857")
-		(at 92.9875 -161.89375)
+		(at 121.44375 -220.6625)
 		(property "Reference" "SW18"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -8882,7 +8882,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 25 "Net-(D18-A)")
+			(net 93 "col2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "9331975f-ad71-4c18-b63f-2e48ac61b17a")
@@ -8893,7 +8893,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 93 "col2")
+			(net 25 "Net-(D18-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "a7c0151a-0e8d-453c-9fc6-59bc5b853269")
@@ -8903,7 +8903,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "b4c74cc2-dc81-4b24-8130-bbb9d73a9bf4")
-		(at 64.4125 -180.94375)
+		(at 92.86875 -239.7125)
 		(property "Reference" "SW2"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -9080,7 +9080,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 8 "Net-(D2-A)")
+			(net 92 "col1")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "700c0d3b-21de-4d48-9a85-4f128c004f4f")
@@ -9091,7 +9091,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 92 "col1")
+			(net 8 "Net-(D2-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "a010e2fd-5735-4d2b-8eb6-1f57eb8cb51d")
@@ -9101,7 +9101,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "b543c442-3472-4716-88c9-e336621e11d4")
-		(at 45.3625 -180.94375)
+		(at 73.81875 -239.7125)
 		(property "Reference" "SW1"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -9278,7 +9278,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 7 "Net-(D1-A)")
+			(net 91 "col0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "b451a858-d2c9-4a80-b690-5e9b59d34759")
@@ -9289,7 +9289,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 91 "col0")
+			(net 7 "Net-(D1-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "698c5203-b01e-4b64-beb8-2577a0d4b59a")
@@ -9299,7 +9299,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "b9699bfe-b9f2-42cf-ab33-c165dd48993d")
-		(at 116.8 -142.84375)
+		(at 145.25625 -201.6125)
 		(property "Reference" "SW34"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -9476,7 +9476,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 42 "Net-(D34-A)")
+			(net 94 "col3")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "24735190-2724-4982-8ec8-51ba54617822")
@@ -9487,7 +9487,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 94 "col3")
+			(net 42 "Net-(D34-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "6b632cd5-aba0-4130-bf47-e0b91e4b2e4c")
@@ -9497,7 +9497,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "c65a94d2-8451-4156-a207-022cc400b03a")
-		(at 240.625 -123.79375)
+		(at 269.08125 -182.5625)
 		(property "Reference" "SW54"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -9674,7 +9674,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 63 "Net-(D54-A)")
+			(net 100 "col9")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "6e5fda90-25af-46f9-96e2-9e6d5be40429")
@@ -9685,7 +9685,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 100 "col9")
+			(net 63 "Net-(D54-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "5714bee0-abc5-4e93-a8b8-580e16abc975")
@@ -9695,7 +9695,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "c91a95c1-4884-444c-b625-45c1d6fa3c85")
-		(at 231.1 -142.84375)
+		(at 259.55625 -201.6125)
 		(property "Reference" "SW40"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -9872,7 +9872,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 48 "Net-(D40-A)")
+			(net 100 "col9")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "7feffb2a-1b3a-48c7-8a46-6883ef967cfd")
@@ -9883,7 +9883,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 100 "col9")
+			(net 48 "Net-(D40-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "8eb9aee7-d259-48ef-876a-1bba36318f35")
@@ -9893,7 +9893,7 @@
 	(footprint "Alps_Only:ALPS-1.75U"
 		(layer "F.Cu")
 		(uuid "c93a3e83-4986-464a-9b64-9296cfc97319")
-		(at 285.86875 -123.79375)
+		(at 314.325 -182.5625)
 		(property "Reference" "SW56"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -10070,7 +10070,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 65 "Net-(D56-A)")
+			(net 103 "col12")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "2530820f-7d2e-49ac-b8e8-84f4ca149c63")
@@ -10081,7 +10081,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 103 "col12")
+			(net 65 "Net-(D56-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "0f0388bc-a64a-49da-aa48-ce8546334ed4")
@@ -10091,7 +10091,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "cad12dee-7b05-4272-9281-14bf965d3a76")
-		(at 173.95 -142.84375)
+		(at 202.40625 -201.6125)
 		(property "Reference" "SW37"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -10268,7 +10268,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 45 "Net-(D37-A)")
+			(net 97 "col6")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "2fca3823-f89d-4f32-8706-f62e1e24a5d9")
@@ -10279,7 +10279,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 97 "col6")
+			(net 45 "Net-(D37-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "dbae8714-83dc-412b-bb31-90ca0df483e3")
@@ -10289,7 +10289,7 @@
 	(footprint "Alps_Only:ALPS-1.25U"
 		(layer "F.Cu")
 		(uuid "cce59ac3-9efc-4435-aa2f-429d9b934eea")
-		(at 252.53125 -104.74375)
+		(at 280.9875 -163.5125)
 		(property "Reference" "SW63"
 			(at 0.11875 5.81875 0)
 			(layer "Dwgs.User")
@@ -10466,7 +10466,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 73 "Net-(D63-A)")
+			(net 101 "col10")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "b0d7a6f0-4162-4aca-b906-38d5031936fd")
@@ -10477,7 +10477,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 101 "col10")
+			(net 73 "Net-(D63-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "32762a5c-bd9b-4562-a300-1db18f40d615")
@@ -10487,7 +10487,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "d44a51d2-319c-4d33-bad0-ec7309dc55d2")
-		(at 226.3375 -161.89375)
+		(at 254.79375 -220.6625)
 		(property "Reference" "SW25"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -10664,7 +10664,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 32 "Net-(D25-A)")
+			(net 100 "col9")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "1e99dc45-8885-4e2f-a481-9fb09457868a")
@@ -10675,7 +10675,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 100 "col9")
+			(net 32 "Net-(D25-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "db17a316-b264-4674-b2bf-647c4c36dbb1")
@@ -10685,7 +10685,7 @@
 	(footprint "Alps_Only:ALPS-6.5U"
 		(layer "F.Cu")
 		(uuid "d4e2bfd2-2dc5-425b-ba07-605fc806be63")
-		(at 178.7125 -104.74375)
+		(at 207.16875 -163.5125)
 		(property "Reference" "SW62"
 			(at 0.11875 5.81875 0)
 			(layer "Dwgs.User")
@@ -10862,7 +10862,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 72 "Net-(D62-A)")
+			(net 97 "col6")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "fec03171-69ea-4b69-8826-9c7ec3e3e648")
@@ -10873,7 +10873,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 97 "col6")
+			(net 72 "Net-(D62-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "9abcc18a-df67-43c2-973f-4d3e6d04deb1")
@@ -10883,7 +10883,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "d708d85b-be2d-4a38-8bb3-579717b28e6c")
-		(at 269.2 -142.84375)
+		(at 297.65625 -201.6125)
 		(property "Reference" "SW42"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -11060,7 +11060,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 50 "Net-(D42-A)")
+			(net 102 "col11")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "3d666709-9031-45e7-b9e0-e134f90f7a42")
@@ -11071,7 +11071,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 102 "col11")
+			(net 50 "Net-(D42-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "adc81c7a-8d7c-4d36-9d87-db88d40e8551")
@@ -11081,7 +11081,7 @@
 	(footprint "Alps_Only:ALPS-1.5U"
 		(layer "F.Cu")
 		(uuid "d7e4e3d2-4f67-4511-b369-82ca9d103669")
-		(at 50.125 -161.89375)
+		(at 78.58125 -220.6625)
 		(property "Reference" "SW16"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -11258,7 +11258,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 22 "Net-(D16-A)")
+			(net 91 "col0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "72314cb4-831d-4756-a551-3a4771e0107a")
@@ -11269,7 +11269,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 91 "col0")
+			(net 22 "Net-(D16-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "909e1f1d-1c02-4fb7-99f9-e0603b2df04b")
@@ -11279,7 +11279,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "d87d9a85-c85a-45c6-a591-1269bcccc08a")
-		(at 212.05 -142.84375)
+		(at 240.50625 -201.6125)
 		(property "Reference" "SW39"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -11456,7 +11456,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 47 "Net-(D39-A)")
+			(net 99 "col8")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "7b112a6c-bdd9-43f7-b929-06d2ecb61ac3")
@@ -11467,7 +11467,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 99 "col8")
+			(net 47 "Net-(D39-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "1f88ca88-2a34-4696-9955-000610163f62")
@@ -11477,7 +11477,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "e6033ca6-2845-49ea-a321-10fc33d3f314")
-		(at 83.4625 -180.94375)
+		(at 111.91875 -239.7125)
 		(property "Reference" "SW3"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -11654,7 +11654,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 9 "Net-(D3-A)")
+			(net 93 "col2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "f62b31e3-6ebf-49bf-81ab-4ad5ccac1555")
@@ -11665,7 +11665,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 93 "col2")
+			(net 9 "Net-(D3-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "a50a817b-ca5a-4ee4-83af-463c3561f6dc")
@@ -11675,7 +11675,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "e7a1bb84-ac62-42c7-827a-3b8897dc4d04")
-		(at 97.75 -142.84375)
+		(at 126.20625 -201.6125)
 		(property "Reference" "SW33"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -11852,7 +11852,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 41 "Net-(D33-A)")
+			(net 93 "col2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "1acabdeb-a71a-45e2-9d3c-43a92a32e5ab")
@@ -11863,7 +11863,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 93 "col2")
+			(net 41 "Net-(D33-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "c126228e-c242-4567-a5d0-e8fb991a0e66")
@@ -11873,7 +11873,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "efbcc657-fa44-4e88-84e9-3b051daa8038")
-		(at 159.6625 -180.94375)
+		(at 188.11875 -239.7125)
 		(property "Reference" "SW7"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -12050,7 +12050,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 13 "Net-(D7-A)")
+			(net 97 "col6")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "568778f4-574d-4a1c-af5a-6548e17ba08b")
@@ -12061,7 +12061,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 97 "col6")
+			(net 13 "Net-(D7-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "64c44349-377b-42bd-b54b-91a3884d6dc5")
@@ -12071,7 +12071,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "f024e02f-8bed-43a1-9700-859c71884b60")
-		(at 154.9 -142.84375)
+		(at 183.35625 -201.6125)
 		(property "Reference" "SW36"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -12248,7 +12248,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 44 "Net-(D36-A)")
+			(net 96 "col5")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "673cb10c-dde7-4b3d-9351-967d0c9affb9")
@@ -12259,7 +12259,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 96 "col5")
+			(net 44 "Net-(D36-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "3414b1be-3ff9-47ff-9a5e-e58fff2eef6d")
@@ -12269,7 +12269,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "f08f0024-65c2-4b76-9459-83980826b5c5")
-		(at 150.1375 -161.89375)
+		(at 178.59375 -220.6625)
 		(property "Reference" "SW21"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -12446,7 +12446,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 28 "Net-(D21-A)")
+			(net 96 "col5")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "5ed9adf9-7d36-4f78-a771-2c79b49334c9")
@@ -12457,7 +12457,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 96 "col5")
+			(net 28 "Net-(D21-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "8f44103b-fb7d-4223-97bf-ff285ed567af")
@@ -12467,7 +12467,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "f3048ccf-57c1-47a9-8240-01f3c63e1b77")
-		(at 88.225 -123.79375)
+		(at 116.68125 -182.5625)
 		(property "Reference" "SW46"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -12644,7 +12644,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 55 "Net-(D46-A)")
+			(net 92 "col1")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "6b444c05-e60d-41e3-a81d-8a460ca6fcda")
@@ -12655,7 +12655,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 92 "col1")
+			(net 55 "Net-(D46-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "9a8109bc-903d-47d9-8691-1e9517629c9c")
@@ -12665,7 +12665,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "f677775a-430d-4871-9d97-08d296cc561c")
-		(at 183.475 -123.79375)
+		(at 211.93125 -182.5625)
 		(property "Reference" "SW51"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -12842,7 +12842,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 60 "Net-(D51-A)")
+			(net 97 "col6")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "494c0903-c04e-4227-b94d-dadd9377332d")
@@ -12853,7 +12853,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 97 "col6")
+			(net 60 "Net-(D51-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "756ae7c8-3858-418e-9681-4f17a2589dfc")
@@ -12863,7 +12863,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "f6d30af8-5e32-4003-ad5d-876524a5ed7e")
-		(at 331.1125 -142.84375)
+		(at 359.56875 -201.6125)
 		(property "Reference" "SW44"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -13040,7 +13040,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 52 "Net-(D44-A)")
+			(net 105 "col14")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "b9a8ba93-fe06-47dc-9d4c-17c0a91e0fcd")
@@ -13051,7 +13051,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 105 "col14")
+			(net 52 "Net-(D44-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "744d078a-f102-40ea-8d11-635575b0f73b")
@@ -13061,7 +13061,7 @@
 	(footprint "Alps_Only:ALPS-1U"
 		(layer "F.Cu")
 		(uuid "fc284e9c-22e8-4e72-a3fc-063a4461d971")
-		(at 259.675 -123.79375)
+		(at 288.13125 -182.5625)
 		(property "Reference" "SW55"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -13238,7 +13238,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 64 "Net-(D55-A)")
+			(net 101 "col10")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "6c6d2f33-0b5f-48bf-9556-951b3196d56f")
@@ -13249,7 +13249,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 101 "col10")
+			(net 64 "Net-(D55-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "114942a2-7600-433d-a2cc-bc92f208e7d8")
@@ -13259,7 +13259,7 @@
 	(footprint "Alps_Only:ALPS-2U"
 		(layer "F.Cu")
 		(uuid "fc7a5e69-1714-4871-bca1-2f67de2cfc80")
-		(at 302.5375 -180.94375)
+		(at 330.99375 -239.7125)
 		(property "Reference" "SW14"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -13436,7 +13436,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 20 "Net-(D14-A)")
+			(net 104 "col13")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "c206e3e8-5b77-4198-988f-19437e95a879")
@@ -13447,7 +13447,7 @@
 			(drill 1.47)
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
-			(net 104 "col13")
+			(net 20 "Net-(D14-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "12d23e38-ffa7-4459-862c-9c53c526f2d9")
@@ -13457,7 +13457,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "09a39eb9-dc4c-43ca-8cb4-288687d7cade")
-		(at 105.325 133.6825 180)
+		(at 194.1724 -134.63495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D5"
@@ -13773,11 +13773,11 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "09bdff7d-93a9-4c5e-af7b-4de2888ce816")
-		(at 106.94125 181.67 180)
+		(at 254.56425 -135.117 180)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R2"
-			(at -24.9625 14.45625 0)
+			(at 0 1.7202 0)
 			(layer "B.SilkS")
 			(uuid "8a260d3f-635b-450d-9e31-bdd18c652da7")
 			(effects
@@ -13977,7 +13977,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "0b35b16d-4f96-49ec-bce3-576d5da45b6b")
-		(at 99.53 140.3825 180)
+		(at 188.3774 -127.93495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D19"
@@ -14293,7 +14293,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "0f2f46f3-a09c-4172-9674-2463ad91d058")
-		(at 93.735 143.7325 180)
+		(at 182.5824 -124.58495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D32"
@@ -14609,7 +14609,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "0f877306-716e-4321-a642-903280717a84")
-		(at 82.145 143.7325 180)
+		(at 170.9924 -124.58495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D56"
@@ -14925,7 +14925,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "106be984-f18f-4e78-bdbd-324d0031983c")
-		(at 82.145 147.0825 180)
+		(at 170.9924 -121.23495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D57"
@@ -15241,7 +15241,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "17e6bf21-10b9-42f0-8569-18a7a658b57b")
-		(at 106.94125 184.62 180)
+		(at 254.56425 -132.167 180)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R3"
@@ -15445,7 +15445,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "1a116d5f-d935-472f-8d8b-ff1458bbc8b3")
-		(at 99.53 126.9825 180)
+		(at 188.3774 -141.33495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D15"
@@ -15761,7 +15761,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "218f4d2a-ea3e-4b1f-a842-707b244dc12b")
-		(at 93.735 120.2825 180)
+		(at 182.5824 -148.03495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D25"
@@ -16077,7 +16077,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "234bb8a4-fee4-43a8-834a-020036f35ce8")
-		(at 99.53 147.0825 180)
+		(at 188.3774 -121.23495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D21"
@@ -16393,7 +16393,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "273a67e7-363f-4ac3-abb4-b1c21f9df5e0")
-		(at 76.35 133.6825 180)
+		(at 165.1974 -134.63495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D65"
@@ -16709,11 +16709,11 @@
 	(footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm"
 		(layer "B.Cu")
 		(uuid "28bc6f9d-feba-4a95-a142-9ea9368a9bba")
-		(at 97.39125 184.42 180)
+		(at 233.11615 -129.3462 180)
 		(descr "TQFP, 44 Pin (JEDEC MS-026 variation ACB, https://www.jedec.org/document_search?search_api_views_fulltext=MS-026, https://ww1.microchip.com/downloads/en/PackagingSpec/00000049BZ.pdf#page=658), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "TQFP QFP")
 		(property "Reference" "U1"
-			(at -24.9625 20.15625 0)
+			(at 0 7.4202 0)
 			(layer "B.SilkS")
 			(uuid "70fef61a-5e70-4e66-bb17-6c7add565881")
 			(effects
@@ -17577,7 +17577,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "28e885bf-1d55-495b-b2b1-5122ca0ef8c3")
-		(at 111.72125 184.77 180)
+		(at 259.34425 -132.017 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C3"
@@ -17781,7 +17781,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "28f157a9-e74d-402f-b09a-df238bd15b11")
-		(at 93.735 140.3825 180)
+		(at 182.5824 -127.93495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D31"
@@ -18097,7 +18097,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "29f64d6c-eb71-455c-91da-1750e56be9d0")
-		(at 87.94 133.6825 180)
+		(at 176.7874 -134.63495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D41"
@@ -18413,7 +18413,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "2aff3b42-3801-45f7-817e-005925c5c0dc")
-		(at 76.35 126.9825 180)
+		(at 165.1974 -141.33495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D63"
@@ -18729,7 +18729,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "2e8120ef-0caa-4557-b23e-4ea9ef4dbdba")
-		(at 105.325 120.2825 180)
+		(at 194.1724 -148.03495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D1"
@@ -19045,7 +19045,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "3069cf79-448e-46fa-babb-0d913a6f2df7")
-		(at 82.145 150.4325 180)
+		(at 170.9924 -117.88495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D58"
@@ -19361,7 +19361,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "335f7569-ef0c-4aeb-a004-1c3161f067f4")
-		(at 105.325 157.1325 180)
+		(at 194.1724 -111.18495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D12"
@@ -19677,7 +19677,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "3378e63d-e207-4867-8541-bd9181496b41")
-		(at 93.735 133.6825 180)
+		(at 182.5824 -134.63495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D29"
@@ -19993,7 +19993,7 @@
 	(footprint "random-keyboard-parts:SOT143B"
 		(layer "B.Cu")
 		(uuid "3556f0d9-b7ef-4c33-8ad5-bc8329125a96")
-		(at 107.29125 196.97 180)
+		(at 254.91425 -119.817 180)
 		(property "Reference" "U2"
 			(at 0 -2.45 0)
 			(layer "B.SilkS")
@@ -20240,7 +20240,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "3ba7b854-459f-478c-890d-0e66263706b9")
-		(at 82.145 120.2825 180)
+		(at 170.9924 -148.03495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D49"
@@ -20556,7 +20556,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "3c008b4e-3c28-4544-bc43-1faa86291282")
-		(at 99.53 143.7325 180)
+		(at 188.3774 -124.58495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D20"
@@ -20872,7 +20872,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "3e80abd2-dd57-43a8-89e4-72a6704d4942")
-		(at 99.53 120.2825 180)
+		(at 188.3774 -148.03495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D13"
@@ -21188,7 +21188,7 @@
 	(footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "41030e8e-825a-4607-b736-c5fe36f5e4c5")
-		(at 90.95125 200 180)
+		(at 226.67615 -113.7662 180)
 		(descr "Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse handsolder")
 		(property "Reference" "F1"
@@ -21392,7 +21392,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "43e7f5b3-7bf3-4519-b28b-2133646662c6")
-		(at 87.94 123.6325 180)
+		(at 176.7874 -144.68495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D38"
@@ -21708,7 +21708,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "4446ae40-ab22-43d7-ba96-a90377ab5fa2")
-		(at 93.735 157.1325 180)
+		(at 182.5824 -111.18495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D36"
@@ -22024,7 +22024,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "4674fa98-2362-4990-a368-063bd85d9498")
-		(at 99.53 153.7825 180)
+		(at 188.3774 -114.53495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D23"
@@ -22340,7 +22340,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "46dca544-c04d-46ae-8105-dd57bc425ada")
-		(at 111.72125 193.8 180)
+		(at 259.34425 -122.987 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C6"
@@ -22544,11 +22544,11 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "4988f5b6-eb6e-4771-a5a0-0bce20e67818")
-		(at 111.72125 181.76 180)
+		(at 259.34425 -135.027 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C2"
-			(at -24.9625 14.48625 0)
+			(at 0 1.7502 0)
 			(layer "B.SilkS")
 			(uuid "6743483f-c371-404e-8e39-2ebaec4ace28")
 			(effects
@@ -22748,7 +22748,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "4a0ed28d-ebfa-4f04-8a8d-77f1a43b1752")
-		(at 82.145 140.3825 180)
+		(at 170.9924 -127.93495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D55"
@@ -23064,7 +23064,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "4ccb95b5-81e7-4836-8ddb-40f50c1a1a95")
-		(at 87.94 137.0325 180)
+		(at 176.7874 -131.28495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D42"
@@ -23380,7 +23380,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "5040d584-d540-45d5-af15-fedffbfe9cba")
-		(at 111.72125 190.79 180)
+		(at 259.34425 -125.997 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C5"
@@ -23584,7 +23584,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "516548ef-b325-43d9-97d4-533a06f69d91")
-		(at 87.94 130.3325 180)
+		(at 176.7874 -137.98495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D40"
@@ -23900,7 +23900,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "5255b5ab-bbf9-41cd-989b-4f42d6d8a3a5")
-		(at 87.94 120.2825 180)
+		(at 176.7874 -148.03495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D37"
@@ -24216,7 +24216,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "54ed64cd-e28e-45a0-8b03-084bf09985c4")
-		(at 99.53 130.3325 180)
+		(at 188.3774 -137.98495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D16"
@@ -24532,7 +24532,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "55d0b1d2-4086-46ff-a53e-b8f15cce53c3")
-		(at 106.94125 190.52 180)
+		(at 254.56425 -126.267 180)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R5"
@@ -24736,7 +24736,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "5e26c6c6-98c6-4be9-9400-c27e1d3fa713")
-		(at 87.94 140.3825 180)
+		(at 176.7874 -127.93495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D43"
@@ -25052,7 +25052,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "635edb04-651d-4bc2-81a4-10748aa6cda7")
-		(at 82.145 153.7825 180)
+		(at 170.9924 -114.53495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D59"
@@ -25368,7 +25368,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "6cd8b385-a20f-4124-9054-e7330c61f1f3")
-		(at 76.35 140.3825 180)
+		(at 165.1974 -127.93495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D67"
@@ -25684,7 +25684,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "6db75f4c-863d-43a0-9ca8-47e6e8c7a191")
-		(at 105.325 140.3825 180)
+		(at 194.1724 -127.93495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D7"
@@ -26000,7 +26000,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "71765897-f82a-4733-b1a2-56c190401a99")
-		(at 87.94 157.1325 180)
+		(at 176.7874 -111.18495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D48"
@@ -26316,7 +26316,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "722a227b-d10c-4c9f-acbc-d677dace81df")
-		(at 99.53 137.0325 180)
+		(at 188.3774 -131.28495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D18"
@@ -26632,7 +26632,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "730bd934-10b8-49db-9b50-818e1fd90174")
-		(at 82.145 157.1325 180)
+		(at 170.9924 -111.18495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D60"
@@ -26948,7 +26948,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "8294e755-6864-4bac-a9c9-322899f510ec")
-		(at 111.72125 199.82 180)
+		(at 259.34425 -116.967 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C8"
@@ -27152,7 +27152,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "82ea99d2-13d4-4d78-af47-34f165042b43")
-		(at 93.735 150.4325 180)
+		(at 182.5824 -117.88495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D34"
@@ -27468,7 +27468,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "8382e4be-4bf6-4226-a264-b3f6468f3c8f")
-		(at 132.295 180.945 180)
+		(at 268.0199 -132.8212 180)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
@@ -27672,7 +27672,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "8495e3dc-0736-4382-a92e-1c294b497686")
-		(at 82.145 133.6825 180)
+		(at 170.9924 -134.63495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D53"
@@ -27988,7 +27988,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "8958a322-e315-4178-9f8a-273a2d7c12e2")
-		(at 137.075 180.975 180)
+		(at 272.7999 -132.7912 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C1"
@@ -28192,7 +28192,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "8c49fde4-4435-4ef4-9fc7-33a00a86923a")
-		(at 106.94125 193.47 180)
+		(at 254.56425 -123.317 180)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R6"
@@ -28396,7 +28396,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "8f56a485-df61-451e-803c-8dc1477b36a3")
-		(at 99.53 133.6825 180)
+		(at 188.3774 -134.63495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D17"
@@ -28712,7 +28712,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "8fa12bff-961e-4367-895a-c4db114fb7a6")
-		(at 93.735 126.9825 180)
+		(at 182.5824 -141.33495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D27"
@@ -29028,7 +29028,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "9182bd5c-55bc-46a2-9092-22bc8e70eaa5")
-		(at 87.94 147.0825 180)
+		(at 176.7874 -121.23495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D45"
@@ -29344,7 +29344,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "958ae0ec-e750-4374-b981-0011d5442206")
-		(at 105.325 130.3325 180)
+		(at 194.1724 -137.98495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D4"
@@ -29660,7 +29660,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "96d45fb1-bd8b-44c1-9e76-47348d310be0")
-		(at 87.94 150.4325 180)
+		(at 176.7874 -117.88495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D46"
@@ -29976,7 +29976,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "974216e2-5fd1-4f42-804b-fa158ad57750")
-		(at 76.35 120.2825 180)
+		(at 165.1974 -148.03495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D61"
@@ -30292,7 +30292,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "98553271-a7a4-4096-91ae-7cf6c1b41975")
-		(at 99.53 123.6325 180)
+		(at 188.3774 -144.68495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D14"
@@ -30608,7 +30608,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "994fe026-79c5-4901-ae6c-dcce459c81e8")
-		(at 87.94 126.9825 180)
+		(at 176.7874 -141.33495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D39"
@@ -30924,7 +30924,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "9a3d0b9a-944f-4b5c-ae1b-0dc1e3abafd6")
-		(at 93.735 153.7825 180)
+		(at 182.5824 -114.53495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D35"
@@ -31240,7 +31240,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "9c25b0b3-318c-4974-8da4-5984a74e9558")
-		(at 99.53 157.1325 180)
+		(at 188.3774 -111.18495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D24"
@@ -31556,7 +31556,7 @@
 	(footprint "Type-C:HRO-TYPE-C-31-M-12-HandSoldering"
 		(layer "B.Cu")
 		(uuid "abdf7b96-77b4-4443-9e59-03ba9458b57b")
-		(at 99.24625 201.515 180)
+		(at 234.97115 -112.2512 180)
 		(property "Reference" "USB1"
 			(at 0 10.2 0)
 			(layer "B.SilkS")
@@ -31821,7 +31821,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "acf3e2ac-0cf6-4ed2-9491-a5272262150c")
-		(at 106.94125 187.57 180)
+		(at 254.56425 -129.217 180)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R4"
@@ -32025,7 +32025,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "ad1d4639-eab5-47ce-ac95-81a5bc709f49")
-		(at 105.325 150.4325 180)
+		(at 194.1724 -117.88495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D10"
@@ -32341,7 +32341,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "adea274f-a401-413b-a531-93bc8d4a591d")
-		(at 105.325 153.7825 180)
+		(at 194.1724 -114.53495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D11"
@@ -32657,7 +32657,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "afad4f26-1ae6-4ac0-9cca-8fa962f52161")
-		(at 93.735 147.0825 180)
+		(at 182.5824 -121.23495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D33"
@@ -32973,7 +32973,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "b04bbe88-f51c-4c47-aa1a-26643060ff7f")
-		(at 111.72125 196.81 180)
+		(at 259.34425 -119.977 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C7"
@@ -33177,7 +33177,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "b2941955-46ea-460f-8c8e-8a61be5be5eb")
-		(at 87.94 153.7825 180)
+		(at 176.7874 -114.53495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D47"
@@ -33493,7 +33493,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "b6b84c53-9493-4073-9f38-0da66c67e16c")
-		(at 99.53 150.4325 180)
+		(at 188.3774 -117.88495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D22"
@@ -33809,7 +33809,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "b9dd4d85-c8ea-49e3-8fb5-7a581cc46bed")
-		(at 105.325 137.0325 180)
+		(at 194.1724 -131.28495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D6"
@@ -34125,7 +34125,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "bad28b0f-de17-4f66-8add-f0ed9a1489db")
-		(at 82.145 123.6325 180)
+		(at 170.9924 -144.68495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D50"
@@ -34441,7 +34441,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "c1c394e6-eeaa-4dd8-bf3c-e928a115d478")
-		(at 111.72125 187.78 180)
+		(at 259.34425 -129.007 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C4"
@@ -34645,7 +34645,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "ccf68af8-f6ee-4791-9e37-154289a6da6f")
-		(at 87.94 143.7325 180)
+		(at 176.7874 -124.58495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D44"
@@ -34961,7 +34961,7 @@
 	(footprint "random-keyboard-parts:Reset_Pretty-Mask"
 		(layer "B.Cu")
 		(uuid "cd04579d-7f44-4ef2-9e33-cced89b999e7")
-		(at 87.09125 181.135 180)
+		(at 222.81615 -132.6312 180)
 		(property "Reference" "J1"
 			(at 0 -6 0)
 			(layer "Dwgs.User")
@@ -34974,7 +34974,7 @@
 			)
 		)
 		(property "Value" "AVR-ISP-6"
-			(at -24.9625 18.80625 0)
+			(at 0 6.0702 0)
 			(layer "Dwgs.User")
 			(uuid "543d746b-c4df-4fe6-83b7-cd8efdb5cac6")
 			(effects
@@ -35068,7 +35068,7 @@
 			)
 		)
 		(fp_text user "VCC"
-			(at -20.9625 15.30625 0)
+			(at 4 2.5702 0)
 			(layer "B.SilkS")
 			(uuid "28a01f6b-2fa1-4e8f-b375-38359a8ae76d")
 			(effects
@@ -35080,7 +35080,7 @@
 			)
 		)
 		(fp_text user "MISO"
-			(at -29.2125 15.30625 0)
+			(at -4.25 2.5702 0)
 			(layer "B.SilkS")
 			(uuid "68d4b81b-3669-4a54-93dd-1835951df9ef")
 			(effects
@@ -35198,7 +35198,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "cd7daa7c-d9c6-4bdd-9381-c3797d55816b")
-		(at 93.735 130.3325 180)
+		(at 182.5824 -137.98495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D28"
@@ -35514,7 +35514,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "d0485fa6-d581-43ac-beff-b41280893db2")
-		(at 82.145 137.0325 180)
+		(at 170.9924 -131.28495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D54"
@@ -35830,7 +35830,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "d0a0dedc-7751-48b4-9d9c-4f9d1b8ed53e")
-		(at 105.325 143.7325 180)
+		(at 194.1724 -124.58495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D8"
@@ -36146,7 +36146,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "d1d9a339-6814-49a2-9377-a6e8c1105421")
-		(at 82.145 130.3325 180)
+		(at 170.9924 -137.98495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D52"
@@ -36462,7 +36462,7 @@
 	(footprint "Button_Switch_SMD:SW_SPST_SKQG_WithStem"
 		(layer "B.Cu")
 		(uuid "d4732d22-f737-45e6-9f2d-8c852afe3de6")
-		(at 89.15125 194.97 180)
+		(at 224.87615 -118.7962 180)
 		(descr "ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html")
 		(tags "SPST Button Switch")
 		(property "Reference" "SW68"
@@ -36928,7 +36928,7 @@
 			)
 			(polygon
 				(pts
-					(xy 88.15125 193.67) (xy 85.15125 193.67) (xy 85.15125 196.27) (xy 88.15125 196.27)
+					(xy 223.87615 -120.0962) (xy 220.87615 -120.0962) (xy 220.87615 -117.4962) (xy 223.87615 -117.4962)
 				)
 			)
 		)
@@ -36960,7 +36960,7 @@
 			)
 			(polygon
 				(pts
-					(xy 93.15125 193.67) (xy 90.15125 193.67) (xy 90.15125 196.27) (xy 93.15125 196.27)
+					(xy 228.87615 -120.0962) (xy 225.87615 -120.0962) (xy 225.87615 -117.4962) (xy 228.87615 -117.4962)
 				)
 			)
 		)
@@ -36980,7 +36980,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "da55c2ac-9331-4d12-a334-9355635d80e0")
-		(at 76.35 137.0325 180)
+		(at 165.1974 -131.28495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D66"
@@ -37296,7 +37296,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "e3be7e90-f704-4701-a25e-cf93a1038a95")
-		(at 93.735 123.6325 180)
+		(at 182.5824 -144.68495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D26"
@@ -37612,7 +37612,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "e4175b55-c5b8-49a9-a0d1-be2584562f73")
-		(at 105.325 147.0825 180)
+		(at 194.1724 -121.23495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D9"
@@ -37928,7 +37928,7 @@
 	(footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering"
 		(layer "B.Cu")
 		(uuid "e9bd3085-7367-4ceb-8445-d525c99d2ed4")
-		(at 86.89625 188.375 180)
+		(at 222.62115 -125.3912 180)
 		(descr "SMD3225/4, Crystal, 3.2x2.5mm package, SMD, hand-soldering, generated with kicad-footprint-generator make_crystal.py, http://www.txccrystal.com/images/pdf/7m-accuracy.pdf")
 		(property "Reference" "Y1"
 			(at 0 3 0)
@@ -38096,7 +38096,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "eb54cf5c-55fb-4828-9496-ae6ea4c3353f")
-		(at 76.35 130.3325 180)
+		(at 165.1974 -137.98495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D64"
@@ -38412,7 +38412,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "eef6a789-fdb2-46bf-b0f9-c14bf5316429")
-		(at 76.35 123.6325 180)
+		(at 165.1974 -144.68495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D62"
@@ -38728,7 +38728,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "f120ce8d-13f9-4e64-a8f8-a99b628e64fd")
-		(at 93.735 137.0325 180)
+		(at 182.5824 -131.28495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D30"
@@ -39044,7 +39044,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "f64675a7-9e26-49a6-a088-da143533f2b3")
-		(at 105.325 126.9825 180)
+		(at 194.1724 -141.33495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D3"
@@ -39360,7 +39360,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "f770c8a2-257c-41f4-be38-64dea83b786a")
-		(at 105.325 123.6325 180)
+		(at 194.1724 -144.68495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D2"
@@ -39676,7 +39676,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "f83cc9b0-d9fe-4d27-b4eb-94a84fc83ca4")
-		(at 82.145 126.9825 180)
+		(at 170.9924 -141.33495 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D51"

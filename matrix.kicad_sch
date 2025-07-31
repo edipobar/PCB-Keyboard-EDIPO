@@ -4217,7 +4217,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 341.63 72.39 0)
+		(at 341.63 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4226,7 +4226,7 @@
 		(fields_autoplaced yes)
 		(uuid "00d8a4f5-7695-448a-9d9f-82da3bca30ce")
 		(property "Reference" "SW30"
-			(at 341.63 64.77 0)
+			(at 341.63 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4234,7 +4234,7 @@
 			)
 		)
 		(property "Value" "F1"
-			(at 341.63 67.31 0)
+			(at 341.63 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4242,7 +4242,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 341.63 67.31 0)
+			(at 341.63 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4251,7 +4251,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 341.63 67.31 0)
+			(at 341.63 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4459,7 +4459,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 118.11 72.39 0)
+		(at 118.11 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4468,7 +4468,7 @@
 		(fields_autoplaced yes)
 		(uuid "0a4bfe58-83bf-4183-a399-8ebdac3655ff")
 		(property "Reference" "SW19"
-			(at 118.11 64.77 0)
+			(at 118.11 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4476,7 +4476,7 @@
 			)
 		)
 		(property "Value" "E"
-			(at 118.11 67.31 0)
+			(at 118.11 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4484,7 +4484,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 118.11 67.31 0)
+			(at 118.11 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4493,7 +4493,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 118.11 67.31 0)
+			(at 118.11 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4614,7 +4614,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 77.47 123.19 0)
+		(at 77.47 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4623,7 +4623,7 @@
 		(fields_autoplaced yes)
 		(uuid "0b36e417-1035-4c3d-b0cb-2ddbe3e050ee")
 		(property "Reference" "SW46"
-			(at 77.47 115.57 0)
+			(at 77.47 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4631,7 +4631,7 @@
 			)
 		)
 		(property "Value" "Z"
-			(at 77.47 118.11 0)
+			(at 77.47 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4639,7 +4639,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 77.47 118.11 0)
+			(at 77.47 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4648,7 +4648,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 118.11 0)
+			(at 77.47 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4682,7 +4682,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 300.99 46.99 0)
+		(at 300.99 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4691,7 +4691,7 @@
 		(fields_autoplaced yes)
 		(uuid "0f3000b8-2e3f-4ce4-90db-b4b22aedaaf2")
 		(property "Reference" "SW13"
-			(at 300.99 39.37 0)
+			(at 300.99 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4699,7 +4699,7 @@
 			)
 		)
 		(property "Value" "=+"
-			(at 300.99 41.91 0)
+			(at 300.99 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4707,7 +4707,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 300.99 41.91 0)
+			(at 300.99 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4716,7 +4716,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 300.99 41.91 0)
+			(at 300.99 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4837,7 +4837,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 341.63 148.59 0)
+		(at 341.63 148.59 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4846,7 +4846,7 @@
 		(fields_autoplaced yes)
 		(uuid "17516646-48d8-434a-8446-5c1a43e31fe6")
 		(property "Reference" "SW67"
-			(at 341.63 140.97 0)
+			(at 341.63 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4854,7 +4854,7 @@
 			)
 		)
 		(property "Value" "RIGHT"
-			(at 341.63 143.51 0)
+			(at 341.63 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4862,7 +4862,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 341.63 143.51 0)
+			(at 341.63 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4871,7 +4871,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 341.63 143.51 0)
+			(at 341.63 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4992,7 +4992,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 219.71 72.39 0)
+		(at 219.71 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5001,7 +5001,7 @@
 		(fields_autoplaced yes)
 		(uuid "17adf409-f2ee-4b29-b248-8359fce12385")
 		(property "Reference" "SW24"
-			(at 219.71 64.77 0)
+			(at 219.71 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5009,7 +5009,7 @@
 			)
 		)
 		(property "Value" "I"
-			(at 219.71 67.31 0)
+			(at 219.71 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5017,7 +5017,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 219.71 67.31 0)
+			(at 219.71 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5026,7 +5026,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 219.71 67.31 0)
+			(at 219.71 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5060,7 +5060,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 341.63 97.79 0)
+		(at 341.63 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5069,7 +5069,7 @@
 		(fields_autoplaced yes)
 		(uuid "181898df-4d8e-4923-9425-8d02b69424b6")
 		(property "Reference" "SW44"
-			(at 341.63 90.17 0)
+			(at 341.63 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5077,7 +5077,7 @@
 			)
 		)
 		(property "Value" "F2"
-			(at 341.63 92.71 0)
+			(at 341.63 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5085,7 +5085,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 341.63 92.71 0)
+			(at 341.63 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5094,7 +5094,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 341.63 92.71 0)
+			(at 341.63 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5215,7 +5215,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 341.63 123.19 0)
+		(at 341.63 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5224,7 +5224,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ac4817c-8b04-4404-b085-c614a98b7e39")
 		(property "Reference" "SW58"
-			(at 341.63 115.57 0)
+			(at 341.63 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5232,7 +5232,7 @@
 			)
 		)
 		(property "Value" "F3"
-			(at 341.63 118.11 0)
+			(at 341.63 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5240,7 +5240,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 341.63 118.11 0)
+			(at 341.63 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5249,7 +5249,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 341.63 118.11 0)
+			(at 341.63 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5283,7 +5283,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 118.11 46.99 0)
+		(at 118.11 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5292,7 +5292,7 @@
 		(fields_autoplaced yes)
 		(uuid "219cc40f-b8f9-4de5-9f94-51c58d86d626")
 		(property "Reference" "SW4"
-			(at 118.11 39.37 0)
+			(at 118.11 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5300,7 +5300,7 @@
 			)
 		)
 		(property "Value" "#3"
-			(at 118.11 41.91 0)
+			(at 118.11 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5308,7 +5308,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 118.11 41.91 0)
+			(at 118.11 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5317,7 +5317,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 118.11 41.91 0)
+			(at 118.11 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5699,7 +5699,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 138.43 123.19 0)
+		(at 138.43 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5708,7 +5708,7 @@
 		(fields_autoplaced yes)
 		(uuid "2a52b8b5-fed9-4349-94bc-1698e877ae22")
 		(property "Reference" "SW49"
-			(at 138.43 115.57 0)
+			(at 138.43 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5716,7 +5716,7 @@
 			)
 		)
 		(property "Value" "V"
-			(at 138.43 118.11 0)
+			(at 138.43 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5724,7 +5724,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 138.43 118.11 0)
+			(at 138.43 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5733,7 +5733,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 118.11 0)
+			(at 138.43 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6028,7 +6028,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 321.31 72.39 0)
+		(at 321.31 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6037,7 +6037,7 @@
 		(fields_autoplaced yes)
 		(uuid "2f1b263b-bcbb-4939-945f-6a4eb0b9c5e8")
 		(property "Reference" "SW29"
-			(at 321.31 64.77 0)
+			(at 321.31 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6045,7 +6045,7 @@
 			)
 		)
 		(property "Value" "\\|"
-			(at 321.31 67.31 0)
+			(at 321.31 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6053,7 +6053,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1.5U"
-			(at 321.31 67.31 0)
+			(at 321.31 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6062,7 +6062,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 321.31 67.31 0)
+			(at 321.31 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6183,7 +6183,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 300.99 72.39 0)
+		(at 300.99 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6192,7 +6192,7 @@
 		(fields_autoplaced yes)
 		(uuid "333bf3e6-2f15-4477-ac3b-457ce710d3d2")
 		(property "Reference" "SW28"
-			(at 300.99 64.77 0)
+			(at 300.99 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6200,7 +6200,7 @@
 			)
 		)
 		(property "Value" "}]"
-			(at 300.99 67.31 0)
+			(at 300.99 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6208,7 +6208,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 300.99 67.31 0)
+			(at 300.99 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6217,7 +6217,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 300.99 67.31 0)
+			(at 300.99 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6338,7 +6338,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 57.15 123.19 0)
+		(at 57.15 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6347,7 +6347,7 @@
 		(fields_autoplaced yes)
 		(uuid "368f72fd-702d-47bc-8fd5-b4a7f6ea59ad")
 		(property "Reference" "SW45"
-			(at 57.15 115.57 0)
+			(at 57.15 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6355,7 +6355,7 @@
 			)
 		)
 		(property "Value" "SHIFT"
-			(at 57.15 118.11 0)
+			(at 57.15 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6363,7 +6363,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-2.25U"
-			(at 57.15 118.11 0)
+			(at 57.15 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6372,7 +6372,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 118.11 0)
+			(at 57.15 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6406,7 +6406,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 77.47 97.79 0)
+		(at 77.47 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6415,7 +6415,7 @@
 		(fields_autoplaced yes)
 		(uuid "36b2d30d-629d-4440-9a55-1e9c80164b14")
 		(property "Reference" "SW32"
-			(at 77.47 90.17 0)
+			(at 77.47 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6423,7 +6423,7 @@
 			)
 		)
 		(property "Value" "A"
-			(at 77.47 92.71 0)
+			(at 77.47 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6431,7 +6431,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 77.47 92.71 0)
+			(at 77.47 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6440,7 +6440,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 92.71 0)
+			(at 77.47 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6561,7 +6561,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 219.71 123.19 0)
+		(at 219.71 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6570,7 +6570,7 @@
 		(fields_autoplaced yes)
 		(uuid "38d70278-41a6-4f10-99c5-d7207adf76ac")
 		(property "Reference" "SW53"
-			(at 219.71 115.57 0)
+			(at 219.71 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6578,7 +6578,7 @@
 			)
 		)
 		(property "Value" ",<"
-			(at 219.71 118.11 0)
+			(at 219.71 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6586,7 +6586,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 219.71 118.11 0)
+			(at 219.71 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6595,7 +6595,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 219.71 118.11 0)
+			(at 219.71 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6716,7 +6716,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 199.39 97.79 0)
+		(at 199.39 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6725,7 +6725,7 @@
 		(fields_autoplaced yes)
 		(uuid "402ba443-6351-4501-8455-7e08adf12acd")
 		(property "Reference" "SW38"
-			(at 199.39 90.17 0)
+			(at 199.39 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6733,7 +6733,7 @@
 			)
 		)
 		(property "Value" "J"
-			(at 199.39 92.71 0)
+			(at 199.39 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6741,7 +6741,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 199.39 92.71 0)
+			(at 199.39 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6750,7 +6750,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 199.39 92.71 0)
+			(at 199.39 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6784,7 +6784,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 57.15 97.79 0)
+		(at 57.15 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6793,7 +6793,7 @@
 		(fields_autoplaced yes)
 		(uuid "45309bd8-a60a-4390-bc80-fed7b9918835")
 		(property "Reference" "SW31"
-			(at 57.15 90.17 0)
+			(at 57.15 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6801,7 +6801,7 @@
 			)
 		)
 		(property "Value" "CAPSLOCK"
-			(at 57.15 92.71 0)
+			(at 57.15 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6809,7 +6809,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1.75U"
-			(at 57.15 92.71 0)
+			(at 57.15 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6818,7 +6818,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 92.71 0)
+			(at 57.15 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6939,7 +6939,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 97.79 148.59 0)
+		(at 97.79 148.59 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6948,7 +6948,7 @@
 		(fields_autoplaced yes)
 		(uuid "47520f6f-533c-4dc8-8bd6-f5152f56795e")
 		(property "Reference" "SW61"
-			(at 97.79 140.97 0)
+			(at 97.79 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6956,7 +6956,7 @@
 			)
 		)
 		(property "Value" "COMMAND"
-			(at 97.79 143.51 0)
+			(at 97.79 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6964,7 +6964,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1.5U"
-			(at 97.79 143.51 0)
+			(at 97.79 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6973,7 +6973,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 143.51 0)
+			(at 97.79 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7094,7 +7094,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 260.35 148.59 0)
+		(at 260.35 148.59 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7103,7 +7103,7 @@
 		(fields_autoplaced yes)
 		(uuid "49984c46-7a43-4281-8abc-4a95eee95034")
 		(property "Reference" "SW63"
-			(at 260.35 140.97 0)
+			(at 260.35 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7111,7 +7111,7 @@
 			)
 		)
 		(property "Value" "ALT"
-			(at 260.35 143.51 0)
+			(at 260.35 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7119,7 +7119,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1.25U"
-			(at 260.35 143.51 0)
+			(at 260.35 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7128,7 +7128,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 260.35 143.51 0)
+			(at 260.35 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7162,7 +7162,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 138.43 46.99 0)
+		(at 138.43 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7171,7 +7171,7 @@
 		(fields_autoplaced yes)
 		(uuid "49f5769b-13ee-470e-9114-6136a2c9405d")
 		(property "Reference" "SW5"
-			(at 138.43 39.37 0)
+			(at 138.43 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7179,7 +7179,7 @@
 			)
 		)
 		(property "Value" "#4"
-			(at 138.43 41.91 0)
+			(at 138.43 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7187,7 +7187,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 138.43 41.91 0)
+			(at 138.43 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7196,7 +7196,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 41.91 0)
+			(at 138.43 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7404,7 +7404,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 199.39 72.39 0)
+		(at 199.39 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7413,7 +7413,7 @@
 		(fields_autoplaced yes)
 		(uuid "4e63b039-6dbf-416f-833c-bbf6cbba4e51")
 		(property "Reference" "SW23"
-			(at 199.39 64.77 0)
+			(at 199.39 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7421,7 +7421,7 @@
 			)
 		)
 		(property "Value" "U"
-			(at 199.39 67.31 0)
+			(at 199.39 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7429,7 +7429,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 199.39 67.31 0)
+			(at 199.39 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7438,7 +7438,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 199.39 67.31 0)
+			(at 199.39 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7646,7 +7646,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 240.03 123.19 0)
+		(at 240.03 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7655,7 +7655,7 @@
 		(fields_autoplaced yes)
 		(uuid "5134e9fe-a293-4f2c-8a67-b5e29a3af230")
 		(property "Reference" "SW54"
-			(at 240.03 115.57 0)
+			(at 240.03 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7663,7 +7663,7 @@
 			)
 		)
 		(property "Value" ".>"
-			(at 240.03 118.11 0)
+			(at 240.03 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7671,7 +7671,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 240.03 118.11 0)
+			(at 240.03 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7680,7 +7680,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 240.03 118.11 0)
+			(at 240.03 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7888,7 +7888,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 240.03 97.79 0)
+		(at 240.03 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7897,7 +7897,7 @@
 		(fields_autoplaced yes)
 		(uuid "5508f83a-5802-4e59-a631-0e9f02e37186")
 		(property "Reference" "SW40"
-			(at 240.03 90.17 0)
+			(at 240.03 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7905,7 +7905,7 @@
 			)
 		)
 		(property "Value" "L"
-			(at 240.03 92.71 0)
+			(at 240.03 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7913,7 +7913,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 240.03 92.71 0)
+			(at 240.03 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7922,7 +7922,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 240.03 92.71 0)
+			(at 240.03 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8043,7 +8043,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 321.31 97.79 0)
+		(at 321.31 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8052,7 +8052,7 @@
 		(fields_autoplaced yes)
 		(uuid "56534bf2-3bda-4383-bb2b-d888ce5cd897")
 		(property "Reference" "SW43"
-			(at 321.31 90.17 0)
+			(at 321.31 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8060,7 +8060,7 @@
 			)
 		)
 		(property "Value" "ENTER"
-			(at 321.31 92.71 0)
+			(at 321.31 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8068,7 +8068,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-2.25U"
-			(at 321.31 92.71 0)
+			(at 321.31 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8077,7 +8077,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 321.31 92.71 0)
+			(at 321.31 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8285,7 +8285,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 57.15 72.39 0)
+		(at 57.15 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8294,7 +8294,7 @@
 		(fields_autoplaced yes)
 		(uuid "59445d17-e459-4880-9857-76f3f34b341a")
 		(property "Reference" "SW16"
-			(at 57.15 64.77 0)
+			(at 57.15 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8302,7 +8302,7 @@
 			)
 		)
 		(property "Value" "TAB"
-			(at 57.15 67.31 0)
+			(at 57.15 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8310,7 +8310,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1.5U"
-			(at 57.15 67.31 0)
+			(at 57.15 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8319,7 +8319,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 67.31 0)
+			(at 57.15 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8353,7 +8353,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 97.79 72.39 0)
+		(at 97.79 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8362,7 +8362,7 @@
 		(fields_autoplaced yes)
 		(uuid "6768e0a8-fccf-4e47-8896-0d3f2801e32e")
 		(property "Reference" "SW18"
-			(at 97.79 64.77 0)
+			(at 97.79 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8370,7 +8370,7 @@
 			)
 		)
 		(property "Value" "W"
-			(at 97.79 67.31 0)
+			(at 97.79 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8378,7 +8378,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 97.79 67.31 0)
+			(at 97.79 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8387,7 +8387,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 67.31 0)
+			(at 97.79 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8595,7 +8595,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 260.35 46.99 0)
+		(at 260.35 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8604,7 +8604,7 @@
 		(fields_autoplaced yes)
 		(uuid "6b76adac-69e7-4a4a-a2cd-96f6aee530b2")
 		(property "Reference" "SW11"
-			(at 260.35 39.37 0)
+			(at 260.35 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8612,7 +8612,7 @@
 			)
 		)
 		(property "Value" "#0"
-			(at 260.35 41.91 0)
+			(at 260.35 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8620,7 +8620,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 260.35 41.91 0)
+			(at 260.35 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8629,7 +8629,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 260.35 41.91 0)
+			(at 260.35 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8663,7 +8663,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 97.79 97.79 0)
+		(at 97.79 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8672,7 +8672,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c126990-04cf-48a7-a0db-ba34ac6e97ea")
 		(property "Reference" "SW33"
-			(at 97.79 90.17 0)
+			(at 97.79 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8680,7 +8680,7 @@
 			)
 		)
 		(property "Value" "S"
-			(at 97.79 92.71 0)
+			(at 97.79 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8688,7 +8688,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 97.79 92.71 0)
+			(at 97.79 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8697,7 +8697,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 92.71 0)
+			(at 97.79 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8818,7 +8818,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 280.67 72.39 0)
+		(at 280.67 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8827,7 +8827,7 @@
 		(fields_autoplaced yes)
 		(uuid "739c5edd-8363-4877-b2e0-0378c8add9b8")
 		(property "Reference" "SW27"
-			(at 280.67 64.77 0)
+			(at 280.67 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8835,7 +8835,7 @@
 			)
 		)
 		(property "Value" "[{"
-			(at 280.67 67.31 0)
+			(at 280.67 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8843,7 +8843,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 280.67 67.31 0)
+			(at 280.67 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8852,7 +8852,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 280.67 67.31 0)
+			(at 280.67 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8886,7 +8886,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 77.47 72.39 0)
+		(at 77.47 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8895,7 +8895,7 @@
 		(fields_autoplaced yes)
 		(uuid "78d5e439-afa8-4175-acb0-c9920ebda9de")
 		(property "Reference" "SW17"
-			(at 77.47 64.77 0)
+			(at 77.47 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8903,7 +8903,7 @@
 			)
 		)
 		(property "Value" "Q"
-			(at 77.47 67.31 0)
+			(at 77.47 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8911,7 +8911,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 77.47 67.31 0)
+			(at 77.47 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8920,7 +8920,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 67.31 0)
+			(at 77.47 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9215,7 +9215,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 321.31 123.19 0)
+		(at 321.31 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9224,7 +9224,7 @@
 		(fields_autoplaced yes)
 		(uuid "7deed044-b187-4935-bf58-1540f36b12ec")
 		(property "Reference" "SW57"
-			(at 321.31 115.57 0)
+			(at 321.31 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9232,7 +9232,7 @@
 			)
 		)
 		(property "Value" "UP"
-			(at 321.31 118.11 0)
+			(at 321.31 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9240,7 +9240,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 321.31 118.11 0)
+			(at 321.31 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9249,7 +9249,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 321.31 118.11 0)
+			(at 321.31 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9544,7 +9544,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 280.67 97.79 0)
+		(at 280.67 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9553,7 +9553,7 @@
 		(fields_autoplaced yes)
 		(uuid "8a7b9b2e-8369-46b5-915b-29a0fbb42643")
 		(property "Reference" "SW42"
-			(at 280.67 90.17 0)
+			(at 280.67 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9561,7 +9561,7 @@
 			)
 		)
 		(property "Value" "'\""
-			(at 280.67 92.71 0)
+			(at 280.67 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9569,7 +9569,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 280.67 92.71 0)
+			(at 280.67 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9578,7 +9578,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 280.67 92.71 0)
+			(at 280.67 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9612,7 +9612,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 138.43 97.79 0)
+		(at 138.43 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9621,7 +9621,7 @@
 		(fields_autoplaced yes)
 		(uuid "8d360d72-c02f-43a4-8fc2-0e165ed4bd42")
 		(property "Reference" "SW35"
-			(at 138.43 90.17 0)
+			(at 138.43 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9629,7 +9629,7 @@
 			)
 		)
 		(property "Value" "F"
-			(at 138.43 92.71 0)
+			(at 138.43 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9637,7 +9637,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 138.43 92.71 0)
+			(at 138.43 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9646,7 +9646,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 92.71 0)
+			(at 138.43 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9767,7 +9767,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 219.71 46.99 0)
+		(at 219.71 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9776,7 +9776,7 @@
 		(fields_autoplaced yes)
 		(uuid "8edb5c83-3553-4af1-8788-3f519a1fc689")
 		(property "Reference" "SW9"
-			(at 219.71 39.37 0)
+			(at 219.71 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9784,7 +9784,7 @@
 			)
 		)
 		(property "Value" "#8"
-			(at 219.71 41.91 0)
+			(at 219.71 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9792,7 +9792,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 219.71 41.91 0)
+			(at 219.71 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9801,7 +9801,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 219.71 41.91 0)
+			(at 219.71 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9922,7 +9922,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 158.75 72.39 0)
+		(at 158.75 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9931,7 +9931,7 @@
 		(fields_autoplaced yes)
 		(uuid "925fe077-c942-4d13-bbd7-b20b4b39d7ca")
 		(property "Reference" "SW21"
-			(at 158.75 64.77 0)
+			(at 158.75 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9939,7 +9939,7 @@
 			)
 		)
 		(property "Value" "T"
-			(at 158.75 67.31 0)
+			(at 158.75 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9947,7 +9947,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 158.75 67.31 0)
+			(at 158.75 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9956,7 +9956,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 158.75 67.31 0)
+			(at 158.75 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10077,7 +10077,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 97.79 46.99 0)
+		(at 97.79 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10086,7 +10086,7 @@
 		(fields_autoplaced yes)
 		(uuid "9578b153-3bb5-4f50-bd15-6c9e6889312b")
 		(property "Reference" "SW3"
-			(at 97.79 39.37 0)
+			(at 97.79 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10094,7 +10094,7 @@
 			)
 		)
 		(property "Value" "#2"
-			(at 97.79 41.91 0)
+			(at 97.79 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10102,7 +10102,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 97.79 41.91 0)
+			(at 97.79 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10111,7 +10111,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 41.91 0)
+			(at 97.79 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10580,7 +10580,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 260.35 97.79 0)
+		(at 260.35 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10589,7 +10589,7 @@
 		(fields_autoplaced yes)
 		(uuid "9e4a43b1-bcbd-4b5d-93db-6809f172eb08")
 		(property "Reference" "SW41"
-			(at 260.35 90.17 0)
+			(at 260.35 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10597,7 +10597,7 @@
 			)
 		)
 		(property "Value" ";:"
-			(at 260.35 92.71 0)
+			(at 260.35 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10605,7 +10605,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 260.35 92.71 0)
+			(at 260.35 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10614,7 +10614,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 260.35 92.71 0)
+			(at 260.35 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10648,7 +10648,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 321.31 148.59 0)
+		(at 321.31 148.59 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10657,7 +10657,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1a1a2c2-a0ce-44b5-b063-2ea4fc7a1117")
 		(property "Reference" "SW66"
-			(at 321.31 140.97 0)
+			(at 321.31 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10665,7 +10665,7 @@
 			)
 		)
 		(property "Value" "DOWN"
-			(at 321.31 143.51 0)
+			(at 321.31 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10673,7 +10673,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 321.31 143.51 0)
+			(at 321.31 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10682,7 +10682,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 321.31 143.51 0)
+			(at 321.31 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10716,7 +10716,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 300.99 148.59 0)
+		(at 300.99 148.59 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10725,7 +10725,7 @@
 		(fields_autoplaced yes)
 		(uuid "a30aa9fe-3959-46ba-8bcf-fa0433214990")
 		(property "Reference" "SW65"
-			(at 300.99 140.97 0)
+			(at 300.99 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10733,7 +10733,7 @@
 			)
 		)
 		(property "Value" "LEFT"
-			(at 300.99 143.51 0)
+			(at 300.99 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10741,7 +10741,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 300.99 143.51 0)
+			(at 300.99 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10750,7 +10750,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 300.99 143.51 0)
+			(at 300.99 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10871,7 +10871,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 280.67 46.99 0)
+		(at 280.67 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10880,7 +10880,7 @@
 		(fields_autoplaced yes)
 		(uuid "a5000bee-e7f1-4ea5-886b-be9caca97ea0")
 		(property "Reference" "SW12"
-			(at 280.67 39.37 0)
+			(at 280.67 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10888,7 +10888,7 @@
 			)
 		)
 		(property "Value" "-_"
-			(at 280.67 41.91 0)
+			(at 280.67 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10896,7 +10896,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 280.67 41.91 0)
+			(at 280.67 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10905,7 +10905,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 280.67 41.91 0)
+			(at 280.67 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11026,7 +11026,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 199.39 123.19 0)
+		(at 199.39 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11035,7 +11035,7 @@
 		(fields_autoplaced yes)
 		(uuid "a7350a20-6f03-41d3-843e-d1cdd1beeb65")
 		(property "Reference" "SW52"
-			(at 199.39 115.57 0)
+			(at 199.39 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11043,7 +11043,7 @@
 			)
 		)
 		(property "Value" "M"
-			(at 199.39 118.11 0)
+			(at 199.39 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11051,7 +11051,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 199.39 118.11 0)
+			(at 199.39 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11060,7 +11060,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 199.39 118.11 0)
+			(at 199.39 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11094,7 +11094,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 77.47 46.99 0)
+		(at 77.47 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11103,7 +11103,7 @@
 		(fields_autoplaced yes)
 		(uuid "a779bf4b-c821-4399-ae70-d46023bccefb")
 		(property "Reference" "SW2"
-			(at 77.47 39.37 0)
+			(at 77.47 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11111,7 +11111,7 @@
 			)
 		)
 		(property "Value" "#1"
-			(at 77.47 41.91 0)
+			(at 77.47 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11119,7 +11119,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 77.47 41.91 0)
+			(at 77.47 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11128,7 +11128,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 41.91 0)
+			(at 77.47 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11162,7 +11162,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 300.99 123.19 0)
+		(at 300.99 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11171,7 +11171,7 @@
 		(fields_autoplaced yes)
 		(uuid "afef2f6e-24d6-4748-8e7a-8ad00ec18057")
 		(property "Reference" "SW56"
-			(at 300.99 115.57 0)
+			(at 300.99 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11179,7 +11179,7 @@
 			)
 		)
 		(property "Value" "FN"
-			(at 300.99 118.11 0)
+			(at 300.99 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11187,7 +11187,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1.75U"
-			(at 300.99 118.11 0)
+			(at 300.99 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11196,7 +11196,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 300.99 118.11 0)
+			(at 300.99 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11578,7 +11578,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 158.75 123.19 0)
+		(at 158.75 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11587,7 +11587,7 @@
 		(fields_autoplaced yes)
 		(uuid "b63234ab-7f37-4e27-b297-84a3fa27155d")
 		(property "Reference" "SW50"
-			(at 158.75 115.57 0)
+			(at 158.75 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11595,7 +11595,7 @@
 			)
 		)
 		(property "Value" "B"
-			(at 158.75 118.11 0)
+			(at 158.75 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11603,7 +11603,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 158.75 118.11 0)
+			(at 158.75 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11612,7 +11612,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 158.75 118.11 0)
+			(at 158.75 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11733,7 +11733,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 321.31 46.99 0)
+		(at 321.31 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11742,7 +11742,7 @@
 		(fields_autoplaced yes)
 		(uuid "b99fa5a9-c9ba-45ea-a008-97da1736043b")
 		(property "Reference" "SW14"
-			(at 321.31 39.37 0)
+			(at 321.31 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11750,7 +11750,7 @@
 			)
 		)
 		(property "Value" "BACKSPACE"
-			(at 321.31 41.91 0)
+			(at 321.31 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11758,7 +11758,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-2U"
-			(at 321.31 41.91 0)
+			(at 321.31 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11767,7 +11767,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 321.31 41.91 0)
+			(at 321.31 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11888,7 +11888,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 219.71 97.79 0)
+		(at 219.71 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11897,7 +11897,7 @@
 		(fields_autoplaced yes)
 		(uuid "bc69cccd-b8e5-48e5-b98a-9e1b90c45581")
 		(property "Reference" "SW39"
-			(at 219.71 90.17 0)
+			(at 219.71 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11905,7 +11905,7 @@
 			)
 		)
 		(property "Value" "K"
-			(at 219.71 92.71 0)
+			(at 219.71 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11913,7 +11913,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 219.71 92.71 0)
+			(at 219.71 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11922,7 +11922,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 219.71 92.71 0)
+			(at 219.71 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11956,7 +11956,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 57.15 148.59 0)
+		(at 57.15 148.59 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11965,7 +11965,7 @@
 		(fields_autoplaced yes)
 		(uuid "be98a459-6c36-44a2-902e-9dcfce34316c")
 		(property "Reference" "SW59"
-			(at 57.15 140.97 0)
+			(at 57.15 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11973,7 +11973,7 @@
 			)
 		)
 		(property "Value" "CTRL"
-			(at 57.15 143.51 0)
+			(at 57.15 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11981,7 +11981,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1.5U"
-			(at 57.15 143.51 0)
+			(at 57.15 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11990,7 +11990,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 143.51 0)
+			(at 57.15 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12024,7 +12024,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 118.11 123.19 0)
+		(at 118.11 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12033,7 +12033,7 @@
 		(fields_autoplaced yes)
 		(uuid "bf28c09f-61ba-4029-ac17-a7411a6999f7")
 		(property "Reference" "SW48"
-			(at 118.11 115.57 0)
+			(at 118.11 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12041,7 +12041,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 118.11 118.11 0)
+			(at 118.11 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12049,7 +12049,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 118.11 118.11 0)
+			(at 118.11 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12058,7 +12058,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 118.11 118.11 0)
+			(at 118.11 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12092,7 +12092,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 158.75 97.79 0)
+		(at 158.75 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12101,7 +12101,7 @@
 		(fields_autoplaced yes)
 		(uuid "c192cec1-688c-4ebc-974d-a08b9e3dc3f5")
 		(property "Reference" "SW36"
-			(at 158.75 90.17 0)
+			(at 158.75 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12109,7 +12109,7 @@
 			)
 		)
 		(property "Value" "G"
-			(at 158.75 92.71 0)
+			(at 158.75 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12117,7 +12117,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 158.75 92.71 0)
+			(at 158.75 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12126,7 +12126,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 158.75 92.71 0)
+			(at 158.75 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12160,7 +12160,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 179.07 97.79 0)
+		(at 179.07 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12169,7 +12169,7 @@
 		(fields_autoplaced yes)
 		(uuid "c58f73d6-43b2-466b-b056-4d7e053ca68e")
 		(property "Reference" "SW37"
-			(at 179.07 90.17 0)
+			(at 179.07 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12177,7 +12177,7 @@
 			)
 		)
 		(property "Value" "H"
-			(at 179.07 92.71 0)
+			(at 179.07 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12185,7 +12185,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 179.07 92.71 0)
+			(at 179.07 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12194,7 +12194,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 92.71 0)
+			(at 179.07 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12663,7 +12663,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 240.03 72.39 0)
+		(at 240.03 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12672,7 +12672,7 @@
 		(fields_autoplaced yes)
 		(uuid "cefe571b-cb1b-4116-9ede-dd7261ed821b")
 		(property "Reference" "SW25"
-			(at 240.03 64.77 0)
+			(at 240.03 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12680,7 +12680,7 @@
 			)
 		)
 		(property "Value" "O"
-			(at 240.03 67.31 0)
+			(at 240.03 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12688,7 +12688,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 240.03 67.31 0)
+			(at 240.03 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12697,7 +12697,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 240.03 67.31 0)
+			(at 240.03 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12731,7 +12731,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 179.07 46.99 0)
+		(at 179.07 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12740,7 +12740,7 @@
 		(fields_autoplaced yes)
 		(uuid "cf7a9a96-4b6f-4dd0-8a29-ffca750c920d")
 		(property "Reference" "SW7"
-			(at 179.07 39.37 0)
+			(at 179.07 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12748,7 +12748,7 @@
 			)
 		)
 		(property "Value" "#6"
-			(at 179.07 41.91 0)
+			(at 179.07 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12756,7 +12756,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 179.07 41.91 0)
+			(at 179.07 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12765,7 +12765,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 41.91 0)
+			(at 179.07 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13147,7 +13147,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 199.39 46.99 0)
+		(at 199.39 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13156,7 +13156,7 @@
 		(fields_autoplaced yes)
 		(uuid "d827c1ba-9f01-4052-aaa8-0cd9519e8203")
 		(property "Reference" "SW8"
-			(at 199.39 39.37 0)
+			(at 199.39 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13164,7 +13164,7 @@
 			)
 		)
 		(property "Value" "#7"
-			(at 199.39 41.91 0)
+			(at 199.39 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13172,7 +13172,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 199.39 41.91 0)
+			(at 199.39 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13181,7 +13181,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 199.39 41.91 0)
+			(at 199.39 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13302,7 +13302,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 138.43 72.39 0)
+		(at 138.43 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13311,7 +13311,7 @@
 		(fields_autoplaced yes)
 		(uuid "deaf0ccc-d4ac-46bd-809b-09dc7270b213")
 		(property "Reference" "SW20"
-			(at 138.43 64.77 0)
+			(at 138.43 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13319,7 +13319,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 138.43 67.31 0)
+			(at 138.43 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13327,7 +13327,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 138.43 67.31 0)
+			(at 138.43 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13336,7 +13336,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 67.31 0)
+			(at 138.43 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13370,7 +13370,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 97.79 123.19 0)
+		(at 97.79 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13379,7 +13379,7 @@
 		(fields_autoplaced yes)
 		(uuid "dff25603-fb1f-4739-9a65-10693a915435")
 		(property "Reference" "SW47"
-			(at 97.79 115.57 0)
+			(at 97.79 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13387,7 +13387,7 @@
 			)
 		)
 		(property "Value" "X"
-			(at 97.79 118.11 0)
+			(at 97.79 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13395,7 +13395,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 97.79 118.11 0)
+			(at 97.79 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13404,7 +13404,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 118.11 0)
+			(at 97.79 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13438,7 +13438,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 260.35 123.19 0)
+		(at 260.35 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13447,7 +13447,7 @@
 		(fields_autoplaced yes)
 		(uuid "e2bfaca8-60c6-4791-a844-3c240049ede4")
 		(property "Reference" "SW55"
-			(at 260.35 115.57 0)
+			(at 260.35 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13455,7 +13455,7 @@
 			)
 		)
 		(property "Value" "/?"
-			(at 260.35 118.11 0)
+			(at 260.35 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13463,7 +13463,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 260.35 118.11 0)
+			(at 260.35 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13472,7 +13472,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 260.35 118.11 0)
+			(at 260.35 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13506,7 +13506,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 118.11 97.79 0)
+		(at 118.11 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13515,7 +13515,7 @@
 		(fields_autoplaced yes)
 		(uuid "e33f4617-ca77-4298-83ab-8ad49c52bc8c")
 		(property "Reference" "SW34"
-			(at 118.11 90.17 0)
+			(at 118.11 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13523,7 +13523,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 118.11 92.71 0)
+			(at 118.11 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13531,7 +13531,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 118.11 92.71 0)
+			(at 118.11 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13540,7 +13540,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 118.11 92.71 0)
+			(at 118.11 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13574,7 +13574,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 341.63 46.99 0)
+		(at 341.63 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13583,7 +13583,7 @@
 		(fields_autoplaced yes)
 		(uuid "e62f25ae-83b5-4080-b4d0-0895d0f9543f")
 		(property "Reference" "SW15"
-			(at 341.63 39.37 0)
+			(at 341.63 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13591,7 +13591,7 @@
 			)
 		)
 		(property "Value" "DELETE"
-			(at 341.63 41.91 0)
+			(at 341.63 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13599,7 +13599,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 341.63 41.91 0)
+			(at 341.63 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13608,7 +13608,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 341.63 41.91 0)
+			(at 341.63 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13642,7 +13642,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 280.67 148.59 0)
+		(at 280.67 148.59 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13651,7 +13651,7 @@
 		(fields_autoplaced yes)
 		(uuid "e6a1ea2a-2975-47cd-ae8b-edcc50faf183")
 		(property "Reference" "SW64"
-			(at 280.67 140.97 0)
+			(at 280.67 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13659,7 +13659,7 @@
 			)
 		)
 		(property "Value" "`~"
-			(at 280.67 143.51 0)
+			(at 280.67 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13667,7 +13667,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 280.67 143.51 0)
+			(at 280.67 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13676,7 +13676,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 280.67 143.51 0)
+			(at 280.67 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13710,7 +13710,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 158.75 46.99 0)
+		(at 158.75 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13719,7 +13719,7 @@
 		(fields_autoplaced yes)
 		(uuid "e6e709ce-e6b3-4013-a557-3b3ca057d76d")
 		(property "Reference" "SW6"
-			(at 158.75 39.37 0)
+			(at 158.75 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13727,7 +13727,7 @@
 			)
 		)
 		(property "Value" "#5"
-			(at 158.75 41.91 0)
+			(at 158.75 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13735,7 +13735,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 158.75 41.91 0)
+			(at 158.75 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13744,7 +13744,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 158.75 41.91 0)
+			(at 158.75 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13778,7 +13778,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 179.07 148.59 0)
+		(at 179.07 148.59 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13787,7 +13787,7 @@
 		(fields_autoplaced yes)
 		(uuid "e8c90896-4efb-4998-a468-683afea4bd23")
 		(property "Reference" "SW62"
-			(at 179.07 140.97 0)
+			(at 179.07 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13795,7 +13795,7 @@
 			)
 		)
 		(property "Value" "SPACE"
-			(at 179.07 143.51 0)
+			(at 179.07 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13803,7 +13803,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-6.5U"
-			(at 179.07 143.51 0)
+			(at 179.07 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13812,7 +13812,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 143.51 0)
+			(at 179.07 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13846,7 +13846,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 179.07 72.39 0)
+		(at 179.07 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13855,7 +13855,7 @@
 		(fields_autoplaced yes)
 		(uuid "eb9e1b16-2869-4288-a7c6-032662f56082")
 		(property "Reference" "SW22"
-			(at 179.07 64.77 0)
+			(at 179.07 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13863,7 +13863,7 @@
 			)
 		)
 		(property "Value" "Y"
-			(at 179.07 67.31 0)
+			(at 179.07 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13871,7 +13871,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 179.07 67.31 0)
+			(at 179.07 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13880,7 +13880,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 67.31 0)
+			(at 179.07 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14175,7 +14175,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 179.07 123.19 0)
+		(at 179.07 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14184,7 +14184,7 @@
 		(fields_autoplaced yes)
 		(uuid "f3ed3fe1-4a77-4900-9a01-6e2d5615883a")
 		(property "Reference" "SW51"
-			(at 179.07 115.57 0)
+			(at 179.07 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14192,7 +14192,7 @@
 			)
 		)
 		(property "Value" "N"
-			(at 179.07 118.11 0)
+			(at 179.07 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14200,7 +14200,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 179.07 118.11 0)
+			(at 179.07 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14209,7 +14209,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 118.11 0)
+			(at 179.07 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14243,7 +14243,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 260.35 72.39 0)
+		(at 260.35 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14252,7 +14252,7 @@
 		(fields_autoplaced yes)
 		(uuid "f5135aaf-c069-4369-9696-3831a9ab781c")
 		(property "Reference" "SW26"
-			(at 260.35 64.77 0)
+			(at 260.35 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14260,7 +14260,7 @@
 			)
 		)
 		(property "Value" "P"
-			(at 260.35 67.31 0)
+			(at 260.35 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14268,7 +14268,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 260.35 67.31 0)
+			(at 260.35 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14277,7 +14277,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 260.35 67.31 0)
+			(at 260.35 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14311,7 +14311,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 57.15 46.99 0)
+		(at 57.15 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14320,7 +14320,7 @@
 		(fields_autoplaced yes)
 		(uuid "f869c8e7-d9fe-42d0-a123-61be12b6deef")
 		(property "Reference" "SW1"
-			(at 57.15 39.37 0)
+			(at 57.15 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14328,7 +14328,7 @@
 			)
 		)
 		(property "Value" "ESC`"
-			(at 57.15 41.91 0)
+			(at 57.15 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14336,7 +14336,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 57.15 41.91 0)
+			(at 57.15 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14345,7 +14345,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 41.91 0)
+			(at 57.15 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14379,7 +14379,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 240.03 46.99 0)
+		(at 240.03 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14388,7 +14388,7 @@
 		(fields_autoplaced yes)
 		(uuid "fcb006e7-5448-4e61-8e38-82893ca0c381")
 		(property "Reference" "SW10"
-			(at 240.03 39.37 0)
+			(at 240.03 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14396,7 +14396,7 @@
 			)
 		)
 		(property "Value" "#9"
-			(at 240.03 41.91 0)
+			(at 240.03 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14404,7 +14404,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 240.03 41.91 0)
+			(at 240.03 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14413,7 +14413,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 240.03 41.91 0)
+			(at 240.03 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14447,7 +14447,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 77.47 148.59 0)
+		(at 77.47 148.59 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14456,7 +14456,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff935ad8-4936-4364-a160-b1f6139b6246")
 		(property "Reference" "SW60"
-			(at 77.47 140.97 0)
+			(at 77.47 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14464,7 +14464,7 @@
 			)
 		)
 		(property "Value" "ALT"
-			(at 77.47 143.51 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14472,7 +14472,7 @@
 			)
 		)
 		(property "Footprint" "Alps_Only:ALPS-1.25U"
-			(at 77.47 143.51 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14481,7 +14481,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 143.51 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
