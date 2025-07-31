@@ -4233,7 +4233,7 @@
 				)
 			)
 		)
-		(property "Value" "PAGEDN"
+		(property "Value" "F1"
 			(at 341.63 67.31 0)
 			(effects
 				(font
@@ -5076,7 +5076,7 @@
 				)
 			)
 		)
-		(property "Value" "INSERT"
+		(property "Value" "F2"
 			(at 341.63 92.71 0)
 			(effects
 				(font
@@ -5231,7 +5231,7 @@
 				)
 			)
 		)
-		(property "Value" "SHIFT"
+		(property "Value" "F3"
 			(at 341.63 118.11 0)
 			(effects
 				(font
@@ -6052,7 +6052,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Alps_Only:ALPS-1.5U"
 			(at 321.31 67.31 0)
 			(effects
 				(font
@@ -6362,7 +6362,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Alps_Only:ALPS-2.25U"
 			(at 57.15 118.11 0)
 			(effects
 				(font
@@ -6808,7 +6808,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Alps_Only:ALPS-1.75U"
 			(at 57.15 92.71 0)
 			(effects
 				(font
@@ -6963,7 +6963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Alps_Only:ALPS-1.5U"
 			(at 97.79 143.51 0)
 			(effects
 				(font
@@ -7118,7 +7118,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Alps_Only:ALPS-1.25U"
 			(at 260.35 143.51 0)
 			(effects
 				(font
@@ -8067,7 +8067,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Alps_Only:ALPS-2.25U"
 			(at 321.31 92.71 0)
 			(effects
 				(font
@@ -8309,7 +8309,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Alps_Only:ALPS-1.5U"
 			(at 57.15 67.31 0)
 			(effects
 				(font
@@ -11178,7 +11178,7 @@
 				)
 			)
 		)
-		(property "Value" "CAPSLOCK"
+		(property "Value" "FN"
 			(at 300.99 118.11 0)
 			(effects
 				(font
@@ -11186,7 +11186,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Alps_Only:ALPS-1.75U"
 			(at 300.99 118.11 0)
 			(effects
 				(font
@@ -11757,7 +11757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Alps_Only:ALPS-2U"
 			(at 321.31 41.91 0)
 			(effects
 				(font
@@ -11980,7 +11980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Alps_Only:ALPS-1.5U"
 			(at 57.15 143.51 0)
 			(effects
 				(font
@@ -13802,7 +13802,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Alps_Only:ALPS-6.5U"
 			(at 179.07 143.51 0)
 			(effects
 				(font
@@ -14471,7 +14471,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Alps_Only:ALPS-1.25U"
 			(at 77.47 143.51 0)
 			(effects
 				(font
