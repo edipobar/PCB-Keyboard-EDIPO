@@ -2932,7 +2932,7 @@
 			(uuid "528f0022-d8fe-46a2-80b9-1cdf7f827436")
 		)
 		(fp_text user "${VALUE}"
-			(at 0.960264 -0.612764 0)
+			(at 0.010264 -7.287764 0)
 			(layer "F.SilkS")
 			(uuid "52ec43d6-a025-4f2c-8fc0-dc1d373d64a1")
 			(effects
@@ -28533,7 +28533,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D7"
-			(at 0 2 90)
+			(at 0 -1.8296 90)
 			(layer "B.SilkS")
 			(uuid "45366d92-e459-4f3e-b449-e01f02f66436")
 			(effects
@@ -28798,7 +28798,7 @@
 			(uuid "ab862c21-aa5b-431b-a8f3-da5d3af89538")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 90)
+			(at 0 -1.8296 90)
 			(layer "B.Fab")
 			(uuid "99875c9c-afab-4513-85f7-867479cb1745")
 			(effects
@@ -34745,7 +34745,7 @@
 		(uuid "abdf7b96-77b4-4443-9e59-03ba9458b57b")
 		(at 169.862736 -154.787436)
 		(property "Reference" "USB1"
-			(at 0 10.2 0)
+			(at 0 1.587436 0)
 			(layer "B.SilkS")
 			(uuid "9eafe1ad-206b-4374-9afa-de1b6f74ba15")
 			(effects
@@ -38163,7 +38163,7 @@
 		(uuid "cd04579d-7f44-4ef2-9e33-cced89b999e7")
 		(at 213.029 -70.94)
 		(property "Reference" "J1"
-			(at 0 -6 0)
+			(at 4.171 -4.86 0)
 			(layer "Dwgs.User")
 			(uuid "278d5e4d-fb63-4aff-8769-b8b8c4818cc9")
 			(effects
@@ -38304,7 +38304,7 @@
 			)
 		)
 		(fp_text user "MOSI"
-			(at 4.25 0 0)
+			(at 9.171 0.14 0)
 			(layer "B.SilkS")
 			(uuid "982e3387-b6d8-4100-9b13-a71c35203b3c")
 			(effects
@@ -38316,7 +38316,7 @@
 			)
 		)
 		(fp_text user "GND"
-			(at 4.25 -2.5 0)
+			(at 9.171 -2.46 0)
 			(layer "B.SilkS")
 			(uuid "d904f9d1-9117-4986-bcae-6d8cd71577ed")
 			(effects
