@@ -513,7 +513,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Manufacturing/",
+      "plot": "FINAL_Manufacturing/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../../../Downloads/PCB-Keyboard-EDIPO-ALPS.stl",
