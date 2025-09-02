@@ -4701,6 +4701,12 @@
 		(uuid "2698151f-37b8-4c64-ae29-b451b6cd15fb")
 	)
 	(junction
+		(at 473.71 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "27acdeac-3887-46ef-a4da-56ef094cf4aa")
+	)
+	(junction
 		(at 410.21 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4842,6 +4848,16 @@
 	)
 	(wire
 		(pts
+			(xy 476.25 147.32) (xy 473.71 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ed87810-ebeb-4611-b0cc-085fe385fc33")
+	)
+	(wire
+		(pts
 			(xy 365.76 43.18) (xy 369.57 43.18)
 		)
 		(stroke
@@ -4969,6 +4985,16 @@
 			(type default)
 		)
 		(uuid "63017391-5517-43b8-adf8-0a5bf889d7cb")
+	)
+	(wire
+		(pts
+			(xy 473.71 146.05) (xy 473.71 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65b688ba-50a6-4d62-93f6-73fc68bafc39")
 	)
 	(wire
 		(pts
@@ -5322,6 +5348,16 @@
 	)
 	(wire
 		(pts
+			(xy 473.71 147.32) (xy 471.17 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc45bd31-a034-46ac-9649-20b3e44b45e0")
+	)
+	(wire
+		(pts
 			(xy 379.73 63.5) (xy 381 63.5)
 		)
 		(stroke
@@ -5670,7 +5706,7 @@
 	)
 	(global_label "Q_SEL"
 		(shape input)
-		(at 471.17 139.7 0)
+		(at 476.25 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5680,7 +5716,7 @@
 		)
 		(uuid "3f8f1727-9200-4831-bbcd-7cd121b87d20")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 479.8399 139.7 0)
+			(at 484.9199 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6241,6 +6277,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 473.71 138.43 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "097896c4-498e-4155-8f4e-b18011c2afdd")
+		(property "Reference" "R6"
+			(at 475.996 138.43 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "5.1k"
+			(at 477.52 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 473.71 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 473.71 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 473.71 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fceefaa5-5df1-4a6a-8824-31f01fe18cb6")
+		)
+		(pin "1"
+			(uuid "35d927e6-d219-47f9-9683-4f2fef94abd6")
+		)
+		(instances
+			(project "PCB-Keyboard-EDIPO"
+				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 293.37 148.59 0)
 		(unit 1)
@@ -6301,6 +6404,73 @@
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 473.71 143.51 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "12221446-5692-49b0-b4ea-5007183e17ce")
+		(property "Reference" "R5"
+			(at 475.996 143.51 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "5.1k"
+			(at 477.52 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 473.71 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 473.71 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 473.71 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f1cc5777-6cbd-4028-bf50-207765a2dbfe")
+		)
+		(pin "1"
+			(uuid "8af6da28-de7a-4daf-a785-58224758713c")
+		)
+		(instances
+			(project "PCB-Keyboard-EDIPO"
+				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -7158,7 +7328,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 468.63 139.7 270)
+		(at 468.63 147.32 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7166,7 +7336,7 @@
 		(dnp no)
 		(uuid "57fe1e69-f7ac-4c28-97d1-aab5b9541c9c")
 		(property "Reference" "R4"
-			(at 468.376 142.494 90)
+			(at 468.376 150.114 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7174,7 +7344,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 468.376 145.034 90)
+			(at 468.376 152.654 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7182,7 +7352,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 468.63 139.7 0)
+			(at 468.63 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7191,7 +7361,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 468.63 139.7 0)
+			(at 468.63 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7200,7 +7370,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 468.63 139.7 0)
+			(at 468.63 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8819,7 +8989,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 455.93 139.7 0)
+		(at 455.93 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8828,7 +8998,7 @@
 		(fields_autoplaced yes)
 		(uuid "c94c5069-2d8b-4ae0-ab96-22e3c8f7f178")
 		(property "Reference" "#PWR028"
-			(at 455.93 146.05 0)
+			(at 455.93 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8837,7 +9007,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 455.93 144.78 0)
+			(at 455.93 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8845,7 +9015,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 455.93 139.7 0)
+			(at 455.93 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8854,7 +9024,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 455.93 139.7 0)
+			(at 455.93 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8863,7 +9033,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 455.93 139.7 0)
+			(at 455.93 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9358,7 +9528,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 461.01 139.7 0)
+		(at 461.01 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9367,7 +9537,7 @@
 		(fields_autoplaced yes)
 		(uuid "e0f35e7e-0645-4450-92b7-d645705e2ec4")
 		(property "Reference" "SW2"
-			(at 461.01 132.08 0)
+			(at 461.01 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9375,7 +9545,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 461.01 134.62 0)
+			(at 461.01 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9383,7 +9553,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 461.01 134.62 0)
+			(at 461.01 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9392,7 +9562,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 461.01 134.62 0)
+			(at 461.01 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9401,7 +9571,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 461.01 139.7 0)
+			(at 461.01 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9621,6 +9791,73 @@
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
 					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 473.71 135.89 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e7800ca9-83b5-4c4f-987c-772569fc6ee7")
+		(property "Reference" "#PWR029"
+			(at 477.52 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 469.9 135.8899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 473.71 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 473.71 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 473.71 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7e1dad2-8bd4-46c2-b285-0d5ba6a831ed")
+		)
+		(instances
+			(project "PCB-Keyboard-EDIPO"
+				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
