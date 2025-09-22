@@ -4338,6 +4338,192 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "PCM_marbastlib-mx:MX_stab"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "S"
+				(at -5.08 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "MX_stab"
+				(at -5.08 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_6.25u"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Cherry MX-style stabilizer"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cherry mx stabilizer stab"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MX_stab_0_1"
+				(rectangle
+					(start -5.08 1.27)
+					(end -2.54 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -5.08 -1.524)
+					(end -2.54 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -4.826 2.794)
+					(end -2.794 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -4.064 1.27)
+					(end -3.556 2.794)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -4.064 -1.778)
+					(end 4.064 -2.286)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -4.064 -2.286)
+					(end -3.556 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 1.27)
+					(end 5.08 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 -1.524)
+					(end 5.08 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.794 2.794)
+					(end 4.826 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 3.556 1.27)
+					(end 4.064 2.794)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 4.064 -2.286)
+					(end 3.556 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "PCM_marbastlib-various:SRV05-4"
 			(pin_names
 				(offset 0)
@@ -5875,7 +6061,7 @@
 	)
 	(text "DECOUPLING"
 		(exclude_from_sim no)
-		(at 210.312 49.022 0)
+		(at 206.502 49.022 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -5958,6 +6144,12 @@
 		(uuid "01b3a34b-bed7-4d14-9b00-1f26db242cd3")
 	)
 	(junction
+		(at 195.58 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01e0947c-2761-4b3f-b328-8fbbf162da9d")
+	)
+	(junction
 		(at 241.3 173.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5988,7 +6180,7 @@
 		(uuid "08e4701e-059c-40a0-b669-a372fb6ffbe2")
 	)
 	(junction
-		(at 180.34 54.61)
+		(at 166.37 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "09158de7-2baf-4911-8e9f-01504031b5b2")
@@ -6036,6 +6228,12 @@
 		(uuid "0e0ae6e2-4b43-4ebd-ad87-1afd7763ccf4")
 	)
 	(junction
+		(at 205.74 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0e6cfad4-18ca-47b2-ad51-1bd98d140934")
+	)
+	(junction
 		(at 367.03 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6072,7 +6270,7 @@
 		(uuid "134859dd-9eec-4f04-add7-3f25f2fef0e0")
 	)
 	(junction
-		(at 180.34 59.69)
+		(at 166.37 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1361003c-1e72-4c11-b3a5-b3e834a7f836")
@@ -6222,7 +6420,7 @@
 		(uuid "26279e80-23d9-49f8-98d0-98d7d7b141bb")
 	)
 	(junction
-		(at 190.5 59.69)
+		(at 176.53 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2698151f-37b8-4c64-ae29-b451b6cd15fb")
@@ -6354,7 +6552,7 @@
 		(uuid "3cacb493-7941-4fae-959c-5bcc5958acbb")
 	)
 	(junction
-		(at 190.5 54.61)
+		(at 176.53 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3cd8a2d5-ac85-43a3-a1a2-277c8c37ed50")
@@ -6370,6 +6568,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3e3c39b4-695b-4bba-a2a0-2475a7845264")
+	)
+	(junction
+		(at 186.69 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "406c40d2-db3d-478a-ac56-d7c127ac5f71")
 	)
 	(junction
 		(at 316.23 158.75)
@@ -6396,12 +6600,6 @@
 		(uuid "42931c59-2532-456f-a875-f80d8c7b8d24")
 	)
 	(junction
-		(at 326.39 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "42da3b29-2d79-4841-bdfc-8834ce5525c4")
-	)
-	(junction
 		(at 158.75 254)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6418,6 +6616,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "436db552-4516-4b57-903f-f4e871f0c116")
+	)
+	(junction
+		(at 186.69 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "44a86ec6-fd7b-430e-ae04-ad27c2be69aa")
 	)
 	(junction
 		(at 161.29 308.61)
@@ -6444,7 +6648,7 @@
 		(uuid "4999cc61-fa6e-4727-8709-705e51cbad88")
 	)
 	(junction
-		(at 163.83 54.61)
+		(at 149.86 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "49a7d44c-f778-4263-846c-660e05304b8e")
@@ -6490,6 +6694,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4e686f50-59b5-40da-869c-bc649bad45f9")
+	)
+	(junction
+		(at 130.81 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f817bdf-975a-43f0-833f-a0ae66fa6b8d")
 	)
 	(junction
 		(at 387.35 168.91)
@@ -7344,12 +7554,6 @@
 		(uuid "bbfd2a30-3d10-4090-8e54-6358db9df458")
 	)
 	(junction
-		(at 316.23 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bc1f953a-855c-4ba0-b573-6126e2f5dc9a")
-	)
-	(junction
 		(at 504.19 262.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7362,7 +7566,13 @@
 		(uuid "be570804-b8c4-489c-8441-0661c152855f")
 	)
 	(junction
-		(at 172.72 54.61)
+		(at 205.74 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be6a6258-f4a8-42e2-bc79-2cdd5f85599c")
+	)
+	(junction
+		(at 158.75 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "be98ec48-0595-4b79-9a0d-1d477ec61478")
@@ -7536,7 +7746,13 @@
 		(uuid "d2407b93-b27a-4f45-8ac6-d8c513f83e61")
 	)
 	(junction
-		(at 146.05 54.61)
+		(at 195.58 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d30ce625-c473-478d-8203-09bb1d8f804f")
+	)
+	(junction
+		(at 123.19 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4b8d5da-0a5d-448e-9d64-051070606533")
@@ -7564,6 +7780,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d62abff4-11df-4568-a5b8-62c5c045cb50")
+	)
+	(junction
+		(at 130.81 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d6538730-d744-4dbe-b10d-f88d2603d9a7")
 	)
 	(junction
 		(at 542.29 240.03)
@@ -7716,13 +7938,13 @@
 		(uuid "ec3fcec5-497c-40c5-934d-82ccd0d5aebf")
 	)
 	(junction
-		(at 172.72 59.69)
+		(at 158.75 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ed25f5bc-0b62-4209-865d-1f452308cd43")
 	)
 	(junction
-		(at 149.86 59.69)
+		(at 127 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ed44de9b-c816-4282-acb3-6cbfcef32318")
@@ -7830,6 +8052,12 @@
 		(uuid "fc1e5f98-43cd-417f-93a7-4107844977d4")
 	)
 	(junction
+		(at 311.15 231.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fce9efc3-70a5-4b03-a31d-8c423609dc67")
+	)
+	(junction
 		(at 356.87 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7850,10 +8078,6 @@
 	(no_connect
 		(at 622.3 347.98)
 		(uuid "453bc94a-0518-42bf-b7c2-9d8ab55492a5")
-	)
-	(no_connect
-		(at 207.01 162.56)
-		(uuid "4fd95f39-ac8f-4238-8fed-798c06bdaf24")
 	)
 	(no_connect
 		(at 264.16 143.51)
@@ -8033,7 +8257,7 @@
 	)
 	(wire
 		(pts
-			(xy 570.23 256.54) (xy 621.03 256.54)
+			(xy 570.23 256.54) (xy 622.3 256.54)
 		)
 		(stroke
 			(width 0)
@@ -8723,6 +8947,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 59.69) (xy 195.58 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18e92696-1d87-43de-88e3-7ef70c39df1e")
+	)
+	(wire
+		(pts
 			(xy 82.55 276.86) (xy 82.55 299.72)
 		)
 		(stroke
@@ -8963,23 +9197,13 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 59.69) (xy 149.86 59.69)
+			(xy 123.19 59.69) (xy 127 59.69)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "1f11c3bb-ab3a-45cc-8731-e05f9d61129e")
-	)
-	(wire
-		(pts
-			(xy 316.23 71.12) (xy 316.23 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f2e8729-65c4-4e52-9dd3-e56f82c556b6")
 	)
 	(wire
 		(pts
@@ -9173,7 +9397,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 59.69) (xy 180.34 59.69)
+			(xy 158.75 59.69) (xy 166.37 59.69)
 		)
 		(stroke
 			(width 0)
@@ -9843,7 +10067,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 59.69) (xy 172.72 59.69)
+			(xy 149.86 59.69) (xy 158.75 59.69)
 		)
 		(stroke
 			(width 0)
@@ -11113,6 +11337,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 59.69) (xy 139.7 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "519d5753-d9fb-430b-8039-a045a1b2f38d")
+	)
+	(wire
+		(pts
 			(xy 466.09 299.72) (xy 466.09 308.61)
 		)
 		(stroke
@@ -11583,6 +11817,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 54.61) (xy 215.9 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d0bd794-6a55-44fa-a96a-82e904911d55")
+	)
+	(wire
+		(pts
 			(xy 303.53 256.54) (xy 317.5 256.54)
 		)
 		(stroke
@@ -12003,6 +12247,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 59.69) (xy 205.74 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "668fd414-1c0a-47db-befc-9220a51ddc60")
+	)
+	(wire
+		(pts
 			(xy 316.23 168.91) (xy 316.23 166.37)
 		)
 		(stroke
@@ -12313,6 +12567,16 @@
 	)
 	(wire
 		(pts
+			(xy 311.15 226.06) (xy 311.15 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7092acae-496c-49f5-abc9-830c4f29fc61")
+	)
+	(wire
+		(pts
 			(xy 151.13 325.12) (xy 165.1 325.12)
 		)
 		(stroke
@@ -12450,16 +12714,6 @@
 			(type default)
 		)
 		(uuid "749ecac3-a6c0-4d03-8d48-187aaf22c811")
-	)
-	(wire
-		(pts
-			(xy 307.34 60.96) (xy 316.23 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7512001a-7a1f-437f-8b2a-bf3367fb9ecc")
 	)
 	(wire
 		(pts
@@ -12923,16 +13177,6 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 63.5) (xy 316.23 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82866a45-9ae3-4df0-b2e5-8cd7fdeb04d8")
-	)
-	(wire
-		(pts
 			(xy 584.2 350.52) (xy 593.09 350.52)
 		)
 		(stroke
@@ -13123,7 +13367,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 54.61) (xy 180.34 54.61)
+			(xy 176.53 54.61) (xy 166.37 54.61)
 		)
 		(stroke
 			(width 0)
@@ -13713,16 +13957,6 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 71.12) (xy 316.23 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "951d79e6-ac7f-475f-b64b-169b48586e59")
-	)
-	(wire
-		(pts
 			(xy 466.09 331.47) (xy 542.29 331.47)
 		)
 		(stroke
@@ -13763,7 +13997,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 54.61) (xy 163.83 54.61)
+			(xy 158.75 54.61) (xy 149.86 54.61)
 		)
 		(stroke
 			(width 0)
@@ -13940,6 +14174,16 @@
 			(type default)
 		)
 		(uuid "98bae815-d700-45b7-93e8-60c2eb23aa3a")
+	)
+	(wire
+		(pts
+			(xy 130.81 54.61) (xy 139.7 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98c671f8-e0cf-499d-b34a-551fb16437df")
 	)
 	(wire
 		(pts
@@ -14593,6 +14837,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 54.61) (xy 205.74 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5a5ee3c-ed97-4fbf-9f67-16d4be34dc2b")
+	)
+	(wire
+		(pts
 			(xy 238.76 173.99) (xy 241.3 173.99)
 		)
 		(stroke
@@ -14743,7 +14997,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 54.61) (xy 172.72 54.61)
+			(xy 166.37 54.61) (xy 158.75 54.61)
 		)
 		(stroke
 			(width 0)
@@ -14953,7 +15207,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 59.69) (xy 153.67 59.69)
+			(xy 127 59.69) (xy 130.81 59.69)
 		)
 		(stroke
 			(width 0)
@@ -15113,7 +15367,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 59.69) (xy 200.66 59.69)
+			(xy 176.53 59.69) (xy 186.69 59.69)
 		)
 		(stroke
 			(width 0)
@@ -15663,7 +15917,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 59.69) (xy 190.5 59.69)
+			(xy 166.37 59.69) (xy 176.53 59.69)
 		)
 		(stroke
 			(width 0)
@@ -15733,7 +15987,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 54.61) (xy 190.5 54.61)
+			(xy 186.69 54.61) (xy 176.53 54.61)
 		)
 		(stroke
 			(width 0)
@@ -15943,7 +16197,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 54.61) (xy 146.05 54.61)
+			(xy 130.81 54.61) (xy 123.19 54.61)
 		)
 		(stroke
 			(width 0)
@@ -16110,6 +16364,16 @@
 			(type default)
 		)
 		(uuid "cd3e2b28-c6e8-4690-8062-107ffdc01078")
+	)
+	(wire
+		(pts
+			(xy 205.74 59.69) (xy 215.9 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd710109-bff3-4c2a-b103-c37dd8ebeb5d")
 	)
 	(wire
 		(pts
@@ -16363,7 +16627,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 60.96) (xy 326.39 60.96)
+			(xy 307.34 60.96) (xy 326.39 60.96)
 		)
 		(stroke
 			(width 0)
@@ -17270,6 +17534,16 @@
 			(type default)
 		)
 		(uuid "e721b5b9-5b50-4932-9771-e0d05f0ca668")
+	)
+	(wire
+		(pts
+			(xy 186.69 54.61) (xy 195.58 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7739396-9419-4b31-a2bd-c05b70c23684")
 	)
 	(wire
 		(pts
@@ -18277,7 +18551,7 @@
 	)
 	(global_label "Col5"
 		(shape input)
-		(at 207.01 99.06 0)
+		(at 207.01 101.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18287,7 +18561,7 @@
 		)
 		(uuid "05c01b40-455f-4f04-b1cd-93aead1dd30b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.2889 99.06 0)
+			(at 214.2889 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18407,7 +18681,7 @@
 			)
 		)
 	)
-	(global_label "Row5"
+	(global_label "DC"
 		(shape input)
 		(at 207.01 147.32 0)
 		(fields_autoplaced yes)
@@ -18419,7 +18693,7 @@
 		)
 		(uuid "133f242e-7e84-44dc-b797-452b85609373")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.9542 147.32 0)
+			(at 212.5352 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18431,7 +18705,7 @@
 	)
 	(global_label "Col11"
 		(shape input)
-		(at 207.01 114.3 0)
+		(at 207.01 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18441,7 +18715,7 @@
 		)
 		(uuid "14326b84-1b3e-4017-81a4-9aab2253f84f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 215.4984 114.3 0)
+			(at 215.4984 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18475,7 +18749,7 @@
 	)
 	(global_label "SWD"
 		(shape input)
-		(at 69.85 158.75 180)
+		(at 69.85 153.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18485,7 +18759,7 @@
 		)
 		(uuid "170d20d9-3c24-4567-b67b-d492e43f7059")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.9339 158.75 0)
+			(at 62.9339 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18585,7 +18859,7 @@
 	)
 	(global_label "Col12"
 		(shape input)
-		(at 207.01 116.84 0)
+		(at 207.01 119.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18595,7 +18869,7 @@
 		)
 		(uuid "204d0814-cc47-445b-91cb-3430bffc397c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 215.4984 116.84 0)
+			(at 215.4984 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18649,6 +18923,28 @@
 			)
 		)
 	)
+	(global_label "Row0"
+		(shape input)
+		(at 207.01 162.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2b3b188e-e9c8-4b7e-a4e8-e253e5c58cb9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 214.9542 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Q_I01"
 		(shape input)
 		(at 156.21 114.3 180)
@@ -18695,7 +18991,7 @@
 	)
 	(global_label "Col4"
 		(shape input)
-		(at 207.01 96.52 0)
+		(at 207.01 99.06 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18705,7 +19001,7 @@
 		)
 		(uuid "318e5317-e77c-4e95-b937-62877bb393ad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.2889 96.52 0)
+			(at 214.2889 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18805,7 +19101,7 @@
 	)
 	(global_label "Col10"
 		(shape input)
-		(at 207.01 111.76 0)
+		(at 207.01 114.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18815,7 +19111,7 @@
 		)
 		(uuid "3ca8eac5-1198-4ad5-add7-8199cf01c65c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 215.4984 111.76 0)
+			(at 215.4984 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18847,7 +19143,7 @@
 			)
 		)
 	)
-	(global_label "CS"
+	(global_label "Arot"
 		(shape input)
 		(at 207.01 157.48 0)
 		(fields_autoplaced yes)
@@ -18859,7 +19155,7 @@
 		)
 		(uuid "3f9aed5f-a804-4ed9-85a1-85d9de7d80d3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 212.4747 157.48 0)
+			(at 213.7447 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18957,7 +19253,7 @@
 			)
 		)
 	)
-	(global_label "DC"
+	(global_label "Col14"
 		(shape input)
 		(at 207.01 142.24 0)
 		(fields_autoplaced yes)
@@ -18969,7 +19265,7 @@
 		)
 		(uuid "46fb4796-40c1-4176-b34b-87b4dde685c4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 212.5352 142.24 0)
+			(at 215.4984 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18979,7 +19275,7 @@
 			)
 		)
 	)
-	(global_label "RES"
+	(global_label "Row3"
 		(shape input)
 		(at 207.01 139.7 0)
 		(fields_autoplaced yes)
@@ -18991,7 +19287,7 @@
 		)
 		(uuid "47dbe0f6-1cfd-4b61-a9e7-50163c57b9d5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 213.6237 139.7 0)
+			(at 214.9542 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19003,7 +19299,7 @@
 	)
 	(global_label "Col3"
 		(shape input)
-		(at 207.01 93.98 0)
+		(at 207.01 96.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19013,7 +19309,7 @@
 		)
 		(uuid "488e7bc1-0ec3-4f8a-89b7-9b7c0177abf3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.2889 93.98 0)
+			(at 214.2889 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19045,7 +19341,7 @@
 			)
 		)
 	)
-	(global_label "Row3"
+	(global_label "Row5"
 		(shape input)
 		(at 207.01 132.08 0)
 		(fields_autoplaced yes)
@@ -19201,7 +19497,7 @@
 	)
 	(global_label "Col8"
 		(shape input)
-		(at 207.01 106.68 0)
+		(at 207.01 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19211,7 +19507,7 @@
 		)
 		(uuid "59a7c9ce-86d3-4b50-9703-df01891d8469")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.2889 106.68 0)
+			(at 214.2889 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19311,7 +19607,7 @@
 	)
 	(global_label "Col13"
 		(shape input)
-		(at 207.01 119.38 0)
+		(at 207.01 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19321,7 +19617,7 @@
 		)
 		(uuid "5f722965-dfac-4884-b942-0d11f0f39711")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 215.4984 119.38 0)
+			(at 215.4984 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19419,7 +19715,7 @@
 			)
 		)
 	)
-	(global_label "Arot"
+	(global_label "CS"
 		(shape input)
 		(at 207.01 149.86 0)
 		(fields_autoplaced yes)
@@ -19431,7 +19727,7 @@
 		)
 		(uuid "7137f1f8-51c8-428d-8a21-52778659b39f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 213.7447 149.86 0)
+			(at 212.4747 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19465,7 +19761,7 @@
 	)
 	(global_label "Col7"
 		(shape input)
-		(at 207.01 104.14 0)
+		(at 207.01 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19475,7 +19771,7 @@
 		)
 		(uuid "76e1f96f-c557-4365-8ceb-ac211e01f86a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.2889 104.14 0)
+			(at 214.2889 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19487,7 +19783,7 @@
 	)
 	(global_label "Col9"
 		(shape input)
-		(at 207.01 109.22 0)
+		(at 207.01 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19497,7 +19793,7 @@
 		)
 		(uuid "7903e52f-afc3-456d-8913-a66b640cb84d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.2889 109.22 0)
+			(at 214.2889 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19509,7 +19805,7 @@
 	)
 	(global_label "SWC"
 		(shape input)
-		(at 69.85 156.21 180)
+		(at 69.85 151.13 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19519,7 +19815,7 @@
 		)
 		(uuid "7b34258b-d73f-4176-9524-58095a1a66ce")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.9339 156.21 0)
+			(at 62.9339 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19547,6 +19843,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Col2"
+		(shape input)
+		(at 207.01 93.98 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7da86f2b-2801-4218-ac98-57bcd90ad58f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 214.2889 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -19705,9 +20023,9 @@
 			)
 		)
 	)
-	(global_label "Col14"
+	(global_label "Row2"
 		(shape input)
-		(at 207.01 121.92 0)
+		(at 207.01 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19717,7 +20035,7 @@
 		)
 		(uuid "a58a0cbd-ecde-4634-9f1d-b244d4ddc00f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 215.4984 121.92 0)
+			(at 214.9542 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19771,7 +20089,7 @@
 			)
 		)
 	)
-	(global_label "Brot"
+	(global_label "BLK"
 		(shape input)
 		(at 207.01 152.4 0)
 		(fields_autoplaced yes)
@@ -19783,7 +20101,7 @@
 		)
 		(uuid "b535482f-4a4d-4b4f-bb54-9c58dc9c4797")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 213.9261 152.4 0)
+			(at 213.5633 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19839,7 +20157,7 @@
 	)
 	(global_label "Col6"
 		(shape input)
-		(at 207.01 101.6 0)
+		(at 207.01 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19849,7 +20167,7 @@
 		)
 		(uuid "b89155bb-a9d4-4210-a71a-288f6ae526bc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.2889 101.6 0)
+			(at 214.2889 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20079,7 +20397,7 @@
 			)
 		)
 	)
-	(global_label "Row4"
+	(global_label "RES"
 		(shape input)
 		(at 207.01 144.78 0)
 		(fields_autoplaced yes)
@@ -20091,7 +20409,7 @@
 		)
 		(uuid "d5d57cc8-140a-405f-b453-cc31eabda0ad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.9542 144.78 0)
+			(at 213.6237 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20145,7 +20463,7 @@
 			)
 		)
 	)
-	(global_label "Row2"
+	(global_label "Row4"
 		(shape input)
 		(at 207.01 129.54 0)
 		(fields_autoplaced yes)
@@ -20167,7 +20485,7 @@
 			)
 		)
 	)
-	(global_label "BLK"
+	(global_label "Brot"
 		(shape input)
 		(at 207.01 160.02 0)
 		(fields_autoplaced yes)
@@ -20179,7 +20497,7 @@
 		)
 		(uuid "d884e42d-52ec-4777-b810-c11678035f83")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 213.5633 160.02 0)
+			(at 213.9261 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20251,28 +20569,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Row0"
-		(shape input)
-		(at 207.01 124.46 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e6370001-75e8-44d0-8d45-acd18300d279")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.9542 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -20528,7 +20824,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "01c2738a-835e-4dee-8409-d6465c7516a0")
-		(property "Reference" "U77"
+		(property "Reference" "U76"
 			(at 524.51 340.868 0)
 			(effects
 				(font
@@ -20592,7 +20888,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U77")
+					(reference "U76")
 					(unit 1)
 				)
 			)
@@ -20673,7 +20969,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "031ea191-9c91-43ef-bdff-a0e7afe1b2e0")
-		(property "Reference" "D64"
+		(property "Reference" "D63"
 			(at 322.58 318.516 0)
 			(effects
 				(font
@@ -20743,7 +21039,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D64")
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -20957,7 +21253,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "044841d1-bb3a-46a7-935f-72edd6999213")
-		(property "Reference" "U73"
+		(property "Reference" "U72"
 			(at 143.51 340.868 0)
 			(effects
 				(font
@@ -21021,7 +21317,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U73")
+					(reference "U72")
 					(unit 1)
 				)
 			)
@@ -21036,7 +21332,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "045f16ed-fc66-4b42-866e-5cb3c8804483")
-		(property "Reference" "D71"
+		(property "Reference" "D70"
 			(at 55.88 341.376 0)
 			(effects
 				(font
@@ -21106,7 +21402,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D71")
+					(reference "D70")
 					(unit 1)
 				)
 			)
@@ -21658,7 +21954,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0ae03fd8-d179-40c6-9702-2721a2be4756")
-		(property "Reference" "D34"
+		(property "Reference" "D33"
 			(at 208.28 272.796 0)
 			(effects
 				(font
@@ -21728,7 +22024,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D34")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -22012,7 +22308,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0bf4593e-adc3-493f-b5c6-7447e794b76e")
-		(property "Reference" "U58"
+		(property "Reference" "U57"
 			(at 105.41 318.008 0)
 			(effects
 				(font
@@ -22076,7 +22372,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U58")
+					(reference "U57")
 					(unit 1)
 				)
 			)
@@ -22091,7 +22387,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0c4eff4f-9164-4438-97bf-05b590da7a71")
-		(property "Reference" "U21"
+		(property "Reference" "U20"
 			(at 257.81 249.428 0)
 			(effects
 				(font
@@ -22155,7 +22451,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U21")
+					(reference "U20")
 					(unit 1)
 				)
 			)
@@ -22170,7 +22466,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0cae6d5f-5aa5-40eb-b6c2-290908483907")
-		(property "Reference" "D65"
+		(property "Reference" "D64"
 			(at 360.68 318.516 0)
 			(effects
 				(font
@@ -22240,7 +22536,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D65")
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -22321,7 +22617,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0d5308db-b6eb-48e2-8c14-6bab4a9c2d59")
-		(property "Reference" "D14"
+		(property "Reference" "D13"
 			(at 551.18 227.076 0)
 			(effects
 				(font
@@ -22391,7 +22687,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D14")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -22608,7 +22904,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0e7107c7-2b5c-499c-9819-f402da1cb6ac")
-		(property "Reference" "D23"
+		(property "Reference" "D22"
 			(at 322.58 249.936 0)
 			(effects
 				(font
@@ -22678,7 +22974,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D23")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -22825,7 +23121,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0fb65754-19c1-4a14-b6cc-b264ba40afbe")
-		(property "Reference" "D24"
+		(property "Reference" "D23"
 			(at 360.68 249.936 0)
 			(effects
 				(font
@@ -22895,7 +23191,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D24")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -22980,7 +23276,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1063a66f-c82a-40c4-ba6e-24082a075784")
-		(property "Reference" "D31"
+		(property "Reference" "D30"
 			(at 93.98 272.796 0)
 			(effects
 				(font
@@ -23050,7 +23346,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D31")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -23135,7 +23431,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "10a7d645-29f3-46f8-a26c-3e3f4a56f3d3")
-		(property "Reference" "D67"
+		(property "Reference" "D66"
 			(at 436.88 318.516 0)
 			(effects
 				(font
@@ -23205,7 +23501,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D67")
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -23272,6 +23568,70 @@
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 589.28 270.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "10d4671f-016f-4f7e-a077-ef64d33f14e8")
+		(property "Reference" "S2"
+			(at 595.63 269.1129 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MX_stab"
+			(at 595.63 271.6529 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_1.5u"
+			(at 589.28 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 589.28 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 589.28 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "PCB-Keyboard-EDIPO"
+				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
+					(reference "S2")
 					(unit 1)
 				)
 			)
@@ -23977,7 +24337,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "16467541-011b-4eab-ae4a-ed04857883f1")
-		(property "Reference" "D1"
+		(property "Reference" "D79"
 			(at 55.88 227.076 0)
 			(effects
 				(font
@@ -24047,7 +24407,7 @@
 		(instances
 			(project ""
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D1")
+					(reference "D79")
 					(unit 1)
 				)
 			)
@@ -24195,7 +24555,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "17ebf38c-ecd3-409c-87c5-cb79bcdcdf30")
-		(property "Reference" "D55"
+		(property "Reference" "D54"
 			(at 474.98 295.656 0)
 			(effects
 				(font
@@ -24265,7 +24625,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D55")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -24280,7 +24640,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "195ab928-8d16-42cb-a1ed-9f8abb4944cf")
-		(property "Reference" "D5"
+		(property "Reference" "D4"
 			(at 208.28 227.076 0)
 			(effects
 				(font
@@ -24350,7 +24710,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D5")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -24365,7 +24725,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "19c1ee75-8ab3-4f4e-b7a5-89e111d7caaf")
-		(property "Reference" "U38"
+		(property "Reference" "U37"
 			(at 372.11 272.288 0)
 			(effects
 				(font
@@ -24429,7 +24789,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U38")
+					(reference "U37")
 					(unit 1)
 				)
 			)
@@ -24510,7 +24870,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1aeedfd9-194f-4f28-9d56-a04994e9441e")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 105.41 226.568 0)
 			(effects
 				(font
@@ -24574,7 +24934,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U2")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -24589,7 +24949,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1b46375d-01a2-42ba-b421-b224d91639b4")
-		(property "Reference" "D70"
+		(property "Reference" "D69"
 			(at 589.28 318.516 0)
 			(effects
 				(font
@@ -24659,7 +25019,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D70")
+					(reference "D69")
 					(unit 1)
 				)
 			)
@@ -24803,7 +25163,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 163.83 54.61 0)
+		(at 149.86 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24812,7 +25172,7 @@
 		(fields_autoplaced yes)
 		(uuid "1d593c9e-e81d-4160-9ef6-370a33fe697b")
 		(property "Reference" "#PWR016"
-			(at 163.83 58.42 0)
+			(at 149.86 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24821,7 +25181,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 163.83 49.53 0)
+			(at 149.86 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24829,7 +25189,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 163.83 54.61 0)
+			(at 149.86 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24838,7 +25198,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 54.61 0)
+			(at 149.86 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24847,7 +25207,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 163.83 54.61 0)
+			(at 149.86 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24868,6 +25228,70 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 289.56 342.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1dca395b-1f09-4af2-b3bf-7f18fe279fd4")
+		(property "Reference" "S6"
+			(at 295.91 341.5029 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MX_stab"
+			(at 295.91 344.0429 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_7u"
+			(at 289.56 342.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 289.56 342.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 289.56 342.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "PCB-Keyboard-EDIPO"
+				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
+					(reference "S6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D_Small")
 		(at 209.55 322.58 0)
 		(unit 1)
@@ -24876,7 +25300,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1e55662e-d5ee-4f2b-b69f-0d3a90e1e625")
-		(property "Reference" "D61"
+		(property "Reference" "D60"
 			(at 208.28 318.516 0)
 			(effects
 				(font
@@ -24946,7 +25370,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D61")
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -24961,7 +25385,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1ef9a3a8-d560-4cfd-963b-1dce07a7ac1f")
-		(property "Reference" "D46"
+		(property "Reference" "D45"
 			(at 132.08 295.656 0)
 			(effects
 				(font
@@ -25031,7 +25455,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D46")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -25381,7 +25805,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2205e16a-ed8a-4d57-ab7d-e81bcb58ee78")
-		(property "Reference" "D7"
+		(property "Reference" "D6"
 			(at 284.48 227.076 0)
 			(effects
 				(font
@@ -25451,7 +25875,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D7")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -25466,7 +25890,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "22319bc2-01c5-4f5e-be7f-8cd370cd7518")
-		(property "Reference" "U18"
+		(property "Reference" "U17"
 			(at 143.51 249.428 0)
 			(effects
 				(font
@@ -25530,7 +25954,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U18")
+					(reference "U17")
 					(unit 1)
 				)
 			)
@@ -25817,7 +26241,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "248a60db-addf-400a-bdc1-e32d22077e9c")
-		(property "Reference" "D72"
+		(property "Reference" "D71"
 			(at 93.98 341.376 0)
 			(effects
 				(font
@@ -25887,7 +26311,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D72")
+					(reference "D71")
 					(unit 1)
 				)
 			)
@@ -25972,7 +26396,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "24d24b87-cbdb-4123-a93e-d716dd9d8623")
-		(property "Reference" "U10"
+		(property "Reference" "U9"
 			(at 410.21 226.568 0)
 			(effects
 				(font
@@ -26036,7 +26460,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U10")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -26261,7 +26685,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "26e5ab20-899c-499e-a49a-a328cc0b6c72")
-		(property "Reference" "U49"
+		(property "Reference" "U48"
 			(at 257.81 295.148 0)
 			(effects
 				(font
@@ -26325,7 +26749,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U49")
+					(reference "U48")
 					(unit 1)
 				)
 			)
@@ -26340,7 +26764,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "27f2c9d5-e2f8-482d-9311-cbde25a330d5")
-		(property "Reference" "U40"
+		(property "Reference" "U39"
 			(at 448.31 272.288 0)
 			(effects
 				(font
@@ -26404,7 +26828,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U40")
+					(reference "U39")
 					(unit 1)
 				)
 			)
@@ -26419,7 +26843,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2804735e-572f-4278-a25b-9bb1ec08a7b3")
-		(property "Reference" "D38"
+		(property "Reference" "D37"
 			(at 360.68 272.796 0)
 			(effects
 				(font
@@ -26489,7 +26913,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D38")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -26573,7 +26997,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "286f79b2-e65c-434f-823a-d6a79bb0323b")
-		(property "Reference" "U48"
+		(property "Reference" "U47"
 			(at 219.71 295.148 0)
 			(effects
 				(font
@@ -26637,7 +27061,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U48")
+					(reference "U47")
 					(unit 1)
 				)
 			)
@@ -27001,7 +27425,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "29e2518c-235f-4c1e-bc57-05d15eabfdc9")
-		(property "Reference" "D6"
+		(property "Reference" "D5"
 			(at 246.38 227.076 0)
 			(effects
 				(font
@@ -27071,7 +27495,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D6")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -27218,7 +27642,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2bad4612-6802-42f6-91ed-af640776cff3")
-		(property "Reference" "D37"
+		(property "Reference" "D36"
 			(at 322.58 272.796 0)
 			(effects
 				(font
@@ -27288,7 +27712,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D37")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -27303,7 +27727,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2cc0730c-657c-495a-afc7-04b4fb77e09f")
-		(property "Reference" "D56"
+		(property "Reference" "D55"
 			(at 513.08 295.656 0)
 			(effects
 				(font
@@ -27373,7 +27797,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D56")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -27454,7 +27878,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2e864ce2-6426-4c85-bb97-9972f5098aa3")
-		(property "Reference" "U63"
+		(property "Reference" "U62"
 			(at 295.91 318.008 0)
 			(effects
 				(font
@@ -27518,7 +27942,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U63")
+					(reference "U62")
 					(unit 1)
 				)
 			)
@@ -27669,7 +28093,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "317f7525-48b4-44ea-acbb-64290e819a9c")
-		(property "Reference" "U23"
+		(property "Reference" "U22"
 			(at 334.01 249.428 0)
 			(effects
 				(font
@@ -27733,7 +28157,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U23")
+					(reference "U22")
 					(unit 1)
 				)
 			)
@@ -27748,7 +28172,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "31bb9bf6-371b-4e46-bdb3-0cdbf60ee446")
-		(property "Reference" "U44"
+		(property "Reference" "U43"
 			(at 67.31 295.148 0)
 			(effects
 				(font
@@ -27812,7 +28236,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U44")
+					(reference "U43")
 					(unit 1)
 				)
 			)
@@ -27893,7 +28317,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "32b0a527-7dbb-48df-99f1-0c7f8501c96d")
-		(property "Reference" "D36"
+		(property "Reference" "D35"
 			(at 284.48 272.796 0)
 			(effects
 				(font
@@ -27963,7 +28387,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D36")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -27978,7 +28402,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "33e51830-7142-4123-b73f-c3beb6a6acbb")
-		(property "Reference" "U52"
+		(property "Reference" "U51"
 			(at 372.11 295.148 0)
 			(effects
 				(font
@@ -28042,7 +28466,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U52")
+					(reference "U51")
 					(unit 1)
 				)
 			)
@@ -28057,7 +28481,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "34dd9b9c-8dfb-4835-ab2a-3e89dd59bb89")
-		(property "Reference" "D73"
+		(property "Reference" "D72"
 			(at 132.08 341.376 0)
 			(effects
 				(font
@@ -28127,7 +28551,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D73")
+					(reference "D72")
 					(unit 1)
 				)
 			)
@@ -28142,7 +28566,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "34f3cf34-82cf-42fc-b55b-c392ed3dddad")
-		(property "Reference" "U12"
+		(property "Reference" "U11"
 			(at 486.41 226.568 0)
 			(effects
 				(font
@@ -28206,7 +28630,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U12")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -28287,7 +28711,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "362606ff-850a-4ede-87f6-d1909f3a8ccd")
-		(property "Reference" "D16"
+		(property "Reference" "D15"
 			(at 55.88 249.936 0)
 			(effects
 				(font
@@ -28357,7 +28781,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D16")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -28998,7 +29422,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3d6beadf-4384-4b20-91f7-c55b3416f9d5")
-		(property "Reference" "U4"
+		(property "Reference" "U3"
 			(at 181.61 226.568 0)
 			(effects
 				(font
@@ -29062,7 +29486,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U4")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -29077,7 +29501,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3d9de1e2-194f-4d05-b68a-6c0c2b6a7db9")
-		(property "Reference" "D79"
+		(property "Reference" "D78"
 			(at 589.28 341.376 0)
 			(effects
 				(font
@@ -29147,7 +29571,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D79")
+					(reference "D78")
 					(unit 1)
 				)
 			)
@@ -29229,7 +29653,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3e92aa77-294b-4782-82fa-beea1a6adced")
-		(property "Reference" "D22"
+		(property "Reference" "D21"
 			(at 284.48 249.936 0)
 			(effects
 				(font
@@ -29299,7 +29723,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D22")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -29432,6 +29856,70 @@
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
 					(reference "#PWR081")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 589.28 250.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3f199715-502d-405c-9dec-59f66f5e0ece")
+		(property "Reference" "S1"
+			(at 595.63 248.7929 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MX_stab"
+			(at 595.63 251.3329 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2u"
+			(at 589.28 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 589.28 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 589.28 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "PCB-Keyboard-EDIPO"
+				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
+					(reference "S1")
 					(unit 1)
 				)
 			)
@@ -29778,7 +30266,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "423e0eb1-046c-4048-980d-b1cc7a632b22")
-		(property "Reference" "D77"
+		(property "Reference" "D76"
 			(at 513.08 341.376 0)
 			(effects
 				(font
@@ -29848,7 +30336,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D77")
+					(reference "D76")
 					(unit 1)
 				)
 			)
@@ -29863,7 +30351,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4266916b-2dbc-4bbf-8c0b-7801f2eddd1f")
-		(property "Reference" "U7"
+		(property "Reference" "U6"
 			(at 295.91 226.568 0)
 			(effects
 				(font
@@ -29927,7 +30415,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U7")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -30074,7 +30562,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "43317ede-842d-41c7-ba3d-8ebd0b0bfda9")
-		(property "Reference" "U19"
+		(property "Reference" "U18"
 			(at 181.61 249.428 0)
 			(effects
 				(font
@@ -30138,7 +30626,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U19")
+					(reference "U18")
 					(unit 1)
 				)
 			)
@@ -30219,7 +30707,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "446764ad-4814-4ea2-b14a-ab3d4a8807e7")
-		(property "Reference" "D9"
+		(property "Reference" "D8"
 			(at 360.68 227.076 0)
 			(effects
 				(font
@@ -30289,7 +30777,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D9")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -30304,7 +30792,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4470329d-66c1-41b0-8b7a-1f2eec62bf92")
-		(property "Reference" "D57"
+		(property "Reference" "D56"
 			(at 55.88 318.516 0)
 			(effects
 				(font
@@ -30374,7 +30862,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D57")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -30389,7 +30877,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "448d8b91-2131-4920-8f13-b39754d2ce88")
-		(property "Reference" "D62"
+		(property "Reference" "D61"
 			(at 246.38 318.516 0)
 			(effects
 				(font
@@ -30459,7 +30947,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D62")
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -30474,7 +30962,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "462beb97-d164-4526-a45f-10dc25f98872")
-		(property "Reference" "D63"
+		(property "Reference" "D62"
 			(at 284.48 318.516 0)
 			(effects
 				(font
@@ -30544,7 +31032,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D63")
+					(reference "D62")
 					(unit 1)
 				)
 			)
@@ -30627,7 +31115,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "47ba9a94-f2a7-4a89-82b1-a2dcb3b39386")
-		(property "Reference" "U34"
+		(property "Reference" "U33"
 			(at 219.71 272.288 0)
 			(effects
 				(font
@@ -30691,7 +31179,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U34")
+					(reference "U33")
 					(unit 1)
 				)
 			)
@@ -30699,7 +31187,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 163.83 57.15 0)
+		(at 149.86 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -30708,7 +31196,7 @@
 		(fields_autoplaced yes)
 		(uuid "48458292-54b0-4c58-9368-faa577b59691")
 		(property "Reference" "C82"
-			(at 166.37 55.8862 0)
+			(at 152.4 55.8862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30717,7 +31205,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 166.37 58.4262 0)
+			(at 152.4 58.4262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30726,7 +31214,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 163.83 57.15 0)
+			(at 149.86 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30735,7 +31223,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 163.83 57.15 0)
+			(at 149.86 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30744,7 +31232,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 163.83 57.15 0)
+			(at 149.86 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30776,7 +31264,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "48ed7d3e-dd0f-469e-ab7d-6b2946210e2d")
-		(property "Reference" "U9"
+		(property "Reference" "U8"
 			(at 372.11 226.568 0)
 			(effects
 				(font
@@ -30840,7 +31328,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U9")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -30921,7 +31409,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "49117d11-343f-4721-8549-2bf7cc8f9309")
-		(property "Reference" "D58"
+		(property "Reference" "D57"
 			(at 93.98 318.516 0)
 			(effects
 				(font
@@ -30991,7 +31479,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D58")
+					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -31006,7 +31494,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "49ecf992-8f41-45a6-9955-4ffebe6d6576")
-		(property "Reference" "U24"
+		(property "Reference" "U23"
 			(at 372.11 249.428 0)
 			(effects
 				(font
@@ -31070,7 +31558,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U24")
+					(reference "U23")
 					(unit 1)
 				)
 			)
@@ -31085,7 +31573,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4afa8b2d-323b-4f17-bf19-e1543c099f3d")
-		(property "Reference" "D29"
+		(property "Reference" "D28"
 			(at 551.18 249.936 0)
 			(effects
 				(font
@@ -31155,7 +31643,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D29")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -31454,7 +31942,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4c474ebb-9644-47bb-96d9-b8ed8461ad68")
-		(property "Reference" "D78"
+		(property "Reference" "D77"
 			(at 551.18 341.376 0)
 			(effects
 				(font
@@ -31524,7 +32012,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D78")
+					(reference "D77")
 					(unit 1)
 				)
 			)
@@ -31741,7 +32229,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "505a00f1-05ca-4865-a79c-d07751dc9e70")
-		(property "Reference" "D2"
+		(property "Reference" "D1"
 			(at 93.98 227.076 0)
 			(effects
 				(font
@@ -31811,7 +32299,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D2")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -31889,7 +32377,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 190.5 57.15 0)
+		(at 176.53 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31898,7 +32386,7 @@
 		(fields_autoplaced yes)
 		(uuid "5141e8ee-0acf-46e9-ac5f-a05ef818b5e6")
 		(property "Reference" "C85"
-			(at 193.04 55.8862 0)
+			(at 179.07 55.8862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31907,7 +32395,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 193.04 58.4262 0)
+			(at 179.07 58.4262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31916,7 +32404,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 190.5 57.15 0)
+			(at 176.53 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31925,7 +32413,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 190.5 57.15 0)
+			(at 176.53 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31934,7 +32422,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 190.5 57.15 0)
+			(at 176.53 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32582,7 +33070,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "58c45b57-266b-41dc-aba1-a0991ca3b8f4")
-		(property "Reference" "U66"
+		(property "Reference" "U65"
 			(at 410.21 318.008 0)
 			(effects
 				(font
@@ -32646,7 +33134,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U66")
+					(reference "U65")
 					(unit 1)
 				)
 			)
@@ -33342,7 +33830,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5d96d51f-a02b-4230-9e24-1e4725c61052")
-		(property "Reference" "D21"
+		(property "Reference" "D20"
 			(at 246.38 249.936 0)
 			(effects
 				(font
@@ -33412,7 +33900,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D21")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -33427,7 +33915,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5daeb63c-1d4a-4e73-bc22-7c3649815a48")
-		(property "Reference" "U69"
+		(property "Reference" "U68"
 			(at 562.61 318.008 0)
 			(effects
 				(font
@@ -33491,7 +33979,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U69")
+					(reference "U68")
 					(unit 1)
 				)
 			)
@@ -33499,7 +33987,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 172.72 57.15 0)
+		(at 158.75 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33508,7 +33996,7 @@
 		(fields_autoplaced yes)
 		(uuid "5e40f57c-1754-49c6-8548-de725438ea0d")
 		(property "Reference" "C83"
-			(at 175.26 55.8862 0)
+			(at 161.29 55.8862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33517,7 +34005,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 175.26 58.4262 0)
+			(at 161.29 58.4262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33526,7 +34014,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 172.72 57.15 0)
+			(at 158.75 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33535,7 +34023,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 172.72 57.15 0)
+			(at 158.75 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33544,7 +34032,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 172.72 57.15 0)
+			(at 158.75 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33576,7 +34064,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5e42861b-b87d-4b8b-920b-76e086142df2")
-		(property "Reference" "U35"
+		(property "Reference" "U34"
 			(at 257.81 272.288 0)
 			(effects
 				(font
@@ -33640,7 +34128,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U35")
+					(reference "U34")
 					(unit 1)
 				)
 			)
@@ -33655,7 +34143,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5e7edbf3-85f0-4283-a08b-1849a92c957d")
-		(property "Reference" "D4"
+		(property "Reference" "D3"
 			(at 170.18 227.076 0)
 			(effects
 				(font
@@ -33725,7 +34213,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D4")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -33740,7 +34228,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5fa8b905-478c-47a2-afa3-a9a7264808c3")
-		(property "Reference" "D18"
+		(property "Reference" "D17"
 			(at 132.08 249.936 0)
 			(effects
 				(font
@@ -33810,7 +34298,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D18")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -33957,7 +34445,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "623d6b34-0391-4126-84f4-780be03cab44")
-		(property "Reference" "D20"
+		(property "Reference" "D19"
 			(at 208.28 249.936 0)
 			(effects
 				(font
@@ -34027,7 +34515,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D20")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -34042,7 +34530,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "62bc20c6-c52d-49a5-a269-147c6bca1843")
-		(property "Reference" "U72"
+		(property "Reference" "U71"
 			(at 105.41 340.868 0)
 			(effects
 				(font
@@ -34106,7 +34594,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U72")
+					(reference "U71")
 					(unit 1)
 				)
 			)
@@ -34323,7 +34811,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "643ea549-fb2a-49c0-bbe1-0b3682ecb6bc")
-		(property "Reference" "U41"
+		(property "Reference" "U40"
 			(at 486.41 272.288 0)
 			(effects
 				(font
@@ -34387,7 +34875,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U41")
+					(reference "U40")
 					(unit 1)
 				)
 			)
@@ -34395,7 +34883,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 146.05 57.15 0)
+		(at 123.19 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34404,7 +34892,7 @@
 		(fields_autoplaced yes)
 		(uuid "653b3bf5-5757-4950-9d26-27bfd08cf274")
 		(property "Reference" "C80"
-			(at 148.59 55.8862 0)
+			(at 125.73 55.8862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34413,7 +34901,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 148.59 58.4262 0)
+			(at 125.73 58.4262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34422,7 +34910,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 146.05 57.15 0)
+			(at 123.19 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34431,7 +34919,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 146.05 57.15 0)
+			(at 123.19 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34440,7 +34928,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 146.05 57.15 0)
+			(at 123.19 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34605,7 +35093,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "66961fbd-af65-43c6-92ff-68e99ba843f4")
-		(property "Reference" "D59"
+		(property "Reference" "D58"
 			(at 132.08 318.516 0)
 			(effects
 				(font
@@ -34675,7 +35163,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D59")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -34690,7 +35178,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "66b99fb5-ad10-43f1-996e-0902d033fc5b")
-		(property "Reference" "U31"
+		(property "Reference" "U30"
 			(at 105.41 272.288 0)
 			(effects
 				(font
@@ -34754,7 +35242,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U31")
+					(reference "U30")
 					(unit 1)
 				)
 			)
@@ -34769,7 +35257,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "670acbba-b106-4399-ba50-97b85157d4a9")
-		(property "Reference" "D11"
+		(property "Reference" "D10"
 			(at 436.88 227.076 0)
 			(effects
 				(font
@@ -34839,7 +35327,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D11")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -35056,7 +35544,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "693fa4cb-cd42-477e-b826-b0f8f80be33f")
-		(property "Reference" "D51"
+		(property "Reference" "D50"
 			(at 322.58 295.656 0)
 			(effects
 				(font
@@ -35126,7 +35614,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D51")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -35277,7 +35765,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6a28fb23-045f-4178-9c0b-25923be541a3")
-		(property "Reference" "D40"
+		(property "Reference" "D39"
 			(at 436.88 272.796 0)
 			(effects
 				(font
@@ -35347,7 +35835,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D40")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -35428,7 +35916,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6be997ff-3cde-4d72-987a-743322375114")
-		(property "Reference" "D28"
+		(property "Reference" "D27"
 			(at 513.08 249.936 0)
 			(effects
 				(font
@@ -35498,7 +35986,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D28")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -35513,7 +36001,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6c77c91e-fd12-4427-8b4e-d3e8a64ac8d2")
-		(property "Reference" "U45"
+		(property "Reference" "U44"
 			(at 105.41 295.148 0)
 			(effects
 				(font
@@ -35577,7 +36065,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U45")
+					(reference "U44")
 					(unit 1)
 				)
 			)
@@ -35791,7 +36279,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6d1e4f14-5d3b-42c5-8211-769a46520860")
-		(property "Reference" "D42"
+		(property "Reference" "D41"
 			(at 513.08 272.796 0)
 			(effects
 				(font
@@ -35861,7 +36349,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D42")
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -35942,7 +36430,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6f45a5e7-a4ab-4f68-b01c-191f26ba2136")
-		(property "Reference" "D26"
+		(property "Reference" "D25"
 			(at 436.88 249.936 0)
 			(effects
 				(font
@@ -36012,7 +36500,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D26")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -36162,7 +36650,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "70924df1-ab5b-4469-9bb1-fba4cd219a94")
-		(property "Reference" "D27"
+		(property "Reference" "D26"
 			(at 474.98 249.936 0)
 			(effects
 				(font
@@ -36232,7 +36720,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D27")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -36247,7 +36735,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "70b2d2d2-eb3a-4d6f-9a20-5973c264fad4")
-		(property "Reference" "U39"
+		(property "Reference" "U38"
 			(at 410.21 272.288 0)
 			(effects
 				(font
@@ -36311,7 +36799,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U39")
+					(reference "U38")
 					(unit 1)
 				)
 			)
@@ -36326,7 +36814,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "70f0d5bd-6aaf-4bbd-9c20-04fdbff92e5e")
-		(property "Reference" "D32"
+		(property "Reference" "D31"
 			(at 132.08 272.796 0)
 			(effects
 				(font
@@ -36396,7 +36884,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D32")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -36887,7 +37375,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "74c31b4f-670b-484e-bf5c-0fdea32899ac")
-		(property "Reference" "U43"
+		(property "Reference" "U42"
 			(at 562.61 272.288 0)
 			(effects
 				(font
@@ -36951,7 +37439,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U43")
+					(reference "U42")
 					(unit 1)
 				)
 			)
@@ -37036,7 +37524,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "763c549c-68f8-4425-9ec0-8c34c7015e8c")
-		(property "Reference" "U30"
+		(property "Reference" "U29"
 			(at 67.31 272.288 0)
 			(effects
 				(font
@@ -37100,7 +37588,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U30")
+					(reference "U29")
 					(unit 1)
 				)
 			)
@@ -37240,7 +37728,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 180.34 59.69 0)
+		(at 166.37 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37249,7 +37737,7 @@
 		(fields_autoplaced yes)
 		(uuid "76f6d533-0c36-44b4-8dd1-844c7a02fcfc")
 		(property "Reference" "#PWR017"
-			(at 180.34 66.04 0)
+			(at 166.37 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37258,7 +37746,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 180.34 64.77 0)
+			(at 166.37 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37266,7 +37754,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 180.34 59.69 0)
+			(at 166.37 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37275,7 +37763,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 180.34 59.69 0)
+			(at 166.37 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37284,7 +37772,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 180.34 59.69 0)
+			(at 166.37 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37372,7 +37860,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 69.85 151.13 90)
+		(at 69.85 156.21 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37381,7 +37869,7 @@
 		(fields_autoplaced yes)
 		(uuid "79c353be-cb3e-466a-a4c0-8c717b1cb7e5")
 		(property "Reference" "#PWR021"
-			(at 73.66 151.13 0)
+			(at 73.66 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37390,7 +37878,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 66.04 151.1299 90)
+			(at 66.04 156.2099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37399,7 +37887,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 151.13 0)
+			(at 69.85 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37408,7 +37896,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 151.13 0)
+			(at 69.85 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37417,7 +37905,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 69.85 151.13 0)
+			(at 69.85 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37512,7 +38000,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7b63fa5c-d408-437a-8919-3bdd1d2f9c13")
-		(property "Reference" "D19"
+		(property "Reference" "D18"
 			(at 170.18 249.936 0)
 			(effects
 				(font
@@ -37582,7 +38070,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D19")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -37663,7 +38151,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7cf920a1-3487-4a79-a648-5c5767d533d0")
-		(property "Reference" "U67"
+		(property "Reference" "U66"
 			(at 448.31 318.008 0)
 			(effects
 				(font
@@ -37727,7 +38215,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U67")
+					(reference "U66")
 					(unit 1)
 				)
 			)
@@ -37872,7 +38360,7 @@
 	)
 	(symbol
 		(lib_id "power:+1V1")
-		(at 146.05 54.61 0)
+		(at 123.19 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37881,7 +38369,7 @@
 		(fields_autoplaced yes)
 		(uuid "7db1b240-7254-4135-bf27-de0865fc6dff")
 		(property "Reference" "#PWR015"
-			(at 146.05 58.42 0)
+			(at 123.19 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37890,7 +38378,7 @@
 			)
 		)
 		(property "Value" "+1V1"
-			(at 146.05 49.53 0)
+			(at 123.19 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37898,7 +38386,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 54.61 0)
+			(at 123.19 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37907,7 +38395,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 54.61 0)
+			(at 123.19 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37916,7 +38404,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+1V1\""
-			(at 146.05 54.61 0)
+			(at 123.19 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37938,7 +38426,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 149.86 59.69 0)
+		(at 127 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37947,7 +38435,7 @@
 		(fields_autoplaced yes)
 		(uuid "7e85ed91-43e7-49e7-94bd-bffcf5730bd7")
 		(property "Reference" "#PWR018"
-			(at 149.86 66.04 0)
+			(at 127 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37956,7 +38444,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 149.86 64.77 0)
+			(at 127 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37964,7 +38452,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 59.69 0)
+			(at 127 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37973,7 +38461,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 59.69 0)
+			(at 127 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37982,7 +38470,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 149.86 59.69 0)
+			(at 127 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38011,7 +38499,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "801bd884-bd06-43f9-acc1-b5004707d8a1")
-		(property "Reference" "U25"
+		(property "Reference" "U24"
 			(at 410.21 249.428 0)
 			(effects
 				(font
@@ -38075,7 +38563,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U25")
+					(reference "U24")
 					(unit 1)
 				)
 			)
@@ -38090,7 +38578,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "80ba861c-8e84-4378-acd1-222320a8669a")
-		(property "Reference" "U26"
+		(property "Reference" "U25"
 			(at 448.31 249.428 0)
 			(effects
 				(font
@@ -38154,7 +38642,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U26")
+					(reference "U25")
 					(unit 1)
 				)
 			)
@@ -38169,7 +38657,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "812af567-1185-470d-9b63-13ed5b7863a0")
-		(property "Reference" "D50"
+		(property "Reference" "D49"
 			(at 284.48 295.656 0)
 			(effects
 				(font
@@ -38239,7 +38727,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D50")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -38386,7 +38874,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "82bb0618-91d1-4314-8e57-89e6fc480be3")
-		(property "Reference" "U37"
+		(property "Reference" "U36"
 			(at 334.01 272.288 0)
 			(effects
 				(font
@@ -38450,7 +38938,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U37")
+					(reference "U36")
 					(unit 1)
 				)
 			)
@@ -38465,7 +38953,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "839f517f-b81d-47c1-bec5-71fc888e3c9e")
-		(property "Reference" "U33"
+		(property "Reference" "U32"
 			(at 181.61 272.288 0)
 			(effects
 				(font
@@ -38529,7 +39017,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U33")
+					(reference "U32")
 					(unit 1)
 				)
 			)
@@ -38742,7 +39230,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "85e6eb58-305e-4ae0-a53b-686bdc6ef2f9")
-		(property "Reference" "U1"
+		(property "Reference" "U79"
 			(at 73.152 217.17 90)
 			(effects
 				(font
@@ -38805,7 +39293,7 @@
 		(instances
 			(project ""
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U1")
+					(reference "U79")
 					(unit 1)
 				)
 			)
@@ -38952,7 +39440,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "86c0f3be-d1e4-425a-aeb8-4dee8570933e")
-		(property "Reference" "U29"
+		(property "Reference" "U28"
 			(at 562.61 249.428 0)
 			(effects
 				(font
@@ -39016,7 +39504,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U29")
+					(reference "U28")
 					(unit 1)
 				)
 			)
@@ -39097,7 +39585,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "870ae5ea-94f2-4fe5-98b2-b60f54348de4")
-		(property "Reference" "U14"
+		(property "Reference" "U13"
 			(at 562.61 226.568 0)
 			(effects
 				(font
@@ -39161,7 +39649,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U14")
+					(reference "U13")
 					(unit 1)
 				)
 			)
@@ -39308,7 +39796,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "87d9a503-4b35-4d1b-b35f-dad25c31a15d")
-		(property "Reference" "U3"
+		(property "Reference" "U2"
 			(at 143.51 226.568 0)
 			(effects
 				(font
@@ -39372,7 +39860,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U3")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -39593,7 +40081,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "889203e3-4c75-4352-9d1d-1148f9d2b87e")
-		(property "Reference" "D44"
+		(property "Reference" "D43"
 			(at 55.88 295.656 0)
 			(effects
 				(font
@@ -39663,7 +40151,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D44")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -39678,7 +40166,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "893df662-cb80-40b5-957a-0a3f13c589f2")
-		(property "Reference" "U61"
+		(property "Reference" "U60"
 			(at 219.71 318.008 0)
 			(effects
 				(font
@@ -39742,7 +40230,77 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U61")
+					(reference "U60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 215.9 57.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "89894e20-2ffa-4336-9302-f4936c7e5380")
+		(property "Reference" "C95"
+			(at 218.44 55.8862 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 218.44 58.4262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 215.9 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 215.9 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 215.9 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a7fdd35c-abac-4d33-a436-b11162c36042")
+		)
+		(pin "2"
+			(uuid "9e810267-674a-48be-9a61-fccc546dadc0")
+		)
+		(instances
+			(project "PCB-Keyboard-EDIPO"
+				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
+					(reference "C95")
 					(unit 1)
 				)
 			)
@@ -39827,7 +40385,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8a5e7b50-0607-45d8-9b23-275ce493434f")
-		(property "Reference" "D30"
+		(property "Reference" "D29"
 			(at 55.88 272.796 0)
 			(effects
 				(font
@@ -39897,7 +40455,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D30")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -39978,7 +40536,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8a9ac77a-b65c-4e90-8617-35df5bab44f8")
-		(property "Reference" "U56"
+		(property "Reference" "U55"
 			(at 524.51 295.148 0)
 			(effects
 				(font
@@ -40042,7 +40600,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U56")
+					(reference "U55")
 					(unit 1)
 				)
 			)
@@ -40321,7 +40879,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d9472bf-6767-4556-bea7-be81d19cb214")
-		(property "Reference" "U50"
+		(property "Reference" "U49"
 			(at 295.91 295.148 0)
 			(effects
 				(font
@@ -40385,7 +40943,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U50")
+					(reference "U49")
 					(unit 1)
 				)
 			)
@@ -40400,7 +40958,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8e0096d8-181d-4dbd-b1b5-c30e8a9e2557")
-		(property "Reference" "U55"
+		(property "Reference" "U54"
 			(at 486.41 295.148 0)
 			(effects
 				(font
@@ -40464,7 +41022,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U55")
+					(reference "U54")
 					(unit 1)
 				)
 			)
@@ -40611,7 +41169,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8ec90c13-5af7-4947-a000-949ee99e2aec")
-		(property "Reference" "D10"
+		(property "Reference" "D9"
 			(at 398.78 227.076 0)
 			(effects
 				(font
@@ -40681,7 +41239,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D10")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -40960,7 +41518,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9355e31a-3ec1-40bc-9a55-5d9bebd1e206")
-		(property "Reference" "U78"
+		(property "Reference" "U77"
 			(at 562.61 340.868 0)
 			(effects
 				(font
@@ -41024,7 +41582,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U78")
+					(reference "U77")
 					(unit 1)
 				)
 			)
@@ -41230,7 +41788,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 69.85 153.67 270)
+		(at 69.85 158.75 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41239,7 +41797,7 @@
 		(fields_autoplaced yes)
 		(uuid "9585a910-2a04-4870-be4c-46386c820135")
 		(property "Reference" "#PWR022"
-			(at 63.5 153.67 0)
+			(at 63.5 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41248,7 +41806,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 66.04 153.6699 90)
+			(at 66.04 158.7499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41257,7 +41815,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 153.67 0)
+			(at 69.85 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41266,7 +41824,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 153.67 0)
+			(at 69.85 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41275,7 +41833,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 69.85 153.67 0)
+			(at 69.85 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41436,7 +41994,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "976f6894-94d9-457f-b662-6251e3176e16")
-		(property "Reference" "D45"
+		(property "Reference" "D44"
 			(at 93.98 295.656 0)
 			(effects
 				(font
@@ -41506,7 +42064,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D45")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -41647,6 +42205,76 @@
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
 					(reference "C70")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 195.58 57.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "992c5d76-391a-4645-85ba-24a2a2bbf368")
+		(property "Reference" "C93"
+			(at 198.12 55.8862 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 198.12 58.4262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 195.58 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 195.58 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 195.58 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7bb8da1b-38ef-4677-a34d-00a88946066d")
+		)
+		(pin "2"
+			(uuid "e36e742c-7c24-40ca-9621-e7c9f4d0a6c1")
+		)
+		(instances
+			(project "PCB-Keyboard-EDIPO"
+				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
+					(reference "C93")
 					(unit 1)
 				)
 			)
@@ -41929,7 +42557,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9c7813b8-1c57-409e-bc4f-7aa25243b4ab")
-		(property "Reference" "U36"
+		(property "Reference" "U35"
 			(at 295.91 272.288 0)
 			(effects
 				(font
@@ -41993,7 +42621,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U36")
+					(reference "U35")
 					(unit 1)
 				)
 			)
@@ -42008,7 +42636,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9ce2762f-baf4-4b53-88b8-37ab888978c0")
-		(property "Reference" "U16"
+		(property "Reference" "U15"
 			(at 67.31 249.428 0)
 			(effects
 				(font
@@ -42072,7 +42700,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U16")
+					(reference "U15")
 					(unit 1)
 				)
 			)
@@ -42290,7 +42918,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9e807540-6a04-476d-9edc-3e2dd905875a")
-		(property "Reference" "U76"
+		(property "Reference" "U75"
 			(at 486.41 340.868 0)
 			(effects
 				(font
@@ -42354,7 +42982,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U76")
+					(reference "U75")
 					(unit 1)
 				)
 			)
@@ -42369,7 +42997,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9f348a9d-45b8-49e9-97bf-74600e4c87d0")
-		(property "Reference" "U57"
+		(property "Reference" "U56"
 			(at 67.31 318.008 0)
 			(effects
 				(font
@@ -42433,7 +43061,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U57")
+					(reference "U56")
 					(unit 1)
 				)
 			)
@@ -42504,6 +43132,76 @@
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
 					(reference "C43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 139.7 57.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a0987ce7-2bfe-44e6-a67f-94f77f887418")
+		(property "Reference" "C92"
+			(at 142.24 55.8862 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 142.24 58.4262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 139.7 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 139.7 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "31b7b06c-e5f0-4e9b-8685-37be9bd6b476")
+		)
+		(pin "2"
+			(uuid "4c1b1a34-dd5a-4bbd-b1d2-23ffe753951f")
+		)
+		(instances
+			(project "PCB-Keyboard-EDIPO"
+				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
+					(reference "C92")
 					(unit 1)
 				)
 			)
@@ -42926,7 +43624,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a96c7396-13a3-4587-8890-e364845cf261")
-		(property "Reference" "D74"
+		(property "Reference" "D73"
 			(at 322.58 341.376 0)
 			(effects
 				(font
@@ -42996,7 +43694,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D74")
+					(reference "D73")
 					(unit 1)
 				)
 			)
@@ -43330,7 +44028,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ab99cf2d-1ec3-48e9-9430-1c914ebf8867")
-		(property "Reference" "D43"
+		(property "Reference" "D42"
 			(at 551.18 272.796 0)
 			(effects
 				(font
@@ -43400,7 +44098,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D43")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -43481,7 +44179,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ac5007fb-b853-4d69-b88a-128efbbcbabe")
-		(property "Reference" "U11"
+		(property "Reference" "U10"
 			(at 448.31 226.568 0)
 			(effects
 				(font
@@ -43545,7 +44243,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U11")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -43692,7 +44390,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "afb05005-440d-46dd-a9c2-00f46d733650")
-		(property "Reference" "U54"
+		(property "Reference" "U53"
 			(at 448.31 295.148 0)
 			(effects
 				(font
@@ -43756,7 +44454,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U54")
+					(reference "U53")
 					(unit 1)
 				)
 			)
@@ -43841,7 +44539,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b0f37ad7-4266-405b-a6c1-bec250e48eb6")
-		(property "Reference" "U32"
+		(property "Reference" "U31"
 			(at 143.51 272.288 0)
 			(effects
 				(font
@@ -43905,7 +44603,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U32")
+					(reference "U31")
 					(unit 1)
 				)
 			)
@@ -44055,7 +44753,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b2082b47-56c7-4bd7-98fd-b00bd736c3a0")
-		(property "Reference" "D41"
+		(property "Reference" "D40"
 			(at 474.98 272.796 0)
 			(effects
 				(font
@@ -44125,7 +44823,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D41")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -44206,7 +44904,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b23afe2b-7747-4260-b499-6fc691e4393f")
-		(property "Reference" "D52"
+		(property "Reference" "D51"
 			(at 360.68 295.656 0)
 			(effects
 				(font
@@ -44276,7 +44974,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D52")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -44486,6 +45184,70 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 554.99 294.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b50e8612-38a8-4e67-99a6-ba9a9aa3781a")
+		(property "Reference" "S3"
+			(at 561.34 293.2429 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MX_stab"
+			(at 561.34 295.7829 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.25u"
+			(at 554.99 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 554.99 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 554.99 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "PCB-Keyboard-EDIPO"
+				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
+					(reference "S3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CherryMX:CherryMX_LTST-A683CEGBW")
 		(at 143.51 325.12 0)
 		(unit 1)
@@ -44494,7 +45256,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b62d8d16-0fae-4e89-b9d6-da3e79606dd0")
-		(property "Reference" "U59"
+		(property "Reference" "U58"
 			(at 143.51 318.008 0)
 			(effects
 				(font
@@ -44558,7 +45320,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U59")
+					(reference "U58")
 					(unit 1)
 				)
 			)
@@ -44639,7 +45401,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b6cfe6f4-4511-43d9-9466-d4098375f0c5")
-		(property "Reference" "U71"
+		(property "Reference" "U70"
 			(at 67.31 340.868 0)
 			(effects
 				(font
@@ -44703,7 +45465,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U71")
+					(reference "U70")
 					(unit 1)
 				)
 			)
@@ -44919,7 +45681,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b8662567-e740-439f-97a8-e7d303211c1f")
-		(property "Reference" "U65"
+		(property "Reference" "U64"
 			(at 372.11 318.008 0)
 			(effects
 				(font
@@ -44983,7 +45745,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U65")
+					(reference "U64")
 					(unit 1)
 				)
 			)
@@ -44998,7 +45760,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b86ce32d-2c80-491b-8a40-be8efaabb81a")
-		(property "Reference" "D39"
+		(property "Reference" "D38"
 			(at 398.78 272.796 0)
 			(effects
 				(font
@@ -45068,7 +45830,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D39")
+					(reference "D38")
 					(unit 1)
 				)
 			)
@@ -45083,7 +45845,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b86e253f-9c51-40e7-9662-edbe2471ac10")
-		(property "Reference" "D49"
+		(property "Reference" "D48"
 			(at 246.38 295.656 0)
 			(effects
 				(font
@@ -45153,7 +45915,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D49")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -45300,7 +46062,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ba91c988-342e-4504-b126-8df6af1f37c8")
-		(property "Reference" "D76"
+		(property "Reference" "D75"
 			(at 474.98 341.376 0)
 			(effects
 				(font
@@ -45370,7 +46132,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D76")
+					(reference "D75")
 					(unit 1)
 				)
 			)
@@ -45711,6 +46473,70 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 30.48 321.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bfbe3dea-37db-4e8e-8cae-cf73ada62237")
+		(property "Reference" "S5"
+			(at 36.83 319.9129 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MX_stab"
+			(at 36.83 322.4529 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.25u"
+			(at 30.48 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 30.48 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
+					(reference "S5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D_Small")
 		(at 171.45 322.58 0)
 		(unit 1)
@@ -45719,7 +46545,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c06e1b1e-2a3e-44f8-878c-82346ef9da90")
-		(property "Reference" "D60"
+		(property "Reference" "D59"
 			(at 170.18 318.516 0)
 			(effects
 				(font
@@ -45789,7 +46615,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D60")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -45804,7 +46630,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c0c6e2d5-60e7-47bb-adf6-a43049c90d28")
-		(property "Reference" "U53"
+		(property "Reference" "U52"
 			(at 410.21 295.148 0)
 			(effects
 				(font
@@ -45868,7 +46694,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U53")
+					(reference "U52")
 					(unit 1)
 				)
 			)
@@ -46551,7 +47377,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c4612650-bc8e-439d-b1cb-d914a47cabed")
-		(property "Reference" "D15"
+		(property "Reference" "D14"
 			(at 589.28 227.076 0)
 			(effects
 				(font
@@ -46621,7 +47447,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D15")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -46636,7 +47462,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c5334256-03b1-41d1-ba0c-556056e123c1")
-		(property "Reference" "U47"
+		(property "Reference" "U46"
 			(at 181.61 295.148 0)
 			(effects
 				(font
@@ -46700,7 +47526,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U47")
+					(reference "U46")
 					(unit 1)
 				)
 			)
@@ -47046,7 +47872,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c72a6153-2c78-4a62-950e-0b1414736743")
-		(property "Reference" "U5"
+		(property "Reference" "U4"
 			(at 219.71 226.568 0)
 			(effects
 				(font
@@ -47110,7 +47936,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U5")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -47328,7 +48154,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c9341e4a-3d56-4ebf-b391-0b177b127b85")
-		(property "Reference" "U20"
+		(property "Reference" "U19"
 			(at 219.71 249.428 0)
 			(effects
 				(font
@@ -47392,7 +48218,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U20")
+					(reference "U19")
 					(unit 1)
 				)
 			)
@@ -47473,7 +48299,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ca211d70-3392-424b-a55e-431c83705021")
-		(property "Reference" "D66"
+		(property "Reference" "D65"
 			(at 398.78 318.516 0)
 			(effects
 				(font
@@ -47543,7 +48369,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D66")
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -47558,7 +48384,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ca21e5a6-42ad-4111-bc88-5e6d7e80736a")
-		(property "Reference" "U8"
+		(property "Reference" "U7"
 			(at 334.01 226.568 0)
 			(effects
 				(font
@@ -47622,7 +48448,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U8")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -48315,7 +49141,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cf680d79-d72f-46c7-99f1-85897fc103c3")
-		(property "Reference" "U6"
+		(property "Reference" "U5"
 			(at 257.81 226.568 0)
 			(effects
 				(font
@@ -48379,7 +49205,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U6")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -48394,7 +49220,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cfca4fe3-2415-448a-9bf7-cdd33b560b57")
-		(property "Reference" "D13"
+		(property "Reference" "D12"
 			(at 513.08 227.076 0)
 			(effects
 				(font
@@ -48464,7 +49290,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D13")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -48615,7 +49441,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d2f17f9f-2e18-41b4-b62b-20bccbd6f98a")
-		(property "Reference" "D12"
+		(property "Reference" "D11"
 			(at 474.98 227.076 0)
 			(effects
 				(font
@@ -48685,7 +49511,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D12")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -48822,6 +49648,76 @@
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
 					(reference "C36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 205.74 57.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d5e47d7e-005a-4be3-a730-c1b134ec9d06")
+		(property "Reference" "C94"
+			(at 208.28 55.8862 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 208.28 58.4262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 205.74 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 205.74 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 205.74 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e27bae2-0c0c-46a0-958f-b3f002ca6045")
+		)
+		(pin "2"
+			(uuid "56aa9401-2d6c-4336-b3bd-ed3547173cc6")
+		)
+		(instances
+			(project "PCB-Keyboard-EDIPO"
+				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
+					(reference "C94")
 					(unit 1)
 				)
 			)
@@ -48968,7 +49864,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d7e6b599-43dd-462a-aa8d-78ee774b6c75")
-		(property "Reference" "U51"
+		(property "Reference" "U50"
 			(at 334.01 295.148 0)
 			(effects
 				(font
@@ -49032,7 +49928,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U51")
+					(reference "U50")
 					(unit 1)
 				)
 			)
@@ -49113,7 +50009,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d93f28a1-bac4-418a-baba-b2d51c265f1d")
-		(property "Reference" "U60"
+		(property "Reference" "U59"
 			(at 181.61 318.008 0)
 			(effects
 				(font
@@ -49177,7 +50073,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U60")
+					(reference "U59")
 					(unit 1)
 				)
 			)
@@ -49394,7 +50290,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da748f5b-4f39-44f8-bde1-bc1cdc1d3bc2")
-		(property "Reference" "D35"
+		(property "Reference" "D34"
 			(at 246.38 272.796 0)
 			(effects
 				(font
@@ -49464,7 +50360,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D35")
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -49736,7 +50632,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 180.34 57.15 0)
+		(at 166.37 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -49745,7 +50641,7 @@
 		(fields_autoplaced yes)
 		(uuid "dcbf117e-52be-4336-9356-c8a6a7a34d40")
 		(property "Reference" "C84"
-			(at 182.88 55.8862 0)
+			(at 168.91 55.8862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49754,7 +50650,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 182.88 58.4262 0)
+			(at 168.91 58.4262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49763,7 +50659,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 180.34 57.15 0)
+			(at 166.37 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49772,7 +50668,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 180.34 57.15 0)
+			(at 166.37 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49781,7 +50677,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 180.34 57.15 0)
+			(at 166.37 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49813,7 +50709,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dcd2f5c6-1c05-4557-a640-a00b96d88ec9")
-		(property "Reference" "U46"
+		(property "Reference" "U45"
 			(at 143.51 295.148 0)
 			(effects
 				(font
@@ -49877,7 +50773,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U46")
+					(reference "U45")
 					(unit 1)
 				)
 			)
@@ -49892,7 +50788,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dce4ac32-dfdb-4be2-8235-2075ea164d55")
-		(property "Reference" "U13"
+		(property "Reference" "U12"
 			(at 524.51 226.568 0)
 			(effects
 				(font
@@ -49956,7 +50852,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U13")
+					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -49971,7 +50867,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dcf268e8-58c1-4ca4-afb0-2c6425d9be0d")
-		(property "Reference" "D68"
+		(property "Reference" "D67"
 			(at 474.98 318.516 0)
 			(effects
 				(font
@@ -50041,7 +50937,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D68")
+					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -50385,7 +51281,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 153.67 57.15 0)
+		(at 130.81 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -50394,7 +51290,7 @@
 		(fields_autoplaced yes)
 		(uuid "e16b1b5c-4096-4933-b830-9b023980b62c")
 		(property "Reference" "C81"
-			(at 156.21 55.8862 0)
+			(at 133.35 55.8862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50403,7 +51299,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 156.21 58.4262 0)
+			(at 133.35 58.4262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50412,7 +51308,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 153.67 57.15 0)
+			(at 130.81 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50421,7 +51317,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 57.15 0)
+			(at 130.81 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50430,7 +51326,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 153.67 57.15 0)
+			(at 130.81 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50664,7 +51560,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e5bee32f-64c0-418e-8552-0840638a9368")
-		(property "Reference" "D25"
+		(property "Reference" "D24"
 			(at 398.78 249.936 0)
 			(effects
 				(font
@@ -50734,7 +51630,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D25")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -50953,7 +51849,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e791d66b-3807-4846-8877-d8f53b8d6049")
-		(property "Reference" "U42"
+		(property "Reference" "U41"
 			(at 524.51 272.288 0)
 			(effects
 				(font
@@ -51017,7 +51913,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U42")
+					(reference "U41")
 					(unit 1)
 				)
 			)
@@ -51032,7 +51928,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e844de3e-b574-4595-a073-8a38c8ed65a5")
-		(property "Reference" "D33"
+		(property "Reference" "D32"
 			(at 170.18 272.796 0)
 			(effects
 				(font
@@ -51102,7 +51998,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D33")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -51189,7 +52085,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e919d062-882a-49e5-83c9-61473a1ebe5d")
-		(property "Reference" "U68"
+		(property "Reference" "U67"
 			(at 486.41 318.008 0)
 			(effects
 				(font
@@ -51253,7 +52149,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U68")
+					(reference "U67")
 					(unit 1)
 				)
 			)
@@ -51268,7 +52164,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e962ef32-3f16-4e0f-b118-3de8cf7336a5")
-		(property "Reference" "U17"
+		(property "Reference" "U16"
 			(at 105.41 249.428 0)
 			(effects
 				(font
@@ -51332,7 +52228,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U17")
+					(reference "U16")
 					(unit 1)
 				)
 			)
@@ -51347,7 +52243,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e967d31d-4e2f-4209-b247-c4b1c2daf3d0")
-		(property "Reference" "U64"
+		(property "Reference" "U63"
 			(at 334.01 318.008 0)
 			(effects
 				(font
@@ -51411,7 +52307,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U64")
+					(reference "U63")
 					(unit 1)
 				)
 			)
@@ -51562,7 +52458,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e9d523d9-bed5-4d93-93ae-56d7c71cd8b1")
-		(property "Reference" "U70"
+		(property "Reference" "U69"
 			(at 600.71 318.008 0)
 			(effects
 				(font
@@ -51626,7 +52522,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U70")
+					(reference "U69")
 					(unit 1)
 				)
 			)
@@ -51641,7 +52537,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e9f01d91-be33-4552-8b3c-2b4d86202b82")
-		(property "Reference" "U15"
+		(property "Reference" "U14"
 			(at 600.71 226.568 0)
 			(effects
 				(font
@@ -51705,7 +52601,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U15")
+					(reference "U14")
 					(unit 1)
 				)
 			)
@@ -51852,7 +52748,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "edd6d626-7b9b-4ac7-9cd7-7ecf6bbfe459")
-		(property "Reference" "U22"
+		(property "Reference" "U21"
 			(at 295.91 249.428 0)
 			(effects
 				(font
@@ -51916,7 +52812,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U22")
+					(reference "U21")
 					(unit 1)
 				)
 			)
@@ -51931,7 +52827,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ee8e2557-5459-4f3c-8072-07e36250d18d")
-		(property "Reference" "D17"
+		(property "Reference" "D16"
 			(at 93.98 249.936 0)
 			(effects
 				(font
@@ -52001,7 +52897,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D17")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -52082,7 +52978,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ef89594a-5a1f-4b87-8f88-a7a89f308f91")
-		(property "Reference" "U74"
+		(property "Reference" "U73"
 			(at 334.01 340.868 0)
 			(effects
 				(font
@@ -52146,7 +53042,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U74")
+					(reference "U73")
 					(unit 1)
 				)
 			)
@@ -52746,7 +53642,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f44d5e17-1ba6-4c6c-b903-c33702776584")
-		(property "Reference" "D3"
+		(property "Reference" "D2"
 			(at 132.08 227.076 0)
 			(effects
 				(font
@@ -52816,7 +53712,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D3")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -52831,7 +53727,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f4516f10-a548-4004-9392-7d3187ea889d")
-		(property "Reference" "D53"
+		(property "Reference" "D52"
 			(at 398.78 295.656 0)
 			(effects
 				(font
@@ -52901,7 +53797,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D53")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -52916,7 +53812,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f469b7c1-f130-4fe2-8484-ab4075b43f4e")
-		(property "Reference" "D8"
+		(property "Reference" "D7"
 			(at 322.58 227.076 0)
 			(effects
 				(font
@@ -52986,7 +53882,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D8")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -53125,6 +54021,70 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 523.24 320.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f66f777d-79ce-4719-8c90-986c497f19fb")
+		(property "Reference" "S4"
+			(at 529.59 318.6429 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MX_stab"
+			(at 529.59 321.1829 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_1.75u"
+			(at 523.24 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 523.24 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 523.24 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "PCB-Keyboard-EDIPO"
+				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
+					(reference "S4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CherryMX:CherryMX_LTST-A683CEGBW")
 		(at 448.31 347.98 0)
 		(unit 1)
@@ -53133,7 +54093,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f6c0d5d6-d983-41ae-9b91-09674745a05f")
-		(property "Reference" "U75"
+		(property "Reference" "U74"
 			(at 448.31 340.868 0)
 			(effects
 				(font
@@ -53197,7 +54157,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U75")
+					(reference "U74")
 					(unit 1)
 				)
 			)
@@ -53271,7 +54231,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 200.66 57.15 0)
+		(at 186.69 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -53280,7 +54240,7 @@
 		(fields_autoplaced yes)
 		(uuid "f7a36a3a-ef8b-4e9e-9cc2-9373ca6885c2")
 		(property "Reference" "C86"
-			(at 203.2 55.8862 0)
+			(at 189.23 55.8862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53289,7 +54249,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 203.2 58.4262 0)
+			(at 189.23 58.4262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53298,7 +54258,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 200.66 57.15 0)
+			(at 186.69 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53307,7 +54267,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 200.66 57.15 0)
+			(at 186.69 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53316,7 +54276,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 200.66 57.15 0)
+			(at 186.69 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53348,7 +54308,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f83a5ba3-803c-48f8-ad6c-b69d5cdea0c4")
-		(property "Reference" "D75"
+		(property "Reference" "D74"
 			(at 436.88 341.376 0)
 			(effects
 				(font
@@ -53418,77 +54378,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D75")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 316.23 66.04 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f8631986-4e68-41be-ab2f-0d1d2a00e3ad")
-		(property "Reference" "C1"
-			(at 318.77 64.7762 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 318.77 67.3162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 316.23 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 316.23 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 316.23 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "24363575-38df-4d35-812c-1492893d6598")
-		)
-		(pin "2"
-			(uuid "1dfc9520-51da-44e4-9c4f-151d86aa2e28")
-		)
-		(instances
-			(project "PCB-Keyboard-EDIPO"
-				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "C1")
+					(reference "D74")
 					(unit 1)
 				)
 			)
@@ -53573,7 +54463,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f8bd849d-ad57-4571-8b12-45e2918c6d90")
-		(property "Reference" "U62"
+		(property "Reference" "U61"
 			(at 257.81 318.008 0)
 			(effects
 				(font
@@ -53637,7 +54527,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U62")
+					(reference "U61")
 					(unit 1)
 				)
 			)
@@ -53718,7 +54608,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f98aee6b-9cda-412e-91c9-527d18b7bc81")
-		(property "Reference" "D54"
+		(property "Reference" "D53"
 			(at 436.88 295.656 0)
 			(effects
 				(font
@@ -53788,7 +54678,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D54")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -53803,7 +54693,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f9ccabb0-85a7-4ab5-a0b1-dd996daeab0b")
-		(property "Reference" "D69"
+		(property "Reference" "D68"
 			(at 551.18 318.516 0)
 			(effects
 				(font
@@ -53873,7 +54763,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D69")
+					(reference "D68")
 					(unit 1)
 				)
 			)
@@ -53954,7 +54844,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "faae4367-c725-4d9e-bdc4-4bca591d9ae8")
-		(property "Reference" "U28"
+		(property "Reference" "U27"
 			(at 524.51 249.428 0)
 			(effects
 				(font
@@ -54018,7 +54908,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U28")
+					(reference "U27")
 					(unit 1)
 				)
 			)
@@ -54099,7 +54989,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fbf9ae34-97da-4d15-ae74-6568f502dbab")
-		(property "Reference" "U79"
+		(property "Reference" "U78"
 			(at 600.71 340.868 0)
 			(effects
 				(font
@@ -54163,7 +55053,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U79")
+					(reference "U78")
 					(unit 1)
 				)
 			)
@@ -54244,7 +55134,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fc2de98c-9c5f-4c99-9ff8-29aea2192db9")
-		(property "Reference" "D48"
+		(property "Reference" "D47"
 			(at 208.28 295.656 0)
 			(effects
 				(font
@@ -54314,7 +55204,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D48")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -54530,7 +55420,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fd140406-e716-4528-a116-970c4d6af2a3")
-		(property "Reference" "U27"
+		(property "Reference" "U26"
 			(at 486.41 249.428 0)
 			(effects
 				(font
@@ -54594,7 +55484,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "U27")
+					(reference "U26")
 					(unit 1)
 				)
 			)
@@ -54817,7 +55707,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ffbf8705-5360-48ea-b09c-07e126453fc5")
-		(property "Reference" "D47"
+		(property "Reference" "D46"
 			(at 170.18 295.656 0)
 			(effects
 				(font
@@ -54887,7 +55777,7 @@
 		(instances
 			(project "PCB-Keyboard-EDIPO"
 				(path "/3ed5a932-ba49-43da-909f-e157454f671b"
-					(reference "D47")
+					(reference "D46")
 					(unit 1)
 				)
 			)
